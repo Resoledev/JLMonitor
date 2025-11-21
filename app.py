@@ -2,12 +2,19 @@
 Complete Flask app for SaleScout with modern design and recently added tracking
 """
 from flask import Flask, render_template, jsonify, request
+from flask_caching import Cache
 import csv
 import os
 import json
 from datetime import datetime, timedelta
 
 app = Flask(__name__)
+
+# Configure caching for better performance
+cache = Cache(app, config={
+    'CACHE_TYPE': 'simple',
+    'CACHE_DEFAULT_TIMEOUT': 60  # Cache for 60 seconds
+})
 
 # Price history file paths
 PRICE_HISTORY_FILES = {
@@ -74,6 +81,7 @@ def is_recently_added(timestamp_str):
     except (ValueError, TypeError) as e:
         return False
 
+@cache.memoize(timeout=60)
 def read_selfridges_csv(csv_path='salescout_selfridges.csv'):
     """Read Selfridges CSV data with recently reduced detection"""
     products = []
@@ -131,6 +139,7 @@ def read_selfridges_csv(csv_path='salescout_selfridges.csv'):
 
     return products
 
+@cache.memoize(timeout=60)
 def read_johnlewis_csv(csv_path=os.path.join(os.path.dirname(__file__), 'johnlewisv2.csv')):
     """Read John Lewis CSV data with recently reduced and recently added detection"""
     products = []
