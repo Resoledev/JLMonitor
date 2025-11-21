@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+<html lang="en" data-retailer="{{ retailer_key }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ retailer }} Deals - Sale Scout</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0a;
+            --bg-secondary: rgba(20, 20, 25, 0.85);
+            --bg-glass: rgba(255, 255, 255, 0.05);
+            --text-primary: #ffffff;
+            --text-secondary: rgba(255, 255, 255, 0.7);
+            --text-muted: rgba(255, 255, 255, 0.5);
+            --accent: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --border: rgba(255, 255, 255, 0.1);
+            --border-glow: rgba(255, 255, 255, 0.2);
+            --success: #10b981;
+            --success-glow: rgba(16, 185, 129, 0.3);
+            --warning: #f59e0b;
+            --warning-glow: rgba(245, 158, 11, 0.3);
+            --danger: #ef4444;
+            --recently-reduced: #ff6b35;
+            --recently-reduced-glow: rgba(255, 107, 53, 0.4);
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            --shadow-glow: 0 8px 32px var(--accent-glow);
+            --glass-blur: blur(24px);
+            --gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --gradient-secondary: linear-gradient(135deg, #8b5cf6 0%, #667eea 100%);
+            --gradient-reduced: linear-gradient(135deg, #ff6b35 0%, #f59e0b 100%);
+        }
+
+        body.light-mode {
+            --bg-primary: #f8fafc;
+            --bg-secondary: rgba(255, 255, 255, 0.9);
+            --bg-glass: rgba(255, 255, 255, 0.7);
+            --text-primary: #0f172a;
+            --text-secondary: rgba(15, 23, 42, 0.7);
+            --text-muted: rgba(15, 23, 42, 0.5);
+            --border: rgba(15, 23, 42, 0.1);
+            --border-glow: rgba(59, 130, 246, 0.2);
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            --recently-reduced: #ea580c;
+            --recently-reduced-glow: rgba(234, 88, 12, 0.2);
+        }
+
+        [data-retailer="selfridges"] {
+            --accent: #8b5cf6;
+            --accent-glow: rgba(139, 92, 246, 0.3);
+            --gradient-primary: linear-gradient(135deg, #8b5cf6 0%, #667eea 100%);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+            font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+        /* Glassmorphic Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            -webkit-backdrop-filter: var(--glass-blur);
+            border-bottom: 1px solid var(--border);
+            transition: all 0.3s ease;
+        }
+
+        .nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 80px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            text-decoration: none;
+            transition: transform 0.3s ease;
+        }
+
+        .logo:hover {
+            transform: translateY(-2px);
+        }
+
+        .logo-image {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            object-fit: contain;
+            filter: drop-shadow(0 4px 12px var(--accent-glow));
+        }
+
+        .logo-text {
+            font-size: 28px;
+            font-weight: 800;
+            color: var(--text-primary);
+            letter-spacing: -0.02em;
+        }
+
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            font-weight: 600;
+            font-size: 14px;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .nav-link:hover {
+            transform: translateY(-2px);
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .theme-toggle {
+            width: 48px;
+            height: 48px;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.05) translateY(-2px);
+            box-shadow: var(--shadow-glow);
+            border-color: var(--border-glow);
+        }
+
+        /* Stats Hero with Glassmorphism */
+        .stats-hero {
+            background: var(--bg-secondary);
+            backdrop-filter: var(--glass-blur);
+            padding: 120px 0 60px;
+            border-bottom: 1px solid var(--border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stats-hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -25%;
+            width: 150%;
+            height: 200%;
+            background: conic-gradient(from 0deg at 50% 50%, transparent, var(--accent-glow), transparent, var(--success-glow), transparent);
+            animation: rotate 30s linear infinite;
+            opacity: 0.1;
+        }
+
+        @keyframes rotate {
+            to { transform: rotate(360deg); }
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 32px;
+            position: relative;
+            z-index: 2;
+            perspective: 1000px;
+        }
+
+        .stat-card {
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 40px 24px;
+            text-align: center;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transition: left 0.6s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-8px) rotateX(5deg);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+            border-color: var(--border-glow);
+        }
+
+        .stat-card:hover::before {
+            left: 100%;
+        }
+
+        .stat-number {
+            font-size: 36px;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1;
+            margin-bottom: 12px;
+            filter: drop-shadow(0 0 12px var(--accent-glow));
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        /* Advanced Filtering Interface */
+        .filters-section {
+            padding: 60px 0;
+            background: var(--bg-primary);
+        }
+
+        .filters {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            padding: 40px;
+            border-radius: 24px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .filters::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, var(--accent-glow), transparent, var(--success-glow));
+            opacity: 0.02;
+        }
+
+        .search-input, .filter-select {
+            padding: 16px 20px;
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            color: var(--text-primary);
+            font-size: 15px;
+            font-weight: 500;
+            min-width: 220px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: inherit;
+            position: relative;
+            z-index: 2;
+        }
+
+        .search-input:focus, .filter-select:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px var(--accent-glow);
+            transform: translateY(-2px);
+        }
+
+        .search-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .filter-select {
+            appearance: none;
+            cursor: pointer;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 16px center;
+            background-size: 16px;
+        }
+
+        .filter-btn {
+            padding: 16px 32px;
+            background: var(--gradient-primary);
+            color: white;
+            border: none;
+            border-radius: 16px;
+            font-weight: 700;
+            font-size: 15px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: var(--shadow);
+            position: relative;
+            z-index: 2;
+        }
+
+        .filter-btn:hover {
+            transform: translateY(-4px) scale(1.02);
+            box-shadow: 0 12px 48px var(--accent-glow);
+        }
+
+        /* NEW: View Toggle Controls */
+        .view-controls {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 32px;
+        }
+
+        .view-toggle {
+            display: flex;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+
+        .view-btn {
+            padding: 12px 20px;
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            font-family: inherit;
+        }
+
+        .view-btn.active {
+            background: var(--gradient-primary);
+            color: white;
+            box-shadow: 0 0 12px var(--accent-glow);
+        }
+
+        .view-btn:not(.active):hover {
+            color: var(--text-primary);
+            background: var(--bg-secondary);
+        }
+
+        /* Premium Product Grid */
+        .products-section {
+            padding: 60px 0;
+            background: var(--bg-primary);
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 32px;
+            margin-bottom: 60px;
+            perspective: 1200px;
+            transition: all 0.5s ease;
+        }
+
+        /* NEW: Gallery View Styles */
+        .products-gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+            gap: 40px;
+            margin-bottom: 60px;
+            perspective: 1200px;
+            transition: all 0.5s ease;
+        }
+
+        .products-gallery .product-card {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            min-height: 360px;
+            aspect-ratio: auto;
+        }
+
+        .products-gallery .product-image-container {
+            width: 320px;
+            height: 360px;
+            margin: 0;
+        }
+
+        .products-gallery .product-image {
+            object-fit: contain;
+            padding: 16px;
+        }
+
+        .products-gallery .product-info {
+            padding: 32px;
+            height: 360px;
+        }
+
+        .products-gallery .product-name {
+            font-size: 20px;
+            -webkit-line-clamp: 3;
+            min-height: 75px;
+        }
+
+        .products-gallery .current-price {
+            font-size: 28px;
+        }
+
+        .product-card {
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            border-radius: 24px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            box-shadow: var(--shadow);
+            aspect-ratio: 1;
+            min-height: 480px;
+        }
+
+        .product-card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, var(--accent-glow), transparent);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 1;
+        }
+
+        .product-card:hover {
+            transform: translateY(-12px) scale(1.02) rotateX(2deg);
+            box-shadow: 0 32px 80px rgba(0, 0, 0, 0.4);
+            border-color: var(--border-glow);
+        }
+
+        .product-card:hover::before {
+            opacity: 0.03;
+        }
+
+        .product-card.recently-reduced {
+            border: 2px solid var(--recently-reduced);
+            box-shadow: 0 8px 32px var(--recently-reduced-glow);
+        }
+
+        .product-card.recently-reduced::before {
+            background: linear-gradient(135deg, var(--recently-reduced-glow), transparent);
+        }
+
+        .product-card.recently-reduced:hover {
+            box-shadow: 0 32px 80px var(--recently-reduced-glow);
+        }
+
+        .product-image-container {
+            position: relative;
+            width: 100%;
+            height: 240px;
+            overflow: hidden;
+        }
+
+        .product-image {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            object-position: center;
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--border) 100%);
+            transition: transform 0.5s ease;
+            position: relative;
+            z-index: 2;
+        }
+
+        .product-card:hover .product-image {
+            transform: scale(1.05);
+        }
+
+        .image-placeholder {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--border) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-muted);
+            font-size: 14px;
+            font-weight: 500;
+            position: relative;
+            z-index: 2;
+        }
+
+        .product-badges {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            right: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            z-index: 3;
+        }
+
+        .discount-badge {
+            background: var(--gradient-primary);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 100px;
+            font-weight: 800;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 12px var(--accent-glow);
+            animation: pulse-glow 2s infinite;
+        }
+
+        .product-card.recently-reduced .discount-badge {
+            background: var(--gradient-reduced);
+            box-shadow: 0 4px 12px var(--recently-reduced-glow);
+        }
+
+        .recently-reduced-badge {
+            background: var(--gradient-reduced);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 100px;
+            font-weight: 800;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 12px var(--recently-reduced-glow);
+            animation: fire-pulse 1.5s infinite;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .recently-added-badge {
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 100px;
+            font-weight: 800;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 12px var(--success-glow);
+            animation: pulse-glow 2s infinite;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% { box-shadow: 0 4px 12px var(--accent-glow); }
+            50% { box-shadow: 0 4px 24px var(--accent-glow); }
+        }
+
+        @keyframes fire-pulse {
+            0%, 100% {
+                transform: scale(1);
+                box-shadow: 0 4px 12px var(--recently-reduced-glow);
+            }
+            50% {
+                transform: scale(1.05);
+                box-shadow: 0 6px 24px var(--recently-reduced-glow);
+            }
+        }
+
+        .product-info {
+            padding: 32px;
+            position: relative;
+            z-index: 2;
+            height: calc(100% - 240px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-name {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.4;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 50px;
+        }
+
+        .product-prices {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+        }
+
+        .current-price {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--accent);
+            filter: drop-shadow(0 0 8px var(--accent-glow));
+        }
+
+        .original-price {
+            text-decoration: line-through;
+            color: var(--text-muted);
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .savings-amount {
+            color: var(--success);
+            font-weight: 700;
+            font-size: 14px;
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            padding: 4px 12px;
+            border-radius: 8px;
+            border: 1px solid var(--success);
+            box-shadow: 0 2px 8px var(--success-glow);
+        }
+
+        .product-sizes {
+            color: var(--text-secondary);
+            font-size: 13px;
+            margin-bottom: 16px;
+            line-height: 1.4;
+            font-weight: 500;
+        }
+
+        .product-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+            margin-top: auto;
+        }
+
+        .stock-status {
+            padding: 8px 16px;
+            border-radius: 100px;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .in-stock {
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            color: var(--success);
+            border: 1px solid var(--success);
+            box-shadow: 0 2px 8px var(--success-glow);
+        }
+
+        .out-of-stock {
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            color: var(--warning);
+            border: 1px solid var(--warning);
+            box-shadow: 0 2px 8px var(--warning-glow);
+        }
+
+        .retailer-badge {
+            background: var(--gradient-primary);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 100px;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 2px 8px var(--accent-glow);
+        }
+
+        .product-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            height: 100%;
+        }
+
+        .no-products {
+            text-align: center;
+            padding: 120px 40px;
+            color: var(--text-secondary);
+            background: var(--bg-glass);
+            backdrop-filter: var(--glass-blur);
+            border-radius: 24px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+        }
+
+        .no-products h3 {
+            font-size: 28px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+            font-weight: 800;
+        }
+
+        .no-products p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        /* Loading States with Shimmer */
+        .products-grid.loading {
+            opacity: 0.6;
+            pointer-events: none;
+        }
+
+        .loading-spinner {
+            display: none;
+            width: 60px;
+            height: 60px;
+            margin: 60px auto;
+            border: 4px solid var(--border);
+            border-top: 4px solid var(--accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            filter: drop-shadow(0 0 12px var(--accent-glow));
+        }
+
+        .products-grid.loading .loading-spinner {
+            display: block;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .container { padding: 0 20px; }
+
+            .nav {
+                flex-direction: column;
+                gap: 16px;
+                padding: 16px 0;
+                height: auto;
+            }
+
+            .nav-actions {
+                width: 100%;
+                justify-content: space-between;
+            }
+
+            .stats-hero {
+                padding: 100px 0 40px;
+            }
+
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 32px 24px;
+            }
+
+            .search-input, .filter-select {
+                min-width: auto;
+            }
+
+            .view-controls {
+                justify-content: center;
+                margin-bottom: 24px;
+            }
+
+            .products-grid {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
+            .products-gallery {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            .products-gallery .product-card {
+                grid-template-columns: 1fr;
+                min-height: 500px;
+                max-width: 100vw;
+            }
+
+            .products-gallery .product-image-container {
+                width: 100%;
+                height: 320px;
+            }
+
+            .products-gallery .product-image {
+                height: 320px;
+                object-fit: contain;
+                padding: 16px;
+            }
+
+            .products-gallery .product-info {
+                height: auto;
+                padding: 32px 24px;
+            }
+
+            .products-gallery .product-name {
+                font-size: 18px;
+                -webkit-line-clamp: 3;
+                min-height: auto;
+                margin-bottom: 20px;
+            }
+
+            .products-gallery .current-price {
+                font-size: 24px;
+            }
+
+            .product-card {
+                min-height: 400px;
+            }
+
+            .product-image-container {
+                height: 200px;
+            }
+
+            .product-info {
+                height: calc(100% - 200px);
+                padding: 24px;
+            }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .product-card:hover {
+                transform: translateY(-8px) scale(1.01);
+            }
+
+            .current-price {
+                font-size: 20px;
+            }
+
+            .product-name {
+                font-size: 16px;
+            }
+        }
+
+        /* Accessibility */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+
+        /* Focus styles for keyboard navigation */
+        .product-link:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 4px;
+            border-radius: 24px;
+        }
+
+        .search-input:focus-visible,
+        .filter-select:focus-visible,
+        .filter-btn:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        .nav-link:focus-visible,
+        .theme-toggle:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        .view-btn:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <a href="/" class="logo">
+                    <img src="https://i.ibb.co/60C5BBMV/Pegasus-removebg-preview.png" alt="Sale Scout" class="logo-image">
+                    <div class="logo-text">Sale Scout</div>
+                </a>
+                <div class="nav-actions">
+                    <a href="/" class="nav-link">← All Monitors</a>
+                    <button class="theme-toggle" id="themeToggle">
+                        <span id="themeIcon">🌙</span>
+                    </button>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="stats-hero">
+        <div class="container">
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.total_products }}</div>
+                    <div class="stat-label">Active deals</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.max_discount }}%</div>
+                    <div class="stat-label">Max discount</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.recently_reduced_count }}</div>
+                    <div class="stat-label">Recently reduced</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.recently_added_count }}</div>
+                    <div class="stat-label">Recently added</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">£{{ "%.0f"|format(stats.total_savings) }}</div>
+                    <div class="stat-label">Total savings</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="filters-section">
+        <div class="container">
+            <form class="filters" method="GET">
+                <input type="text" name="search" class="search-input" placeholder="Search products..."
+                       value="{{ current_search }}" autocomplete="off">
+
+                <select name="sort" class="filter-select">
+                    <option value="discount" {% if current_sort == 'discount' %}selected{% endif %}>Sort by discount</option>
+                    <option value="recently_reduced" {% if current_sort == 'recently_reduced' %}selected{% endif %}>Recently reduced first</option>
+                    <option value="recently_added" {% if current_sort == 'recently_added' %}selected{% endif %}>Recently added first</option>
+                    <option value="net_reduction" {% if current_sort == 'net_reduction' %}selected{% endif %}>Highest savings</option>
+                    <option value="price" {% if current_sort == 'price' %}selected{% endif %}>Price (low to high)</option>
+                    <option value="name" {% if current_sort == 'name' %}selected{% endif %}>Name (A-Z)</option>
+                </select>
+
+                <select name="category" class="filter-select">
+                    <option value="">All categories</option>
+                    {% if retailer_key == 'johnlewis' %}
+                        <option value="john lewis branded" {% if current_category == 'john lewis branded' %}selected{% endif %}>John Lewis branded</option>
+                        <option value="boots" {% if current_category == 'boots' %}selected{% endif %}>Boots</option>
+                    {% else %}
+                        <option value="women" {% if current_category == 'women' %}selected{% endif %}>Women's</option>
+                        <option value="men" {% if current_category == 'men' %}selected{% endif %}>Men's</option>
+                    {% endif %}
+                </select>
+
+                <select name="recently_added" class="filter-select">
+                    <option value="">Show all items</option>
+                    <option value="true" {% if current_recently_added == 'true' %}selected{% endif %}>Recently added only</option>
+                </select>
+
+                <button type="submit" class="filter-btn">
+                    Apply filters
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <main class="products-section">
+        <div class="container">
+            {% if products %}
+            <!-- NEW: View Toggle Controls -->
+            <div class="view-controls">
+                <div class="view-toggle">
+                    <button class="view-btn active" data-view="grid" id="gridViewBtn">
+                        <span>⊞</span> Grid View
+                    </button>
+                    <button class="view-btn" data-view="gallery" id="galleryViewBtn">
+                        <span>⊟</span> Gallery View
+                    </button>
+                </div>
+            </div>
+
+            <div class="products-grid" id="productsContainer">
+                <div class="loading-spinner"></div>
+                {% for product in products %}
+                <a href="{{ product.url }}" class="product-link" target="_blank" rel="noopener">
+                    <div class="product-card {% if product.recently_reduced %}recently-reduced{% endif %}">
+                        <div class="product-image-container">
+                            {% if product.image %}
+                            <img src="{{ product.image }}" alt="{{ product.name }}" class="product-image"
+                                 onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                            <div class="image-placeholder" style="display: none;">
+                                No image available
+                            </div>
+                            {% else %}
+                            <div class="image-placeholder">
+                                No image available
+                            </div>
+                            {% endif %}
+
+                            <div class="product-badges">
+                                <div>
+                                    {% if product.discount > 0 %}
+                                    <div class="discount-badge">-{{ product.discount|round(1) }}%</div>
+                                    {% endif %}
+                                </div>
+
+                                <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-end;">
+                                    {% if product.recently_reduced %}
+                                    <div class="recently-reduced-badge">
+                                        <span>🔥</span>
+                                        Recently Reduced
+                                    </div>
+                                    {% endif %}
+
+                                    {% if product.recently_added %}
+                                    <div class="recently-added-badge">
+                                        <span>✨</span>
+                                        Recently Added
+                                    </div>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="product-info">
+                            <h3 class="product-name">{{ product.name }}</h3>
+
+                            <div class="product-prices">
+                                <span class="current-price">£{{ "%.2f"|format(product.current_price) }}</span>
+                                {% if product.original_price and product.original_price > product.current_price %}
+                                <span class="original-price">£{{ "%.2f"|format(product.original_price) }}</span>
+                                <span class="savings-amount">Save £{{ "%.2f"|format(product.original_price - product.current_price) }}</span>
+                                {% endif %}
+                            </div>
+
+                            {% if product.sizes and product.sizes != 'See product page' %}
+                            <div class="product-sizes">
+                                <strong>Sizes:</strong> {{ product.sizes[:60] }}{% if product.sizes|length > 60 %}...{% endif %}
+                            </div>
+                            {% endif %}
+
+                            <div class="product-meta">
+                                <span class="stock-status {{ 'in-stock' if 'In Stock' in product.stock_status else 'out-of-stock' }}">
+                                    {{ product.stock_status }}
+                                </span>
+                                <span class="retailer-badge">{{ product.retailer }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="no-products">
+                <h3>No products found</h3>
+                <p>Try adjusting your filters or check back later for new deals from {{ retailer }}</p>
+            </div>
+            {% endif %}
+        </div>
+    </main>
+
+    <script>
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const body = document.body;
+
+        // Enhanced theme detection
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const savedTheme = localStorage.getItem('theme');
+
+        if (savedTheme) {
+            body.classList.toggle('light-mode', savedTheme === 'light');
+            themeIcon.textContent = savedTheme === 'light' ? '☀️' : '🌙';
+        } else if (!prefersDark) {
+            body.classList.add('light-mode');
+            themeIcon.textContent = '☀️';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            body.classList.toggle('light-mode');
+            const isLight = body.classList.contains('light-mode');
+            themeIcon.textContent = isLight ? '☀️' : '🌙';
+            localStorage.setItem('theme', isLight ? 'light' : 'dark');
+        });
+
+        // NEW: View Toggle Functionality
+        const gridViewBtn = document.getElementById('gridViewBtn');
+        const galleryViewBtn = document.getElementById('galleryViewBtn');
+        const productsContainer = document.getElementById('productsContainer');
+
+        // Load saved view preference
+        const savedView = localStorage.getItem('salescout-view-preference') || 'grid';
+        switchView(savedView);
+
+        function switchView(view) {
+            // Update button states
+            gridViewBtn.classList.toggle('active', view === 'grid');
+            galleryViewBtn.classList.toggle('active', view === 'gallery');
+
+            // Update container class
+            productsContainer.className = view === 'gallery' ? 'products-gallery' : 'products-grid';
+
+            // Save preference
+            localStorage.setItem('salescout-view-preference', view);
+        }
+
+        gridViewBtn.addEventListener('click', () => switchView('grid'));
+        galleryViewBtn.addEventListener('click', () => switchView('gallery'));
+
+        // Enhanced loading state management
+        const form = document.querySelector('.filters');
+
+        if (form) {
+            form.addEventListener('submit', () => {
+                productsContainer.classList.add('loading');
+            });
+        }
+
+        // Remove loading state when page is fully loaded
+        window.addEventListener('load', () => {
+            productsContainer.classList.remove('loading');
+        });
+
+        // Ensure loading class is removed
+        document.addEventListener('DOMContentLoaded', () => {
+            productsContainer.classList.remove('loading');
+        });
+
+        // Mouse tracking for 3D card effects
+        document.addEventListener('mousemove', (e) => {
+            const cards = document.querySelectorAll('.product-card');
+
+            cards.forEach(card => {
+                const rect = card.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+
+                const centerX = rect.width / 2;
+                const centerY = rect.height / 2;
+
+                const rotateX = (y - centerY) / 20;
+                const rotateY = (centerX - x) / 20;
+
+                if (x >= 0 && x <= rect.width && y >= 0 && y <= rect.height) {
+                    card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateZ(10px)`;
+                } else {
+                    card.style.transform = '';
+                }
+            });
+        });
+
+        // Header scroll effect with glassmorphism
+        let lastScrollY = window.scrollY;
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('.header');
+            if (window.scrollY > 100) {
+                header.style.background = 'rgba(10, 10, 10, 0.95)';
+                header.style.backdropFilter = 'blur(32px)';
+                if (body.classList.contains('light-mode')) {
+                    header.style.background = 'rgba(248, 250, 252, 0.95)';
+                }
+            } else {
+                header.style.background = 'var(--bg-glass)';
+                header.style.backdropFilter = 'var(--glass-blur)';
+            }
+        });
+
+        // Smooth scroll with momentum for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
