@@ -25,23 +25,35 @@ PRICE_HISTORY_FILES = {
 # Recently added time threshold (hours) - 1 week
 RECENTLY_ADDED_HOURS = 168
 
+# Cache for price history (loaded once, not per product)
+_price_history_cache = {}
+
 def load_price_history(retailer):
-    """Load price history for recently reduced detection"""
+    """Load price history for recently reduced detection (cached)"""
+    # Return cached version if available
+    if retailer in _price_history_cache:
+        return _price_history_cache[retailer]
+
     price_history_file = PRICE_HISTORY_FILES.get(retailer)
-    
+
     # If johnlewis, try the state directory path
     if retailer == 'johnlewis':
         state_dir_path = os.path.join('state', 'price_history.json')
         if os.path.exists(state_dir_path):
             price_history_file = state_dir_path
-    
+
     if not price_history_file or not os.path.exists(price_history_file):
+        _price_history_cache[retailer] = {}
         return {}
 
     try:
         with open(price_history_file, 'r') as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
+            data = json.load(f)
+            _price_history_cache[retailer] = data
+            return data
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error loading price history: {e}")
+        _price_history_cache[retailer] = {}
         return {}
 
 def is_recently_reduced(product_id, retailer):
