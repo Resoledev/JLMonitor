@@ -340,6 +340,24 @@ class PriceHistoryManager:
         except Exception as e:
             logging.error(f"Failed to save price history: {e}")
 
+    def export_recently_reduced_ids(self):
+        """Export list of recently reduced product IDs to lightweight JSON for website"""
+        recently_reduced = []
+        for product_id, entry in self.data.items():
+            if entry.get("recently_reduced"):
+                recently_reduced.append({
+                    "id": product_id,
+                    "reduction": entry.get("reduction_from_initial", 0)
+                })
+
+        output_file = os.path.join(os.path.dirname(self.filepath), 'recently_reduced_ids.json')
+        try:
+            with open(output_file, 'w') as f:
+                json.dump(recently_reduced, f)
+            logging.info(f"Exported {len(recently_reduced)} recently reduced IDs to {output_file}")
+        except Exception as e:
+            logging.error(f"Failed to export recently reduced IDs: {e}")
+
     def update(self, product_id: str, current_price: float, product_name: str) -> bool:
         """Update price history and return if recently reduced - MATCHES V2 LOGIC"""
         current_time = datetime.now().isoformat()
@@ -1233,6 +1251,39 @@ def send_status_webhook(message: str):
         logging.error(f"Status webhook failed: {e}")
 
 
+def run_auto_commit():
+    """Run auto_commit.sh to push changes to GitHub"""
+    import subprocess
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    auto_commit_script = os.path.join(script_dir, 'auto_commit.sh')
+
+    if not os.path.exists(auto_commit_script):
+        logging.warning(f"auto_commit.sh not found at {auto_commit_script}")
+        print("⚠️ auto_commit.sh not found, skipping auto-commit")
+        return
+
+    try:
+        result = subprocess.run(
+            ['bash', auto_commit_script],
+            cwd=script_dir,
+            capture_output=True,
+            text=True,
+            timeout=120
+        )
+        if result.returncode == 0:
+            print("✅ Auto-commit successful")
+            logging.info("Auto-commit completed successfully")
+        else:
+            print(f"⚠️ Auto-commit returned code {result.returncode}")
+            logging.warning(f"Auto-commit stderr: {result.stderr}")
+    except subprocess.TimeoutExpired:
+        print("⚠️ Auto-commit timed out")
+        logging.error("Auto-commit timed out after 120 seconds")
+    except Exception as e:
+        print(f"⚠️ Auto-commit failed: {e}")
+        logging.error(f"Auto-commit failed: {e}")
+
+
 async def run_cycle_async():
     """Run a single monitoring cycle"""
     global price_history_manager, ssl_error_count, excluded_keyword_count
@@ -1299,10 +1350,15 @@ async def run_cycle_async():
 
     # Save price history ONCE at end of cycle
     price_history_manager.save()
+    price_history_manager.export_recently_reduced_ids()
 
     # Clean CSV
     print("\n🧹 Cleaning CSV...")
     clean_old_products_from_csv(all_scanned_ids)
+
+    # Auto-commit to GitHub
+    print("\n📤 Auto-committing to GitHub...")
+    run_auto_commit()
 
     end_time = datetime.now()
     duration = (end_time - start_time).total_seconds()

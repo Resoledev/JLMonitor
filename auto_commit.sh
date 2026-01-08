@@ -11,6 +11,7 @@ cd "$(dirname "$0")"
 # Add updated files
 git add johnlewisv2.csv
 git add state/*.json
+git add state/recently_reduced_ids.json 2>/dev/null || true
 git add logs/*.log 2>/dev/null || true  # Add logs if they exist
 
 # Check if there are changes
