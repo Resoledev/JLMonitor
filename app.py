@@ -51,8 +51,9 @@ def load_price_history(retailer):
             data = json.load(f)
             _price_history_cache[retailer] = data
             return data
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error loading price history: {e}")
+    except Exception as e:
+        # Catch ALL exceptions - don't let price history break the app
+        print(f"Error loading price history (will continue without it): {e}")
         _price_history_cache[retailer] = {}
         return {}
 
