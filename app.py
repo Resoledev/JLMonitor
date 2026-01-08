@@ -29,49 +29,14 @@ RECENTLY_ADDED_HOURS = 168
 _price_history_cache = {}
 
 def load_price_history(retailer):
-    """Load price history for recently reduced detection (cached)"""
-    # Return cached version if available
-    if retailer in _price_history_cache:
-        return _price_history_cache[retailer]
-
-    price_history_file = PRICE_HISTORY_FILES.get(retailer)
-
-    # If johnlewis, try the state directory path
-    if retailer == 'johnlewis':
-        state_dir_path = os.path.join('state', 'price_history.json')
-        if os.path.exists(state_dir_path):
-            price_history_file = state_dir_path
-
-    if not price_history_file or not os.path.exists(price_history_file):
-        _price_history_cache[retailer] = {}
-        return {}
-
-    try:
-        with open(price_history_file, 'r') as f:
-            data = json.load(f)
-            _price_history_cache[retailer] = data
-            return data
-    except Exception as e:
-        # Catch ALL exceptions - don't let price history break the app
-        print(f"Error loading price history (will continue without it): {e}")
-        _price_history_cache[retailer] = {}
-        return {}
+    """Load price history - DISABLED for Render free tier performance"""
+    # Price history loading was causing worker timeouts on Render
+    # The 529KB JSON file was too slow to parse on free tier
+    return {}
 
 def is_recently_reduced(product_id, retailer):
-    """Check if product is recently reduced"""
-    price_history = load_price_history(retailer)
-    product_data = price_history.get(str(product_id), {})
-    
-    if product_data.get("recently_reduced"):
-        reduced_ts = product_data.get("reduced_timestamp")
-        if reduced_ts:
-            try:
-                reduced_dt = datetime.fromisoformat(reduced_ts)
-                # Consider recently reduced if within 1 week
-                if datetime.now() - reduced_dt < timedelta(hours=168):
-                    return True
-            except ValueError:
-                pass
+    """Check if product is recently reduced - DISABLED for performance"""
+    # Disabled to prevent worker timeouts on Render free tier
     return False
 
 def is_recently_added(timestamp_str):
