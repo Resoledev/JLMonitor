@@ -821,7 +821,7 @@
     },
     "112451741": {
         "name": "John Lewis Boxed Velvet Seat Pad",
-        "url": "https://www.johnlewis.com/john-lewis-boxed-velvet-seat-pad/p112451741",
+        "url": "https://www.johnlewis.com/john-lewis-boxed-velvet-seat-pad/petrol/p112451741",
         "original_price": 25.0,
         "latest_price": 12.5,
         "stock_status": "In Stock",
@@ -1626,6 +1626,16 @@
         "latest_price": 42.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6416450": {
+        "name": "John Lewis Safari Animals Reversible Jersey Blanket, 80 x 80cm",
+        "url": "https://www.johnlewis.com/john-lewis-safari-animals-reversible-jersey-blanket-80-x-80cm/p6416450",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T16:58:32.076258",
         "recently_reduced": false,
         "reduced_timestamp": null
     }
