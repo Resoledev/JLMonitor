@@ -12,3 +12,6 @@ requests>=2.31.0
 
 # V3 Async dependencies
 aiohttp>=3.9.0
+
+# Production server (required for Render)
+gunicorn>=21.0.0
