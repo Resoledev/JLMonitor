@@ -244,6 +244,7 @@ def retailer_page(retailer):
     sort_by = request.args.get('sort', 'discount')
     category_filter = request.args.get('category', '')
     recently_added_filter = request.args.get('recently_added', '')
+    recently_reduced_filter = request.args.get('recently_reduced', '')
 
     # Load products
     if retailer == 'selfridges':
@@ -255,8 +256,18 @@ def retailer_page(retailer):
         retailer_name = 'John Lewis'
         color_theme = 'green'
 
+    # Extract unique categories from products (before filtering)
+    all_categories = set()
+    for p in products:
+        cat = p.get('category', '')
+        # Only include valid categories (not URLs or empty)
+        if cat and not cat.startswith('http') and len(cat) < 50:
+            all_categories.add(cat)
+    categories = sorted(all_categories)
+
     print(f"\n=== {retailer_name} Filter Debug ===")
     print(f"Total products loaded: {len(products)}")
+    print(f"Categories found: {categories}")
     print(f"Recently added filter: '{recently_added_filter}'")
     
     # Count recently added BEFORE filtering
@@ -277,12 +288,18 @@ def retailer_page(retailer):
         before_count = len(products)
         products = [p for p in products if p.get('recently_added', False)]
         print(f"Recently added filter applied: {before_count} -> {len(products)} products")
-        
+
         # Debug: Show which products passed
         if products:
             print("Recently added products:")
             for p in products[:5]:  # Show first 5
                 print(f"  - {p['name'][:50]} (added: {p.get('timestamp', 'N/A')})")
+
+    # Recently reduced filter
+    if recently_reduced_filter == 'true':
+        before_count = len(products)
+        products = [p for p in products if p.get('recently_reduced', False)]
+        print(f"Recently reduced filter applied: {before_count} -> {len(products)} products")
 
     # Apply sorting
     if sort_by == 'recently_reduced':
@@ -328,10 +345,12 @@ def retailer_page(retailer):
                          retailer_key=retailer,
                          stats=stats,
                          color_theme=color_theme,
+                         categories=categories,
                          current_search=request.args.get('search', ''),
                          current_sort=sort_by,
                          current_category=category_filter,
-                         current_recently_added=recently_added_filter)
+                         current_recently_added=recently_added_filter,
+                         current_recently_reduced=recently_reduced_filter)
 
 # API endpoints
 @app.route('/api/selfridges')

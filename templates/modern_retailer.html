@@ -967,18 +967,19 @@
 
                 <select name="category" class="filter-select">
                     <option value="">All categories</option>
-                    {% if retailer_key == 'johnlewis' %}
-                        <option value="john lewis branded" {% if current_category == 'john lewis branded' %}selected{% endif %}>John Lewis branded</option>
-                        <option value="boots" {% if current_category == 'boots' %}selected{% endif %}>Boots</option>
-                    {% else %}
-                        <option value="women" {% if current_category == 'women' %}selected{% endif %}>Women's</option>
-                        <option value="men" {% if current_category == 'men' %}selected{% endif %}>Men's</option>
-                    {% endif %}
+                    {% for category in categories %}
+                        <option value="{{ category }}" {% if current_category == category %}selected{% endif %}>{{ category }}</option>
+                    {% endfor %}
                 </select>
 
                 <select name="recently_added" class="filter-select">
-                    <option value="">Show all items</option>
+                    <option value="">All items</option>
                     <option value="true" {% if current_recently_added == 'true' %}selected{% endif %}>Recently added only</option>
+                </select>
+
+                <select name="recently_reduced" class="filter-select">
+                    <option value="">Any price status</option>
+                    <option value="true" {% if current_recently_reduced == 'true' %}selected{% endif %}>Recently reduced only</option>
                 </select>
 
                 <button type="submit" class="filter-btn">
