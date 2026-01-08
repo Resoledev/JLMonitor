@@ -15,6 +15,8 @@ import signal
 import sys
 import csv
 from collections import defaultdict
+from typing import List, Dict, Optional, Set
+import glob
 
 
 # Configure directories and logging for WINDOWS
@@ -231,73 +233,31 @@ def is_recently_added(product_id, state_file):
 
 
 def clean_old_products_from_csv(all_scanned_product_ids):
-    """
-    V2: IMPROVED CSV CLEANING LOGIC
-    
-    Only removes products that are:
-    1. Out of Stock AND haven't been seen in DAYS_TO_KEEP_UNSEEN days
-    2. OR explicitly marked as deleted in state
-    
-    NEVER removes products just because they're below discount threshold
+    """Clean products from CSV that are no longer on John Lewis site.
+
+    Simple rule: if a product wasn't in the current scan, it's gone from the site
+    and should be removed from the CSV. John Lewis removes items regularly.
     """
     if not os.path.exists(CSV_FILE):
         return
-    
-    recently_reduced_ids = get_recently_reduced_products()
-    current_time = datetime.now()
-    
+
     try:
         rows_to_keep = []
         removed_count = 0
-        
+
         with open(CSV_FILE, 'r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             headers = reader.fieldnames
-            
+
             for row in reader:
                 product_id = row.get('Product ID', '')
-                stock_status = row.get('Stock Status', 'Unknown')
-                timestamp_str = row.get('Timestamp', '')
-                
-                # Parse last seen timestamp
-                try:
-                    last_seen = datetime.strptime(timestamp_str, '%Y-%m-%d %H:%M:%S')
-                except:
-                    last_seen = current_time  # If we can't parse, assume recent
-                
-                days_since_seen = (current_time - last_seen).days
-                
-                # KEEP product if ANY of these conditions are true:
-                keep_product = False
-                keep_reason = ""
-                
-                # 1. Currently scanned (seen this cycle)
+
+                # Simple rule: keep only if in current scan
                 if product_id in all_scanned_product_ids:
-                    keep_product = True
-                    keep_reason = "Currently active"
-                
-                # 2. Recently reduced (price drop detected)
-                elif product_id in recently_reduced_ids:
-                    keep_product = True
-                    keep_reason = "Recently reduced"
-                
-                # 3. In stock (even if not seen this cycle)
-                elif 'In Stock' in stock_status or 'Low Stock' in stock_status:
-                    keep_product = True
-                    keep_reason = "In stock"
-                
-                # 4. Seen recently (within DAYS_TO_KEEP_UNSEEN)
-                elif days_since_seen < DAYS_TO_KEEP_UNSEEN:
-                    keep_product = True
-                    keep_reason = f"Seen {days_since_seen} days ago"
-                
-                # REMOVE only if: Out of stock AND not seen in a week
-                if keep_product:
                     rows_to_keep.append(row)
-                    logging.debug(f"Keeping {row.get('Product Name', 'Unknown')}: {keep_reason}")
                 else:
                     removed_count += 1
-                    logging.info(f"Removing old product: {row.get('Product Name', 'Unknown')} (ID: {product_id}, Status: {stock_status}, Last seen: {days_since_seen} days ago)")
+                    logging.info(f"Removing product no longer on site: {row.get('Product Name', 'Unknown')} (ID: {product_id})")
         
         # Write back
         with open(CSV_FILE, 'w', newline='', encoding='utf-8') as csvfile:
@@ -523,16 +483,23 @@ def send_periodic_webhook(cycle, category_name, num_products, changes):
         logging.error(f"Periodic webhook failed: {e}")
 
 
-def is_duplicate_in_csv(product_name, product_url, check_last_n=10):
-    """Check if product is duplicate in recent CSV entries"""
+def is_duplicate_in_csv(product_id: str, event_type: str) -> bool:
+    """Check if this exact event already exists for this product today.
+
+    Uses Product ID + Event Type + Date to prevent duplicate entries.
+    Scans entire CSV (not just last N rows) for robust duplicate detection.
+    """
     if not os.path.exists(CSV_FILE):
         return False
     try:
+        today = datetime.now().strftime('%Y-%m-%d')
+        event_type_lower = event_type.lower()
         with open(CSV_FILE, 'r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
-            rows = list(reader)[-check_last_n:]
-            for row in rows:
-                if row.get('Product Name') == product_name and row.get('URL') == product_url:
+            for row in reader:
+                if (row.get('Product ID') == product_id and
+                    row.get('Event Type', '').lower() == event_type_lower and
+                    row.get('Timestamp', '').startswith(today)):
                     return True
         return False
     except Exception as e:
@@ -540,10 +507,34 @@ def is_duplicate_in_csv(product_name, product_url, check_last_n=10):
         return False
 
 
+def load_global_seen_products() -> Set[str]:
+    """Load all product IDs from all category state files.
+
+    This enables cross-category deduplication - a product is only 'New'
+    in the first category that discovers it.
+    """
+    seen = set()
+    state_pattern = os.path.join(STATE_DIR, '*_state.json')
+    for state_file in glob.glob(state_pattern):
+        # Skip price_history.json and category_state.json (master files)
+        basename = os.path.basename(state_file)
+        if basename in ('price_history.json', 'category_state.json'):
+            continue
+        try:
+            with open(state_file, 'r') as f:
+                data = json.load(f)
+                seen.update(data.keys())
+        except (json.JSONDecodeError, IOError) as e:
+            logging.warning(f"Could not load {state_file}: {e}")
+    logging.info(f"Loaded {len(seen)} product IDs from global state files")
+    return seen
+
+
 def send_item_webhook(product, event_type, previous_state, price_diff=None, direction=None):
     """Send webhook for individual product"""
-    if is_duplicate_in_csv(product['name'], product['url']):
-        logging.info(f"Skipping duplicate webhook: {product['name']}")
+    # Check for duplicate using Product ID + Event Type + Date
+    if is_duplicate_in_csv(product['product_id'], event_type):
+        logging.info(f"Skipping duplicate webhook: {product['name']} ({product['product_id']}) - already logged today")
         return
    
     webhook = DiscordWebhook(url=WEBHOOK_URL)
@@ -646,15 +637,51 @@ def send_item_webhook(product, event_type, previous_state, price_diff=None, dire
                 time.sleep(2)
 
 
-def send_webhook(products, previous_state, category_name):
-    """Send webhooks for new/changed products"""
+def send_webhook(products, previous_state, category_name, global_seen: Set[str] = None):
+    """Send webhooks for new/changed products.
+
+    Args:
+        products: List of product dicts to process
+        previous_state: State for this category
+        category_name: Name of current category
+        global_seen: Set of product IDs seen across ALL categories (for cross-category dedup)
+    """
     items_to_report = []
-    
+
+    # Load global seen products if not provided (for cross-category deduplication)
+    if global_seen is None:
+        global_seen = load_global_seen_products()
+
+    # Count how many would be "new" for sanity check
+    new_count = 0
+    for product in products:
+        if product["product_id"] not in previous_state and product["product_id"] not in global_seen:
+            new_count += 1
+
+    # SANITY CHECK: If >50% of products appear "new", likely state file corruption
+    # Skip sending webhooks and warn instead
+    NEW_PRODUCT_THRESHOLD = 0.5  # 50%
+    if len(products) > 10 and new_count / len(products) > NEW_PRODUCT_THRESHOLD:
+        warning_msg = (
+            f"WARNING: {new_count}/{len(products)} ({new_count/len(products)*100:.0f}%) products appear as 'new' in {category_name}. "
+            f"This suggests possible state file corruption. Skipping webhooks to prevent spam. "
+            f"Check state file: {category_name}"
+        )
+        logging.warning(warning_msg)
+        print(f"  {warning_msg}")
+        # Send a single warning webhook instead of hundreds of product webhooks
+        try:
+            webhook = DiscordWebhook(url=WEBHOOK_URL, content=f"⚠️ {warning_msg}")
+            webhook.execute()
+        except:
+            pass
+        return 0
+
     for product in products:
         product_id = product["product_id"]
         current_price = product["current_price"]
         stock_status = product["stock_status"]
-       
+
         if any(kw.lower() in product["name"].lower() for kw in EXCLUDED_KEYWORDS):
             continue
 
@@ -663,6 +690,10 @@ def send_webhook(products, previous_state, category_name):
         direction = None
 
         if product_id not in previous_state:
+            # Check if product exists in another category's state (cross-category dedup)
+            if product_id in global_seen:
+                logging.info(f"SKIPPED (exists in other category): {product['name']} (ID: {product_id})")
+                continue
             event_type = "new"
             items_to_report.append((product, event_type, price_diff, direction))
             logging.info(f"NEW: {product['name']} (ID: {product_id})")
@@ -725,20 +756,23 @@ def main():
             total_changes = 0
             all_scanned_ids = set()
 
+            # Load global seen products ONCE for cross-category deduplication
+            global_seen = load_global_seen_products()
+
             for category_name, category_config in CATEGORY_URLS.items():
                 print(f"\n📦 Processing: {category_name}")
                 send_cycle_start_webhook(cycle_count, category_name)
 
                 previous_state = load_previous_state(category_config["state_file"])
                 product_urls = fetch_category_products(category_name, category_config)
-                
+
                 all_products = []
                 current_product_ids = set()
 
                 total_urls = len(product_urls)
                 for idx, url in enumerate(product_urls, 1):
                     products_list = fetch_product_info(url, idx, total_urls, category_name)
-                    
+
                     if products_list:  # Now returns list
                         for product in products_list:
                             all_products.append(product)
@@ -747,7 +781,7 @@ def main():
 
                 changes = 0
                 if all_products:
-                    changes = send_webhook(all_products, previous_state, category_name)
+                    changes = send_webhook(all_products, previous_state, category_name, global_seen)
                     save_state(all_products, current_product_ids, category_config["state_file"])
                 
                 total_products += len(all_products)

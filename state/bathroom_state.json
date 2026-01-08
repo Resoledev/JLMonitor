@@ -1,0 +1,522 @@
+{
+    "112885458": {
+        "name": "John Lewis x Sanderson Tamizart Bath Mat",
+        "url": "https://www.johnlewis.com/john-lewis-x-sanderson-tamizart-bath-mat/p112885458",
+        "original_price": 23.0,
+        "latest_price": 11.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "4329087": {
+        "name": "John Lewis Black Marble Toothbrush Holder",
+        "url": "https://www.johnlewis.com/john-lewis-black-marble-toothbrush-holder/p4329087",
+        "original_price": 30.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111485686": {
+        "name": "John Lewis Essential Bathroom Tumbler, White",
+        "url": "https://www.johnlewis.com/john-lewis-essential-bathroom-tumbler-white/p111485686",
+        "original_price": 5.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111211266": {
+        "name": "John Lewis Textured Hexagon Bath Mat",
+        "url": "https://www.johnlewis.com/john-lewis-textured-hexagon-bath-mat/p111211266",
+        "original_price": 45.0,
+        "latest_price": 13.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111556932": {
+        "name": "John Lewis Modernist Single Towel Rail, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-modernist-single-towel-rail-silver/p111556932",
+        "original_price": 45.0,
+        "latest_price": 13.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111485687": {
+        "name": "John Lewis Essential Toothbrush Holder, White",
+        "url": "https://www.johnlewis.com/john-lewis-essential-toothbrush-holder-white/p111485687",
+        "original_price": 5.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111485688": {
+        "name": "John Lewis Essential Soap Dispenser, White",
+        "url": "https://www.johnlewis.com/john-lewis-essential-soap-dispenser-white/p111485688",
+        "original_price": 5.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486377": {
+        "name": "John Lewis Sand Effect Soap Dispenser, White",
+        "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dispenser-white/p110486377",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "112410468": {
+        "name": "John Lewis Oranges Beach Towel, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-oranges-beach-towel-blue/p112410468",
+        "original_price": 10.0,
+        "latest_price": 4.2,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111387785": {
+        "name": "John Lewis Modernist Modular Shelf Unit, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-modernist-modular-shelf-unit-silver/p111387785",
+        "original_price": 100.0,
+        "latest_price": 30.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726503": {
+        "name": "John Lewis Reactive Glaze Two Tone Soap Dish, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-reactive-glaze-two-tone-soap-dish-natural/p111726503",
+        "original_price": 8.0,
+        "latest_price": 2.4,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486375": {
+        "name": "John Lewis Diamond Toothbrush Holder, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "112967868": {
+        "name": "William Morris At Home Marigold Towel, Prussian Blue",
+        "url": "https://www.johnlewis.com/william-morris-at-home-marigold-towel-prussian-blue/p112967868",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111647647": {
+        "name": "John Lewis Matt Black Towel Ring",
+        "url": "https://www.johnlewis.com/john-lewis-matt-black-towel-ring/p111647647",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726505": {
+        "name": "John Lewis Reactive Glaze Two Tone Bathroom Tumbler, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-reactive-glaze-two-tone-bathroom-tumbler-natural/p111726505",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6323805": {
+        "name": "John Lewis Modernist Metal Towel Rail, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-modernist-metal-towel-rail-silver/p6323805",
+        "original_price": 40.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112267571": {
+        "name": "Marimekko Unikko H\u00e4iv\u00e4hdys Recycled Polyester Shower Curtain, Green/Pink",
+        "url": "https://www.johnlewis.com/marimekko-unikko-haivahdys-recycled-polyester-shower-curtain-green-pink/p112267571",
+        "original_price": 115.0,
+        "latest_price": 57.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111934487": {
+        "name": "Mini Moderns Breeze Bath Mat, Green",
+        "url": "https://www.johnlewis.com/mini-moderns-breeze-bath-mat-green/p111934487",
+        "original_price": 22.0,
+        "latest_price": 6.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "112075615": {
+        "name": "Simplehuman Slim Sink Caddy, Brushed Stainless Steel",
+        "url": "https://www.johnlewis.com/simplehuman-slim-sink-caddy-brushed-stainless-steel/p112075615",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113293243": {
+        "name": "John Lewis Christmas Tree Bath Mat, Red/White",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-bath-mat-red-white/p113293243",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110486372": {
+        "name": "John Lewis Diamond Bathroom Tumbler, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-bathroom-tumbler-black/p110486372",
+        "original_price": 12.0,
+        "latest_price": 3.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "112376923": {
+        "name": "Ted Baker Botanical Birds Towels",
+        "url": "https://www.johnlewis.com/ted-baker-botanical-birds-towels/p112376923",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726511": {
+        "name": "John Lewis Stripe Bathroom Tumbler",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-bathroom-tumbler/p111726511",
+        "original_price": 6.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111647651": {
+        "name": "John Lewis Rectangular Shower Basket, Matt Black",
+        "url": "https://www.johnlewis.com/john-lewis-rectangular-shower-basket-matt-black/p111647651",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111932833": {
+        "name": "John Lewis Stripe Soap Dispenser",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-soap-dispenser/p111932833",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "4329091": {
+        "name": "John Lewis Black Marble Soap Dish",
+        "url": "https://www.johnlewis.com/john-lewis-black-marble-soap-dish/p4329091",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "5664287": {
+        "name": "John Lewis Black Marble Soap Pump",
+        "url": "https://www.johnlewis.com/john-lewis-black-marble-soap-pump/p5664287",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "112266419": {
+        "name": "BlissHome Creatures Shoal of Fish Bath Mat, Blue",
+        "url": "https://www.johnlewis.com/blisshome-creatures-shoal-of-fish-bath-mat-blue/p112266419",
+        "original_price": 23.0,
+        "latest_price": 11.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110486378": {
+        "name": "John Lewis Sand Effect Soap Dish, White",
+        "url": "https://www.johnlewis.com/john-lewis-sand-effect-soap-dish-white/p110486378",
+        "original_price": 10.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111662855": {
+        "name": "John Lewis Shuffle Towels",
+        "url": "https://www.johnlewis.com/john-lewis-shuffle-towels/p111662855",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112094274": {
+        "name": "John Lewis Rectangular Bathroom Touch Bin, 6L, White",
+        "url": "https://www.johnlewis.com/john-lewis-rectangular-bathroom-touch-bin-6l-white/p112094274",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111662878": {
+        "name": "John Lewis Stripe Bath Mat",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-bath-mat/p111662878",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "113763621": {
+        "name": "William Morris At Home Wild Tulip Towels",
+        "url": "https://www.johnlewis.com/william-morris-at-home-wild-tulip-towels/p113763621",
+        "original_price": 48.0,
+        "latest_price": 24.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111211274": {
+        "name": "John Lewis Open Check Bath Mat",
+        "url": "https://www.johnlewis.com/john-lewis-open-check-bath-mat/p111211274",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110486380": {
+        "name": "John Lewis Polyresin Toothbrush Holder, White",
+        "url": "https://www.johnlewis.com/john-lewis-polyresin-toothbrush-holder-white/p110486380",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "4891344": {
+        "name": "John Lewis Matt Finish Toothbrush Holder",
+        "url": "https://www.johnlewis.com/john-lewis-matt-finish-toothbrush-holder/p4891344",
+        "original_price": 12.0,
+        "latest_price": 3.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486376": {
+        "name": "John Lewis Diamond Toilet Brush and Holder, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-toilet-brush-and-holder-black/p110486376",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111647646": {
+        "name": "John Lewis Matt Black Toilet Roll Holder",
+        "url": "https://www.johnlewis.com/john-lewis-matt-black-toilet-roll-holder/p111647646",
+        "original_price": 20.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113293248": {
+        "name": "John Lewis Christmas Tree Towels",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-towels/p113293248",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111934471": {
+        "name": "Margo Selby Southwold Bath Mat, Navy/Grey",
+        "url": "https://www.johnlewis.com/margo-selby-southwold-bath-mat-navy-grey/p111934471",
+        "original_price": 27.0,
+        "latest_price": 13.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726514": {
+        "name": "John Lewis Glazed Ribbed Tumbler, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-glazed-ribbed-tumbler-grey/p111726514",
+        "original_price": 12.0,
+        "latest_price": 3.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111726512": {
+        "name": "John Lewis Glazed Ribbed Soap Dispenser, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-glazed-ribbed-soap-dispenser-grey/p111726512",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "4329090": {
+        "name": "John Lewis Black Marble Bathroom Tumbler",
+        "url": "https://www.johnlewis.com/john-lewis-black-marble-bathroom-tumbler/p4329090",
+        "original_price": 20.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486379": {
+        "name": "John Lewis Sand Effect Bathroom Tumbler, White",
+        "url": "https://www.johnlewis.com/john-lewis-sand-effect-bathroom-tumbler-white/p110486379",
+        "original_price": 12.0,
+        "latest_price": 3.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486374": {
+        "name": "John Lewis Diamond Soap Dish, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-soap-dish-black/p110486374",
+        "original_price": 8.0,
+        "latest_price": 2.4,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "110486373": {
+        "name": "John Lewis Diamond Soap Dispenser, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-soap-dispenser-black/p110486373",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T18:35:20.828310",
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T08:07:45.700661"
+    },
+    "111726525": {
+        "name": "John Lewis Reactive Glaze Two Tone Soap Dispenser, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-reactive-glaze-two-tone-soap-dispenser-natural/p111726525",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111934462": {
+        "name": "Margo Selby Buxton Towels",
+        "url": "https://www.johnlewis.com/margo-selby-buxton-towels/p111934462",
+        "original_price": 27.0,
+        "latest_price": 13.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5672950": {
+        "name": "John Lewis Lux Towel Rail, W38.5cm",
+        "url": "https://www.johnlewis.com/john-lewis-lux-towel-rail-w38-5cm/p5672950",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111662879": {
+        "name": "John Lewis Stripe Towels",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-towels/p111662879",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726530": {
+        "name": "John Lewis Glazed Ribbed Soap Dish, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-glazed-ribbed-soap-dish-grey/p111726530",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111662317": {
+        "name": "John Lewis Geo Waste Paper Bin",
+        "url": "https://www.johnlewis.com/john-lewis-geo-waste-paper-bin/p111662317",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    }
+}

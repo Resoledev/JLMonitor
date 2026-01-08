@@ -315,7 +315,7 @@
         "name": "John Lewis Boutique Waffle Unisex Bath Robe",
         "url": "https://www.johnlewis.com/john-lewis-boutique-waffle-unisex-bath-robe/p6349239",
         "original_price": 65.0,
-        "latest_price": 26.0,
+        "latest_price": 32.5,
         "stock_status": "In Stock",
         "first_seen": "2025-11-21T12:52:50.222478"
     },
@@ -531,7 +531,7 @@
         "name": "John Lewis Vice Versa Stripe Corduroy Rectangular Cushion",
         "url": "https://www.johnlewis.com/john-lewis-vice-versa-stripe-corduroy-rectangular-cushion/p112772743",
         "original_price": 35.0,
-        "latest_price": 12.25,
+        "latest_price": 17.5,
         "stock_status": "In Stock",
         "first_seen": "2025-11-21T12:52:50.222478"
     },
@@ -2782,5 +2782,1725 @@
         "latest_price": 8.4,
         "stock_status": "In Stock",
         "first_seen": "2025-11-21T14:37:13.993042"
+    },
+    "112144410": {
+        "name": "John Lewis Tampa Garden Dining Chair, Set of 2, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-tampa-garden-dining-chair-set-of-2-grey/p112144410",
+        "original_price": 159.0,
+        "latest_price": 63.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410468": {
+        "name": "John Lewis Oranges Beach Towel, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-oranges-beach-towel-blue/p112410468",
+        "original_price": 10.0,
+        "latest_price": 4.2,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111772902": {
+        "name": "John Lewis Spiced Clementine & Pomegranate Scented Candle, 180g",
+        "url": "https://www.johnlewis.com/john-lewis-spiced-clementine-pomegranate-scented-candle-180g/p111772902",
+        "original_price": 10.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112549413": {
+        "name": "John Lewis Wood-Effect Wind-Up Parasol, 2.2m",
+        "url": "https://www.johnlewis.com/john-lewis-wood-effect-wind-up-parasol-2-2m/p112549413",
+        "original_price": 69.0,
+        "latest_price": 27.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112549430": {
+        "name": "John Lewis Wood-Effect Wind-Up Parasol, 2.7m",
+        "url": "https://www.johnlewis.com/john-lewis-wood-effect-wind-up-parasol-2-7m/grey/p112549430",
+        "original_price": 89.0,
+        "latest_price": 35.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112144335": {
+        "name": "John Lewis Tampa Rectangular Garden Dining Table, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-tampa-rectangular-garden-dining-table-grey/p112144335",
+        "original_price": 349.0,
+        "latest_price": 139.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113524080": {
+        "name": "John Lewis Gingerbread Scented Candle, 180g",
+        "url": "https://www.johnlewis.com/john-lewis-gingerbread-scented-candle-180g/p113524080",
+        "original_price": 10.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111772906": {
+        "name": "John Lewis Gingerbread Tin Scented Candle, 147g",
+        "url": "https://www.johnlewis.com/john-lewis-gingerbread-tin-scented-candle-147g/p111772906",
+        "original_price": 7.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113476262": {
+        "name": "John Lewis Glass Bauble Candle, 600g",
+        "url": "https://www.johnlewis.com/john-lewis-glass-bauble-candle-600g/p113476262",
+        "original_price": 15.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113324983": {
+        "name": "John Lewis Christmas Paddle Board, FSC-Certfied (Oak Wood)",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-paddle-board-fsc-certfied-oak-wood/p113324983",
+        "original_price": 35.0,
+        "latest_price": 17.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114072739": {
+        "name": "John Lewis Faux Leather Straight Leg Tailored Trousers, Black",
+        "url": "https://www.johnlewis.com/john-lewis-faux-leather-straight-leg-tailored-trousers-black/p114072739",
+        "original_price": 49.0,
+        "latest_price": 24.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113509637": {
+        "name": "John Lewis Ceramic Penguin Candle, 325g",
+        "url": "https://www.johnlewis.com/john-lewis-ceramic-penguin-candle-325g/p113509637",
+        "original_price": 15.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111891630": {
+        "name": "John Lewis Winter Spice Inclusion Candle, 570g",
+        "url": "https://www.johnlewis.com/john-lewis-winter-spice-inclusion-candle-570g/p111891630",
+        "original_price": 26.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113973604": {
+        "name": "John Lewis Cotton Poplin Shirt, Lilac",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-poplin-shirt-lilac/p113973604",
+        "original_price": 49.0,
+        "latest_price": 24.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111894722": {
+        "name": "John Lewis Adelene Fletcher 'Fisherman's Catch' Framed Print, 36 x 36cm, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-adelene-fletcher-fishermans-catch-framed-print-36-x-36cm-multi/p111894722",
+        "original_price": 35.0,
+        "latest_price": 17.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112612215": {
+        "name": "John Lewis Vacuum Seal Plastic Storage Containers & Manual Pump Set, Grey/White",
+        "url": "https://www.johnlewis.com/john-lewis-vacuum-seal-plastic-storage-containers-manual-pump-set-grey-white/p112612215",
+        "original_price": 25.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5261712": {
+        "name": "John Lewis Artificial Hydrangea, Ranunculus & Mixed Floral Bunch",
+        "url": "https://www.johnlewis.com/john-lewis-artificial-hydrangea-ranunculus-mixed-floral-bunch/p5261712",
+        "original_price": 25.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112274405": {
+        "name": "John Lewis Boucle Drum Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-drum-lampshade/p112274405",
+        "original_price": 45.0,
+        "latest_price": 22.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111891631": {
+        "name": "John Lewis Winter Spice Inclusion 3 Wick Candle, 1.5kg",
+        "url": "https://www.johnlewis.com/john-lewis-winter-spice-inclusion-3-wick-candle-1-5kg/p111891631",
+        "original_price": 40.0,
+        "latest_price": 19.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6259113": {
+        "name": "John Lewis Hammered Stainless Steel Bar Tool Set, 5 Piece, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-hammered-stainless-steel-bar-tool-set-5-piece-silver/p6259113",
+        "original_price": 35.0,
+        "latest_price": 17.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113720849": {
+        "name": "John Lewis Short Sleeved Draped Sheer T-Shirt, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-short-sleeved-draped-sheer-t-shirt-natural/p113720849",
+        "original_price": 45.0,
+        "latest_price": 22.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "231567344": {
+        "name": "John Lewis Engraved Rectangular Wall Mirror, Smoke",
+        "url": "https://www.johnlewis.com/john-lewis-engraved-rectangular-wall-mirror-smoke/p231567344",
+        "original_price": 195.0,
+        "latest_price": 95.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114147404": {
+        "name": "John Lewis Wool Blend Cable Knit Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-cable-knit-jumper/p114147404",
+        "original_price": 69.0,
+        "latest_price": 34.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113797010": {
+        "name": "John Lewis Cotton Wool Blend Collared Sweater, Ecru",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-wool-blend-collared-sweater-ecru/p113797010",
+        "original_price": 59.0,
+        "latest_price": 29.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5277824": {
+        "name": "John Lewis Slim Bi-Stretch Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-slim-bi-stretch-trousers/p5277824",
+        "original_price": 49.0,
+        "latest_price": 24.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113951904": {
+        "name": "John Lewis Wool Blend Peplum Hem Cardigan",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-peplum-hem-cardigan/p113951904",
+        "original_price": 59.0,
+        "latest_price": 29.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111654949": {
+        "name": "John Lewis Boucle Layered Ceiling Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-layered-ceiling-lampshade/pistachio/p111654949",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113476263": {
+        "name": "John Lewis Glass Bauble Candle, 600g",
+        "url": "https://www.johnlewis.com/john-lewis-glass-bauble-candle-600g/p113476263",
+        "original_price": 15.0,
+        "latest_price": 6.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113828122": {
+        "name": "John Lewis Check Cotton Blend Shirt, Red",
+        "url": "https://www.johnlewis.com/john-lewis-check-cotton-blend-shirt-red/p113828122",
+        "original_price": 49.0,
+        "latest_price": 24.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114089648": {
+        "name": "John Lewis Alpaca Wool Blend Relaxed Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-alpaca-wool-blend-relaxed-jumper/light-yellow/p114089648",
+        "original_price": 69.0,
+        "latest_price": 34.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111772907": {
+        "name": "John Lewis Frosted Mistletoe & Eucalyptus Scented Tin Candle, 147g",
+        "url": "https://www.johnlewis.com/john-lewis-frosted-mistletoe-eucalyptus-scented-tin-candle-147g/p111772907",
+        "original_price": 7.0,
+        "latest_price": 3.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113951906": {
+        "name": "John Lewis Ribbed Wool Blend Cardigan",
+        "url": "https://www.johnlewis.com/john-lewis-ribbed-wool-blend-cardigan/p113951906",
+        "original_price": 59.0,
+        "latest_price": 29.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114427143": {
+        "name": "John Lewis Barrel Leg Wool Blend Trousers, Burgundy",
+        "url": "https://www.johnlewis.com/john-lewis-barrel-leg-wool-blend-trousers-burgundy/p114427143",
+        "original_price": 89.0,
+        "latest_price": 44.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114147403": {
+        "name": "John Lewis Wool Blend Cable Knit V-Neck Cardigan, Brown",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-cable-knit-v-neck-cardigan-brown/p114147403",
+        "original_price": 89.0,
+        "latest_price": 44.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112780417": {
+        "name": "John Lewis Retro Medium String Pendant Ceiling Light, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-retro-medium-string-pendant-ceiling-light-multi/p112780417",
+        "original_price": 75.0,
+        "latest_price": 37.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114072591": {
+        "name": "John Lewis Wool Blend Wide Leg Culotte Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-wide-leg-culotte-trousers/p114072591",
+        "original_price": 89.0,
+        "latest_price": 44.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113989632": {
+        "name": "John Lewis Wool Blend Check Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-check-trousers/p113989632",
+        "original_price": 89.0,
+        "latest_price": 44.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114072595": {
+        "name": "John Lewis Boucle Wool Blend Jacket",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-wool-blend-jacket/p114072595",
+        "original_price": 79.0,
+        "latest_price": 39.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112274426": {
+        "name": "John Lewis Solaro Rechargeable Outdoor Table Lamp",
+        "url": "https://www.johnlewis.com/john-lewis-solaro-rechargeable-outdoor-table-lamp/p112274426",
+        "original_price": 75.0,
+        "latest_price": 37.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113797008": {
+        "name": "John Lewis Wool Blend Ruffle Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-ruffle-jumper/p113797008",
+        "original_price": 79.0,
+        "latest_price": 39.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114138586": {
+        "name": "John Lewis Wool Blend Wide Leg Culotte Trousers, Black",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-wide-leg-culotte-trousers-black/p114138586",
+        "original_price": 79.0,
+        "latest_price": 39.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111541885": {
+        "name": "John Lewis School House Opal Glass Shade Flush Bathroom Ceiling Light",
+        "url": "https://www.johnlewis.com/john-lewis-school-house-opal-glass-shade-flush-bathroom-ceiling-light/p111541885",
+        "original_price": 85.0,
+        "latest_price": 42.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114084956": {
+        "name": "John Lewis Alpaca Wool Blend Brushed Check High Neck Jumper, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-alpaca-wool-blend-brushed-check-high-neck-jumper-grey/p114084956",
+        "original_price": 79.0,
+        "latest_price": 39.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114085335": {
+        "name": "John Lewis Striped Twill Wool Blend Pleat Wide Leg Trousers, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-striped-twill-wool-blend-pleat-wide-leg-trousers-grey/p114085335",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113973606": {
+        "name": "John Lewis Floral Embellished Cotton Shirt, White",
+        "url": "https://www.johnlewis.com/john-lewis-floral-embellished-cotton-shirt-white/p113973606",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112091169": {
+        "name": "John Lewis Raffia Pendant Ceiling Light",
+        "url": "https://www.johnlewis.com/john-lewis-raffia-pendant-ceiling-light/p112091169",
+        "original_price": 95.0,
+        "latest_price": 47.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113989631": {
+        "name": "John Lewis Single Breasted Crop Check Jacket, Check",
+        "url": "https://www.johnlewis.com/john-lewis-single-breasted-crop-check-jacket-check/p113989631",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113951903": {
+        "name": "John Lewis V-Neck Boucle Jumper, Olive Boucle",
+        "url": "https://www.johnlewis.com/john-lewis-v-neck-boucle-jumper-olive-boucle/p113951903",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114138587": {
+        "name": "John Lewis Wool Blend Wide Leg Trousers, Burnt Red",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-wide-leg-trousers-burnt-red/p114138587",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114389773": {
+        "name": "John Lewis Wool Blend Wide Leg Tuxedo Trousers, Black",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-wide-leg-tuxedo-trousers-black/p114389773",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114138589": {
+        "name": "John Lewis Tailored Wide Leg Flannel Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-tailored-wide-leg-flannel-trousers/p114138589",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113796998": {
+        "name": "John Lewis Super Washed Wool Military Cape, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-super-washed-wool-military-cape-natural/p113796998",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114013772": {
+        "name": "John Lewis Relaxed V-Neck Cashmere Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-relaxed-v-neck-cashmere-jumper/p114013772",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114239617": {
+        "name": "John Lewis Wool Blend Embellished V-Neck Jumper, Khaki",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-embellished-v-neck-jumper-khaki/p114239617",
+        "original_price": 119.0,
+        "latest_price": 59.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114239371": {
+        "name": "John Lewis Half Placket Hardware Shirt, Taupe",
+        "url": "https://www.johnlewis.com/john-lewis-half-placket-hardware-shirt-taupe/p114239371",
+        "original_price": 99.0,
+        "latest_price": 49.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112172622": {
+        "name": "John Lewis Modena Bedside Table, Natural Wood",
+        "url": "https://www.johnlewis.com/john-lewis-modena-bedside-table-natural-wood/p112172622",
+        "original_price": 279.0,
+        "latest_price": 139.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114072589": {
+        "name": "John Lewis Wool Blend Double Breasted Marl Jacket, Khaki",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-double-breasted-marl-jacket-khaki/p114072589",
+        "original_price": 129.0,
+        "latest_price": 64.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112272046": {
+        "name": "John Lewis Leaf Pendant Ceiling Light, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-leaf-pendant-ceiling-light-gold/p112272046",
+        "original_price": 295.0,
+        "latest_price": 147.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112192882": {
+        "name": "John Lewis Tameo 5 Arm Flush Ceiling Light, Chrome",
+        "url": "https://www.johnlewis.com/john-lewis-tameo-5-arm-flush-ceiling-light-chrome/p112192882",
+        "original_price": 195.0,
+        "latest_price": 97.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114389772": {
+        "name": "John Lewis Cropped Tuxedo Jacket, Black",
+        "url": "https://www.johnlewis.com/john-lewis-cropped-tuxedo-jacket-black/p114389772",
+        "original_price": 129.0,
+        "latest_price": 64.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114427144": {
+        "name": "John Lewis Barrel Sleeve Wool Blend Jacket, Burgundy",
+        "url": "https://www.johnlewis.com/john-lewis-barrel-sleeve-wool-blend-jacket-burgundy/p114427144",
+        "original_price": 129.0,
+        "latest_price": 64.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114013805": {
+        "name": "John Lewis Cashmere Crew Neck Button Trim Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-button-trim-jumper/green/p114013805",
+        "original_price": 129.0,
+        "latest_price": 64.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114101827": {
+        "name": "John Lewis Wool Blend Double Breasted Jacket, Brown",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-double-breasted-jacket-brown/p114101827",
+        "original_price": 149.0,
+        "latest_price": 74.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114073658": {
+        "name": "John Lewis Cashmere Contemporary Cardigan, Camel",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-contemporary-cardigan-camel/p114073658",
+        "original_price": 179.0,
+        "latest_price": 89.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114101826": {
+        "name": "John Lewis Asymetric Hem Single-Breasted Blazer Jacket",
+        "url": "https://www.johnlewis.com/john-lewis-asymetric-hem-single-breasted-blazer-jacket/p114101826",
+        "original_price": 149.0,
+        "latest_price": 74.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112274726": {
+        "name": "John Lewis Hammered Dome Pendant Ceiling Light, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-hammered-dome-pendant-ceiling-light-gold/p112274726",
+        "original_price": 225.0,
+        "latest_price": 112.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "4812116": {
+        "name": "John Lewis 'Blackout' Hand Painted Textured Monochrome Abstract Framed Canvas, 90 x 100cm, Black/White",
+        "url": "https://www.johnlewis.com/john-lewis-blackout-hand-painted-textured-monochrome-abstract-framed-canvas-90-x-100cm-black-white/p4812116",
+        "original_price": 225.0,
+        "latest_price": 112.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114085336": {
+        "name": "John Lewis Striped Twill Wool Blend Blazer, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-striped-twill-wool-blend-blazer-grey/p114085336",
+        "original_price": 129.0,
+        "latest_price": 64.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113933628": {
+        "name": "John Lewis Oversized Leather T-Shirt, Olive",
+        "url": "https://www.johnlewis.com/john-lewis-oversized-leather-t-shirt-olive/p113933628",
+        "original_price": 179.0,
+        "latest_price": 89.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114222164": {
+        "name": "John Lewis High Pile Fleece Robe",
+        "url": "https://www.johnlewis.com/john-lewis-high-pile-fleece-robe/p114222164",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113429674": {
+        "name": "John Lewis Scallop PVC Coasters, Set of 4, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-scallop-pvc-coasters-set-of-4-gold/p113429674",
+        "original_price": 6.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113093765": {
+        "name": "John Lewis Fleece Lined Leather Gloves",
+        "url": "https://www.johnlewis.com/john-lewis-fleece-lined-leather-gloves/p113093765",
+        "original_price": 38.0,
+        "latest_price": 19.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114135399": {
+        "name": "John Lewis Cashmere Scarf",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-scarf/charcoal/p114135399",
+        "original_price": 60.0,
+        "latest_price": 30.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111280039": {
+        "name": "John Lewis Mummy & Daddy Farm Print Bib, Pack of 3, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-mummy-daddy-farm-print-bib-pack-of-3-grey/p111280039",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112190310": {
+        "name": "John Lewis Wool Mix Gloves",
+        "url": "https://www.johnlewis.com/john-lewis-wool-mix-gloves/p112190310",
+        "original_price": 19.0,
+        "latest_price": 9.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113877635": {
+        "name": "John Lewis Crew Neck Cotton Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-crew-neck-cotton-jumper/p113877635",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113904766": {
+        "name": "John Lewis V Neck Cotton Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-v-neck-cotton-jumper/p113904766",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6379780": {
+        "name": "John Lewis Hammered Stainless Steel Champagne & Wine Ice Bucket, 2 Bottle, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-hammered-stainless-steel-champagne-wine-ice-bucket-2-bottle-silver/p6379780",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113765808": {
+        "name": "John Lewis Red Wine & Nibbles Gift Box",
+        "url": "https://www.johnlewis.com/john-lewis-red-wine-nibbles-gift-box/p113765808",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113907286": {
+        "name": "John Lewis Merino Wool V-Neck Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-merino-wool-v-neck-jumper/sky-captain/p113907286",
+        "original_price": 59.0,
+        "latest_price": 29.5,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113374990": {
+        "name": "John Lewis Confetti Base Glass Tumbler, Set of 2, 260ml, Blue/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-confetti-base-glass-tumbler-set-of-2-260ml-blue-multi/p113374990",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114091739": {
+        "name": "John Lewis Organic Cotton Geometric Print Lounge Trousers, Red Mid",
+        "url": "https://www.johnlewis.com/john-lewis-organic-cotton-geometric-print-lounge-trousers-red-mid/p114091739",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410509": {
+        "name": "John Lewis Suit Cover, Black",
+        "url": "https://www.johnlewis.com/john-lewis-suit-cover-black/p112410509",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6300282": {
+        "name": "John Lewis Scalloped Edge Bulrush Storage Baskets, Set of 2",
+        "url": "https://www.johnlewis.com/john-lewis-scalloped-edge-bulrush-storage-baskets-set-of-2/p6300282",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111280041": {
+        "name": "John Lewis Spot and Orange Print Round Muslin Bib, Pack of 6, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-spot-and-orange-print-round-muslin-bib-pack-of-6-multi/p111280041",
+        "original_price": 14.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112880792": {
+        "name": "John Lewis Safari Stripe Mix Muslin Blanket, Pack of 3, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-safari-stripe-mix-muslin-blanket-pack-of-3-multi/p112880792",
+        "original_price": 22.0,
+        "latest_price": 11.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113547921": {
+        "name": "John Lewis Christmas Trio of Puddings Door Mat",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-trio-of-puddings-door-mat/p113547921",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113475429": {
+        "name": "John Lewis 'Get Together' Round Tray, 37cm, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-get-together-round-tray-37cm-multi/p113475429",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112190290": {
+        "name": "John Lewis Faux Fur Cuff Leather Mittens, Black",
+        "url": "https://www.johnlewis.com/john-lewis-faux-fur-cuff-leather-mittens-black/p112190290",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114091786": {
+        "name": "John Lewis Penquin Christmas Socks, Pack of 2, Blue Multi",
+        "url": "https://www.johnlewis.com/john-lewis-penquin-christmas-socks-pack-of-2-blue-multi/p114091786",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5995620": {
+        "name": "John Lewis Geometric Metal Photo Frame, Black",
+        "url": "https://www.johnlewis.com/john-lewis-geometric-metal-photo-frame-black/p5995620",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113945068": {
+        "name": "John Lewis Merino Wool Crew Neck Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-merino-wool-crew-neck-jumper/p113945068",
+        "original_price": 59.0,
+        "latest_price": 29.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112497725": {
+        "name": "John Lewis White Floral Glass Serving Bowl, 26cm, Clear",
+        "url": "https://www.johnlewis.com/john-lewis-white-floral-glass-serving-bowl-26cm-clear/p112497725",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113558873": {
+        "name": "John Lewis Christmas Foliage Mango Wood Serving Bowl, 44cm, Natural/Green",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-foliage-mango-wood-serving-bowl-44cm-natural-green/p113558873",
+        "original_price": 62.0,
+        "latest_price": 31.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113938959": {
+        "name": "John Lewis Cashmere Crew Neck Textured Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-crew-neck-textured-jumper/p113938959",
+        "original_price": 139.0,
+        "latest_price": 69.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113765856": {
+        "name": "John Lewis White Wine & Nibbles Gift Box",
+        "url": "https://www.johnlewis.com/john-lewis-white-wine-nibbles-gift-box/p113765856",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5409940": {
+        "name": "John Lewis Acacia Wood Spaghetti Measure, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-acacia-wood-spaghetti-measure-natural/p5409940",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113475159": {
+        "name": "John Lewis Metallic Stripe Rectangular Cotton Blend Tablecloth, 250 x 160cm, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-metallic-stripe-rectangular-cotton-blend-tablecloth-250-x-160cm-gold/p113475159",
+        "original_price": 45.0,
+        "latest_price": 22.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112590419": {
+        "name": "John Lewis Stainless Steel Fish Bone Tweezers",
+        "url": "https://www.johnlewis.com/john-lewis-stainless-steel-fish-bone-tweezers/p112590419",
+        "original_price": 3.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112908841": {
+        "name": "John Lewis William Morris Golden Lily Tape Measure",
+        "url": "https://www.johnlewis.com/john-lewis-william-morris-golden-lily-tape-measure/p112908841",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113948544": {
+        "name": "John Lewis Wool Blend Thermal Heel & Toe Socks, Pack of 3, Black Multi",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-thermal-heel-toe-socks-pack-of-3-black-multi/p113948544",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5131571": {
+        "name": "John Lewis Wooden Solitaire Game",
+        "url": "https://www.johnlewis.com/john-lewis-wooden-solitaire-game/p5131571",
+        "original_price": 12.5,
+        "latest_price": 6.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114222120": {
+        "name": "John Lewis Bonded Fleece Check Robe, Green/Navy",
+        "url": "https://www.johnlewis.com/john-lewis-bonded-fleece-check-robe-green-navy/p114222120",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113545492": {
+        "name": "John Lewis Plain Beanie",
+        "url": "https://www.johnlewis.com/john-lewis-plain-beanie/p113545492",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113948218": {
+        "name": "John Lewis Wool Blend Assorted Stripe Socks, Pack of 3, Black Multi",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-assorted-stripe-socks-pack-of-3-black-multi/p113948218",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112576157": {
+        "name": "John Lewis Bamboo Sushi Making Kit, 4 Piece",
+        "url": "https://www.johnlewis.com/john-lewis-bamboo-sushi-making-kit-4-piece/p112576157",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114413056": {
+        "name": "John Lewis Leather & Herringbone Wool Gloves, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-leather-herringbone-wool-gloves-grey/p114413056",
+        "original_price": 49.0,
+        "latest_price": 24.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113273912": {
+        "name": "John Lewis Christmas Enamel Loaf Tin, 23cm, White/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-enamel-loaf-tin-23cm-white-multi/p113273912",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112172076": {
+        "name": "John Lewis Wool Blend Beret",
+        "url": "https://www.johnlewis.com/john-lewis-wool-blend-beret/red/p112172076",
+        "original_price": 19.0,
+        "latest_price": 9.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410524": {
+        "name": "John Lewis Under Bed Shoe Storage Bag, Black",
+        "url": "https://www.johnlewis.com/john-lewis-under-bed-shoe-storage-bag-black/p112410524",
+        "original_price": 8.5,
+        "latest_price": 4.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111112143": {
+        "name": "John Lewis Park Globe Glass Touch Table Lamp",
+        "url": "https://www.johnlewis.com/john-lewis-park-globe-glass-touch-table-lamp/aged-brass/p111112143",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "4249046": {
+        "name": "John Lewis Stripe Seat Pad",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-seat-pad/p4249046",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410530": {
+        "name": "John Lewis Under Bed Storage Bag, Black",
+        "url": "https://www.johnlewis.com/john-lewis-under-bed-storage-bag-black/p112410530",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112760385": {
+        "name": "John Lewis Velvet Stripe Bolster Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-velvet-stripe-bolster-cushion/p112760385",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114345825": {
+        "name": "John Lewis Velour Stripe Robe, Navy/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-velour-stripe-robe-navy-multi/p114345825",
+        "original_price": 80.0,
+        "latest_price": 40.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410526": {
+        "name": "John Lewis Jumbo Storage Bag, Black",
+        "url": "https://www.johnlewis.com/john-lewis-jumbo-storage-bag-black/p112410526",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113103093": {
+        "name": "John Lewis Luxe Leather North South Hobo Bag",
+        "url": "https://www.johnlewis.com/john-lewis-luxe-leather-north-south-hobo-bag/p113103093",
+        "original_price": 119.0,
+        "latest_price": 59.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113429716": {
+        "name": "John Lewis Cut-Out Snowflake PVC Placemats, Set of 2, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-cut-out-snowflake-pvc-placemats-set-of-2-gold/p113429716",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113476613": {
+        "name": "John Lewis Ceramic Handle Teaspoon, Set of 4, Blue Stripe",
+        "url": "https://www.johnlewis.com/john-lewis-ceramic-handle-teaspoon-set-of-4-blue-stripe/p113476613",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111932833": {
+        "name": "John Lewis Stripe Soap Dispenser",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-soap-dispenser/p111932833",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113996817": {
+        "name": "John Lewis Quilted Slippers",
+        "url": "https://www.johnlewis.com/john-lewis-quilted-slippers/p113996817",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111021042": {
+        "name": "John Lewis Lisbon Border Table Runner, 200cm, Charcoal",
+        "url": "https://www.johnlewis.com/john-lewis-lisbon-border-table-runner-200cm-charcoal/p111021042",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111722188": {
+        "name": "John Lewis Matte Lacquer Laundry Basket",
+        "url": "https://www.johnlewis.com/john-lewis-matte-lacquer-laundry-basket/p111722188",
+        "original_price": 110.0,
+        "latest_price": 55.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111689404": {
+        "name": "John Lewis Stainless Steel Cutlery Set with Beech Wood Handles, 16 Piece/4 Place Settings",
+        "url": "https://www.johnlewis.com/john-lewis-stainless-steel-cutlery-set-with-beech-wood-handles-16-piece-4-place-settings/p111689404",
+        "original_price": 45.0,
+        "latest_price": 22.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110260942": {
+        "name": "John Lewis Velvet Stripe Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-velvet-stripe-cushion/p110260942",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6399719": {
+        "name": "John Lewis Safari Print Sleeping Bag, 1-2.5 Tog, Pack of 2, Grey/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-safari-print-sleeping-bag-1-2-5-tog-pack-of-2-grey-multi/p6399719",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110213763": {
+        "name": "John Lewis Tritan Airtight Stackable Storage Container, 900ml, Clear/Black",
+        "url": "https://www.johnlewis.com/john-lewis-tritan-airtight-stackable-storage-container-900ml-clear-black/p110213763",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111726511": {
+        "name": "John Lewis Stripe Bathroom Tumbler",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-bathroom-tumbler/p111726511",
+        "original_price": 6.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113476535": {
+        "name": "John Lewis Beaded Round Coasters, Set of 4, White",
+        "url": "https://www.johnlewis.com/john-lewis-beaded-round-coasters-set-of-4-white/p113476535",
+        "original_price": 12.5,
+        "latest_price": 6.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112012766": {
+        "name": "John Lewis Deep Wood-Effect Photo Frame, 5 x 7\" (13 x 18cm), White",
+        "url": "https://www.johnlewis.com/john-lewis-deep-wood-effect-photo-frame-5-x-7-inch-13-x-18cm-white/p112012766",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114222119": {
+        "name": "John Lewis Bonded Fleece Check Robe, Navy/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-bonded-fleece-check-robe-navy-multi/p114222119",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "1875346": {
+        "name": "John Lewis Logan GU10 LED 3 Spotlight Ceiling Plate",
+        "url": "https://www.johnlewis.com/john-lewis-logan-gu10-led-3-spotlight-ceiling-plate/p1875346",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112442625": {
+        "name": "John Lewis Lombok Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-lombok-cushion/p112442625",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110213764": {
+        "name": "John Lewis Tritan Airtight Stackable Storage Container, 1.2L, Clear/Black",
+        "url": "https://www.johnlewis.com/john-lewis-tritan-airtight-stackable-storage-container-1-2l-clear-black/p110213764",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111374791": {
+        "name": "John Lewis Artificial Variegated Fig Plant in Cement Pot, Green/Grey",
+        "url": "https://www.johnlewis.com/john-lewis-artificial-variegated-fig-plant-in-cement-pot-green-grey/p111374791",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5111425": {
+        "name": "John Lewis Spindle Metal Analogue Wall Clock, 45cm, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-spindle-metal-analogue-wall-clock-45cm-gold/p5111425",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6349915": {
+        "name": "John Lewis Unicorn Print Reversible Pure Cotton Duvet Cover and Pillowcase Set, Cotbed (120 x 140cm)",
+        "url": "https://www.johnlewis.com/john-lewis-unicorn-print-reversible-pure-cotton-duvet-cover-and-pillowcase-set-cotbed-120-x-140cm/p6349915",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114098007": {
+        "name": "John Lewis Buffalo Check Cashmink Scarf, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-buffalo-check-cashmink-scarf-multi/p114098007",
+        "original_price": 29.0,
+        "latest_price": 14.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112497727": {
+        "name": "John Lewis Palm Leaf Round Glass Platter, 33cm, Green",
+        "url": "https://www.johnlewis.com/john-lewis-palm-leaf-round-glass-platter-33cm-green/p112497727",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114103531": {
+        "name": "John Lewis Soft Wide Leg Denim Jeans, Dark Blue",
+        "url": "https://www.johnlewis.com/john-lewis-soft-wide-leg-denim-jeans-dark-blue/p114103531",
+        "original_price": 69.0,
+        "latest_price": 34.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110486376": {
+        "name": "John Lewis Diamond Toilet Brush and Holder, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-toilet-brush-and-holder-black/p110486376",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114389799": {
+        "name": "John Lewis Donegal Ribbed Cashmere Scarf",
+        "url": "https://www.johnlewis.com/john-lewis-donegal-ribbed-cashmere-scarf/p114389799",
+        "original_price": 115.0,
+        "latest_price": 57.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113476551": {
+        "name": "John Lewis Square Cotton Napkins, Set of 4, Frost Blue",
+        "url": "https://www.johnlewis.com/john-lewis-square-cotton-napkins-set-of-4-frost-blue/p113476551",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112762748": {
+        "name": "John Lewis Organic Cotton Blend Plain & Stripe Trainer Socks, Pack of 7, Purple Multi",
+        "url": "https://www.johnlewis.com/john-lewis-organic-cotton-blend-plain-stripe-trainer-socks-pack-of-7-purple-multi/p112762748",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113608442": {
+        "name": "John Lewis Cotton Canvas Weekender Bag",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-canvas-weekender-bag/p113608442",
+        "original_price": 139.0,
+        "latest_price": 69.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6423736": {
+        "name": "John Lewis Rattan Open Weave Laundry Basket, Natural/Greige",
+        "url": "https://www.johnlewis.com/john-lewis-rattan-open-weave-laundry-basket-natural-greige/p6423736",
+        "original_price": 60.0,
+        "latest_price": 30.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6421916": {
+        "name": "John Lewis Gallery Set Multi-aperture Photo Frames, 4 Photo, Black",
+        "url": "https://www.johnlewis.com/john-lewis-gallery-set-multi-aperture-photo-frames-4-photo-black/p6421916",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114240891": {
+        "name": "John Lewis Recycled Fairisle Christmas Hooded Onesie, Blue Navy",
+        "url": "https://www.johnlewis.com/john-lewis-recycled-fairisle-christmas-hooded-onesie-blue-navy/p114240891",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110260828": {
+        "name": "John Lewis Flock Clothes Hangers, Pack of 10, Black",
+        "url": "https://www.johnlewis.com/john-lewis-flock-clothes-hangers-pack-of-10-black/p110260828",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114091792": {
+        "name": "John Lewis Hooded Zip Front Fleece Onesie",
+        "url": "https://www.johnlewis.com/john-lewis-hooded-zip-front-fleece-onesie/p114091792",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "Out of Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111844311": {
+        "name": "John Lewis Striped Frill Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-striped-frill-cushion/p111844311",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113517847": {
+        "name": "John Lewis Scion Spike Twin Lid Sewing Basket, Grey",
+        "url": "https://www.johnlewis.com/john-lewis-scion-spike-twin-lid-sewing-basket-grey/p113517847",
+        "original_price": 38.0,
+        "latest_price": 19.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112908842": {
+        "name": "John Lewis William Morris Golden Lily Sewing Kit",
+        "url": "https://www.johnlewis.com/john-lewis-william-morris-golden-lily-sewing-kit/p112908842",
+        "original_price": 14.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114345892": {
+        "name": "John Lewis Velour Grid Check Robe, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-velour-grid-check-robe-blue/p114345892",
+        "original_price": 80.0,
+        "latest_price": 40.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6317564": {
+        "name": "John Lewis Woven Cotton Blend Round Placemat, Set of 4",
+        "url": "https://www.johnlewis.com/john-lewis-woven-cotton-blend-round-placemat-set-of-4/p6317564",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410532": {
+        "name": "John Lewis Under Bed Shoe Storage Bag, Mid Grey",
+        "url": "https://www.johnlewis.com/john-lewis-under-bed-shoe-storage-bag-mid-grey/p112410532",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113374626": {
+        "name": "John Lewis High Gloss Side Table",
+        "url": "https://www.johnlewis.com/john-lewis-high-gloss-side-table/p113374626",
+        "original_price": 79.0,
+        "latest_price": 39.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113293243": {
+        "name": "John Lewis Christmas Tree Bath Mat, Red/White",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-bath-mat-red-white/p113293243",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113079459": {
+        "name": "John Lewis Christmas Fine China Mixing Bowl, 4.85L, Red",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-fine-china-mixing-bowl-4-85l-red/p113079459",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112094274": {
+        "name": "John Lewis Rectangular Bathroom Touch Bin, 6L, White",
+        "url": "https://www.johnlewis.com/john-lewis-rectangular-bathroom-touch-bin-6l-white/p112094274",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "5793884": {
+        "name": "John Lewis Slim Fit Stripe Oxford Shirt, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-slim-fit-stripe-oxford-shirt-blue/p5793884",
+        "original_price": 49.0,
+        "latest_price": 24.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111818723": {
+        "name": "John Lewis Confetti Smudge Glass Carafe, 910ml, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-confetti-smudge-glass-carafe-910ml-blue/p111818723",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113938943": {
+        "name": "John Lewis Cashmere Rib Knit V-Neck Cardigan",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-rib-knit-v-neck-cardigan/p113938943",
+        "original_price": 159.0,
+        "latest_price": 79.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113475160": {
+        "name": "John Lewis Christmas Bells Stripe Cotton Napkin, Set of 4, Red",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-bells-stripe-cotton-napkin-set-of-4-red/p113475160",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114375145": {
+        "name": "John Lewis Loose Fit Corduroy Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-loose-fit-corduroy-trousers/p114375145",
+        "original_price": 59.0,
+        "latest_price": 29.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113429717": {
+        "name": "John Lewis Cut-Out Snowflake PVC Placemats, Set of 2, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-cut-out-snowflake-pvc-placemats-set-of-2-silver/p113429717",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112772745": {
+        "name": "John Lewis Round Corduroy Scatter Cushion, 40cm",
+        "url": "https://www.johnlewis.com/john-lewis-round-corduroy-scatter-cushion-40cm/p112772745",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112355887": {
+        "name": "John Lewis Metal Clothes Hanger, Set of 5",
+        "url": "https://www.johnlewis.com/john-lewis-metal-clothes-hanger-set-of-5/p112355887",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110486375": {
+        "name": "John Lewis Diamond Toothbrush Holder, Black",
+        "url": "https://www.johnlewis.com/john-lewis-diamond-toothbrush-holder-black/p110486375",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114091732": {
+        "name": "John Lewis Organic Cotton Stripe Lounge Trousers, Green Olive",
+        "url": "https://www.johnlewis.com/john-lewis-organic-cotton-stripe-lounge-trousers-green-olive/p114091732",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113392637": {
+        "name": "John Lewis Copper Metallic Splatter Glass Tumbler, 400ml, Clear",
+        "url": "https://www.johnlewis.com/john-lewis-copper-metallic-splatter-glass-tumbler-400ml-clear/p113392637",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112332141": {
+        "name": "John Lewis Waffle Jogger Lounge Trousers, Grey Charcoal",
+        "url": "https://www.johnlewis.com/john-lewis-waffle-jogger-lounge-trousers-grey-charcoal/p112332141",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112284174": {
+        "name": "John Lewis Hand Painted Stoneware Side Plates, Set of 2, 15.8cm, Blue/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-hand-painted-stoneware-side-plates-set-of-2-15-8cm-blue-multi/p112284174",
+        "original_price": 14.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112604341": {
+        "name": "John Lewis Ribbed Glass Small Urn Vase, H17cm, Clear",
+        "url": "https://www.johnlewis.com/john-lewis-ribbed-glass-small-urn-vase-h17cm-clear/p112604341",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112476939": {
+        "name": "John Lewis Maize Storage Basket, Set of 2, Natural/Black",
+        "url": "https://www.johnlewis.com/john-lewis-maize-storage-basket-set-of-2-natural-black/p112476939",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "109836088": {
+        "name": "John Lewis Oh My Darling Bee Sun Print Sleeping Bag, 0.5 Tog, White/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-oh-my-darling-bee-sun-print-sleeping-bag-0-5-tog-white-multi/p109836088",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111959828": {
+        "name": "John Lewis Hoxton Plated Metal Photo Frame & Mount",
+        "url": "https://www.johnlewis.com/john-lewis-hoxton-plated-metal-photo-frame-mount/p111959828",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "110970875": {
+        "name": "John Lewis 'Cove' Abstract Framed Canvas Print, 80 x 60cm, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-cove-abstract-framed-canvas-print-80-x-60cm-blue/p110970875",
+        "original_price": 95.0,
+        "latest_price": 47.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410534": {
+        "name": "John Lewis  9-Section Organiser, Mid Grey",
+        "url": "https://www.johnlewis.com/john-lewis-9-section-organiser-mid-grey/p112410534",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111818727": {
+        "name": "John Lewis Confetti Smudge Short Stem Wine Glass, 230ml, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-confetti-smudge-short-stem-wine-glass-230ml-blue/p111818727",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111425808": {
+        "name": "John Lewis Bobbin Desk",
+        "url": "https://www.johnlewis.com/john-lewis-bobbin-desk/p111425808",
+        "original_price": 199.0,
+        "latest_price": 99.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113696800": {
+        "name": "John Lewis Large Waterproof Holdall, Black",
+        "url": "https://www.johnlewis.com/john-lewis-large-waterproof-holdall-black/p113696800",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112451741": {
+        "name": "John Lewis Boxed Velvet Seat Pad",
+        "url": "https://www.johnlewis.com/john-lewis-boxed-velvet-seat-pad/p112451741",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113187782": {
+        "name": "John Lewis Harvest Block Stripe Cushion, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-harvest-block-stripe-cushion-multi/p113187782",
+        "original_price": 45.0,
+        "latest_price": 22.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114112516": {
+        "name": "John Lewis Made in Italy Bee & Flower Cotton Mix Socks, Pack of 3, Green Multi",
+        "url": "https://www.johnlewis.com/john-lewis-made-in-italy-bee-flower-cotton-mix-socks-pack-of-3-green-multi/p114112516",
+        "original_price": 23.0,
+        "latest_price": 11.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113948100": {
+        "name": "John Lewis Organic Cotton Rich Heel & Toe Plain & Pattern Socks, Pack of 5, Blue Multi",
+        "url": "https://www.johnlewis.com/john-lewis-organic-cotton-rich-heel-toe-plain-pattern-socks-pack-of-5-blue-multi/p113948100",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113908309": {
+        "name": "John Lewis Pixee Leather Chisel Toe Western Ankle Boots, Black",
+        "url": "https://www.johnlewis.com/john-lewis-pixee-leather-chisel-toe-western-ankle-boots-black/p113908309",
+        "original_price": 119.0,
+        "latest_price": 59.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113945013": {
+        "name": "John Lewis Merino Wool Half Zip Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-merino-wool-half-zip-jumper/p113945013",
+        "original_price": 69.0,
+        "latest_price": 34.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114116637": {
+        "name": "John Lewis Straight Corduroy Trousers",
+        "url": "https://www.johnlewis.com/john-lewis-straight-corduroy-trousers/p114116637",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111501090": {
+        "name": "John Lewis Poly Rattan and Bamboo Laundry Basket, Cherry Wood",
+        "url": "https://www.johnlewis.com/john-lewis-poly-rattan-and-bamboo-laundry-basket-cherry-wood/p111501090",
+        "original_price": 69.0,
+        "latest_price": 34.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112663008": {
+        "name": "John Lewis Cotton Regular Fit Oxford Shirt, Navy",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-regular-fit-oxford-shirt-navy/p112663008",
+        "original_price": 49.0,
+        "latest_price": 24.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111689411": {
+        "name": "John Lewis Stainless Steel Cutlery Set with Beech Wood Handles, 4 Piece/1 Place Setting",
+        "url": "https://www.johnlewis.com/john-lewis-stainless-steel-cutlery-set-with-beech-wood-handles-4-piece-1-place-setting/p111689411",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113558905": {
+        "name": "John Lewis Autumnal Foliage Votive Candle Holder, Set of 2",
+        "url": "https://www.johnlewis.com/john-lewis-autumnal-foliage-votive-candle-holder-set-of-2/p113558905",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113616528": {
+        "name": "John Lewis Alina Lace Body, Burgundy",
+        "url": "https://www.johnlewis.com/john-lewis-alina-lace-body-burgundy/p113616528",
+        "original_price": 46.0,
+        "latest_price": 23.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113545219": {
+        "name": "John Lewis Jacquard Cotton Blend Table Runner, 250cm, Red",
+        "url": "https://www.johnlewis.com/john-lewis-jacquard-cotton-blend-table-runner-250cm-red/p113545219",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "4801107": {
+        "name": "John Lewis P4 Laid Envelopes, Pack of 20",
+        "url": "https://www.johnlewis.com/john-lewis-p4-laid-envelopes-pack-of-20/p4801107",
+        "original_price": 4.0,
+        "latest_price": 2.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112284170": {
+        "name": "John Lewis Hand Painted Stripe Stoneware Rice Bowls, Set of 2, 19cm, Blue/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-hand-painted-stripe-stoneware-rice-bowls-set-of-2-19cm-blue-multi/p112284170",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112984034": {
+        "name": "John Lewis Elephant Velvet Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-elephant-velvet-cushion/p112984034",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113273913": {
+        "name": "John Lewis Christmas Enamel Mixing Bowl, 4.7L, White/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-enamel-mixing-bowl-4-7l-white-multi/p113273913",
+        "original_price": 22.0,
+        "latest_price": 11.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "114112518": {
+        "name": "John Lewis Cashmere Blend Ribbed Socks, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-blend-ribbed-socks-gold/p114112518",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111012699": {
+        "name": "John Lewis Under the Sea Toddler Pure Cotton Duvet Cover and Pillowcase Set, Cotbed (120 x 140cm)",
+        "url": "https://www.johnlewis.com/john-lewis-under-the-sea-toddler-pure-cotton-duvet-cover-and-pillowcase-set-cotbed-120-x-140cm/p111012699",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113765790": {
+        "name": "John Lewis Festive Treats Wicker Hamper",
+        "url": "https://www.johnlewis.com/john-lewis-festive-treats-wicker-hamper/p113765790",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "6264590": {
+        "name": "John Lewis Steel Elevated Candle Holder",
+        "url": "https://www.johnlewis.com/john-lewis-steel-elevated-candle-holder/p6264590",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410523": {
+        "name": "John Lewis Polyester 2-Section Organiser, Mid Grey",
+        "url": "https://www.johnlewis.com/john-lewis-polyester-2-section-organiser-mid-grey/p112410523",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111647949": {
+        "name": "John Lewis Hex Table Lamp Base",
+        "url": "https://www.johnlewis.com/john-lewis-hex-table-lamp-base/p111647949",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112284168": {
+        "name": "John Lewis Hand Painted Loop & Cross Stoneware Rice Bowls, Set of 2, 11cm, Blue/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-hand-painted-loop-cross-stoneware-rice-bowls-set-of-2-11cm-blue-multi/p112284168",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113324865": {
+        "name": "John Lewis Wiggle Cushion, Port",
+        "url": "https://www.johnlewis.com/john-lewis-wiggle-cushion-port/p113324865",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "111726505": {
+        "name": "John Lewis Reactive Glaze Two Tone Bathroom Tumbler, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-reactive-glaze-two-tone-bathroom-tumbler-natural/p111726505",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113543572": {
+        "name": "John Lewis Twill Scarf",
+        "url": "https://www.johnlewis.com/john-lewis-twill-scarf/p113543572",
+        "original_price": 22.0,
+        "latest_price": 11.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "112410527": {
+        "name": "John Lewis Drawer Organisers, Set of 2, Mid Grey",
+        "url": "https://www.johnlewis.com/john-lewis-drawer-organisers-set-of-2-mid-grey/p112410527",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "109717786": {
+        "name": "John Lewis Candlestick Floor Lamp Base, White",
+        "url": "https://www.johnlewis.com/john-lewis-candlestick-floor-lamp-base-white/p109717786",
+        "original_price": 130.0,
+        "latest_price": 65.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "4863573": {
+        "name": "John Lewis Stacked Cane Side Table, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-stacked-cane-side-table-natural/p4863573",
+        "original_price": 149.0,
+        "latest_price": 74.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113908326": {
+        "name": "John Lewis Powers Leather Moto Buckle Zip Ankle Boots",
+        "url": "https://www.johnlewis.com/john-lewis-powers-leather-moto-buckle-zip-ankle-boots/p113908326",
+        "original_price": 129.0,
+        "latest_price": 64.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113932922": {
+        "name": "John Lewis Cotton with Cashmere Half Zip Rib Knit High Neck Jumper",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-with-cashmere-half-zip-rib-knit-high-neck-jumper/p113932922",
+        "original_price": 69.0,
+        "latest_price": 34.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
+    },
+    "113093774": {
+        "name": "John Lewis Cashmere Lined Leather Gloves",
+        "url": "https://www.johnlewis.com/john-lewis-cashmere-lined-leather-gloves/brown/p113093774",
+        "original_price": 59.0,
+        "latest_price": 29.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-07T16:12:30.605501"
     }
 }
