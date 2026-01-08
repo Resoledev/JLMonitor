@@ -2018,5 +2018,25 @@
         "first_seen": "2026-01-08T08:23:28.593133",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "113993986": {
+        "name": "Culinary Concepts Olives Salt & Pepper Shaker Cruet Set",
+        "url": "https://www.johnlewis.com/culinary-concepts-olives-salt-pepper-shaker-cruet-set/p113993986",
+        "original_price": 64.9,
+        "latest_price": 32.45,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T10:54:47.060756",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113715053": {
+        "name": "Eleanor Bowmer Electric Coast Stoneware Jug, 850ml, Multi",
+        "url": "https://www.johnlewis.com/eleanor-bowmer-electric-coast-stoneware-jug-850ml-multi/p113715053",
+        "original_price": 34.0,
+        "latest_price": 17.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T10:54:47.060756",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }
