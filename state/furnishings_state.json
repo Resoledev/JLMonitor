@@ -23,11 +23,11 @@
         "name": "Disney Little Mermaid Tail Fleece Blanket",
         "url": "https://www.johnlewis.com/disney-little-mermaid-tail-fleece-blanket/p110488307",
         "original_price": 25.0,
-        "latest_price": 12.5,
+        "latest_price": 10.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T14:27:08.871783"
     },
     "112691637": {
         "name": "John Lewis Elvi Furnishing Fabric, Putty",
@@ -243,7 +243,7 @@
         "name": "John Lewis Vice Versa Stripe Corduroy Rectangular Cushion",
         "url": "https://www.johnlewis.com/john-lewis-vice-versa-stripe-corduroy-rectangular-cushion/p112772743",
         "original_price": 35.0,
-        "latest_price": 10.5,
+        "latest_price": 12.25,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": true,
@@ -1466,6 +1466,166 @@
         "latest_price": 17.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T08:13:10.996625",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113108787": {
+        "name": "John Lewis Woven Plaid Cushion, Red",
+        "url": "https://www.johnlewis.com/john-lewis-woven-plaid-cushion-red/p113108787",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5971667": {
+        "name": "John Lewis French Knot Penguin Christmas Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-french-knot-penguin-christmas-cushion/p5971667",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "4141259": {
+        "name": "John Lewis Cotton Blend Made to Measure Curtains or Roman Blind, Peacock",
+        "url": "https://www.johnlewis.com/john-lewis-cotton-blend-made-to-measure-curtains-or-roman-blind-peacock/p4141259",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3354556": {
+        "name": "John Lewis Leckford Trees Wallpaper, Green",
+        "url": "https://www.johnlewis.com/john-lewis-leckford-trees-wallpaper-green/p3354556",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112093667": {
+        "name": "John Lewis Nessa Weave Pair Lined Pencil Pleat Curtains",
+        "url": "https://www.johnlewis.com/john-lewis-nessa-weave-pair-lined-pencil-pleat-curtains/p112093667",
+        "original_price": 150.0,
+        "latest_price": 45.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5151638": {
+        "name": "John Lewis Lena Print Furnishing Fabric, Citrine",
+        "url": "https://www.johnlewis.com/john-lewis-lena-print-furnishing-fabric-citrine/p5151638",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112452017": {
+        "name": "John Lewis Fringed Velvet Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-fringed-velvet-cushion/p112452017",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113324056": {
+        "name": "John Lewis Velvet Colour Block Cord Cushion, Port",
+        "url": "https://www.johnlewis.com/john-lewis-velvet-colour-block-cord-cushion-port/p113324056",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112925856": {
+        "name": "John Lewis x Sanderson Cantaloupe Lined Pencil Pleat Curtains",
+        "url": "https://www.johnlewis.com/john-lewis-x-sanderson-cantaloupe-lined-pencil-pleat-curtains/p112925856",
+        "original_price": 88.0,
+        "latest_price": 26.4,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113143302": {
+        "name": "John Lewis Patchwork Cushion, Avocado",
+        "url": "https://www.johnlewis.com/john-lewis-patchwork-cushion-avocado/p113143302",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110962181": {
+        "name": "John Lewis Align Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-align-cushion/p110962181",
+        "original_price": 25.0,
+        "latest_price": 8.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3389673": {
+        "name": "John Lewis Fotheringay Furnishing Fabric, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-fotheringay-furnishing-fabric-multi/p3389673",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113117255": {
+        "name": "John Lewis ANYDAY Union Cushion, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-anyday-union-cushion-multi/p113117255",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113128577": {
+        "name": "John Lewis Bells Cushion, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-bells-cushion-multi/p113128577",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112999835": {
+        "name": "John Lewis Velvet Bow Cushion, Red",
+        "url": "https://www.johnlewis.com/john-lewis-velvet-bow-cushion-red/p112999835",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113470357": {
+        "name": "John Lewis Christmas Faux Fur Throw",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-faux-fur-throw/p113470357",
+        "original_price": 99.0,
+        "latest_price": 42.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:27:08.871783",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

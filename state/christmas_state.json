@@ -1318,5 +1318,625 @@
         "first_seen": "2026-01-08T08:16:21.902436",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "113924315": {
+        "name": "The Proper Mail Company Gold Foil Tree Christmas Card",
+        "url": "https://www.johnlewis.com/the-proper-mail-company-gold-foil-tree-christmas-card/p113924315",
+        "original_price": 4.5,
+        "latest_price": 2.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113320429": {
+        "name": "Sophie Allport Cosy Christmas Cotton Roller Hand Towel, Dusty Blue",
+        "url": "https://www.johnlewis.com/sophie-allport-cosy-christmas-cotton-roller-hand-towel-dusty-blue/p113320429",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270340": {
+        "name": "John Lewis Flora Holly Fine China Small Plates, Set of 4, 15cm, White",
+        "url": "https://www.johnlewis.com/john-lewis-flora-holly-fine-china-small-plates-set-of-4-15cm-white/p113270340",
+        "original_price": 13.0,
+        "latest_price": 6.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113462793": {
+        "name": "John Lewis Game Machine Bauble",
+        "url": "https://www.johnlewis.com/john-lewis-game-machine-bauble/p113462793",
+        "original_price": 10.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456220": {
+        "name": "John Lewis Kraft Red Nose Reindeer Wrapping Paper, L4m, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-kraft-red-nose-reindeer-wrapping-paper-l4m-multi/p113456220",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113091433": {
+        "name": "John Lewis Christmas Embroidered Cotton Double Oven Glove, Red/Green",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-embroidered-cotton-double-oven-glove-red-green/p113091433",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110234555": {
+        "name": "John Lewis Christmas Tree Silicone Non-Stick Cake Mould",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-silicone-non-stick-cake-mould/p110234555",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270371": {
+        "name": "John Lewis Flora Holly Fine China Dip Bowls, Set of 2, 11cm, White",
+        "url": "https://www.johnlewis.com/john-lewis-flora-holly-fine-china-dip-bowls-set-of-2-11cm-white/p113270371",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113231150": {
+        "name": "John Lewis Gold Base Ribbed Glass Champagne Flute, Set of 2, 170ml",
+        "url": "https://www.johnlewis.com/john-lewis-gold-base-ribbed-glass-champagne-flute-set-of-2-170ml/p113231150",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113375008": {
+        "name": "John Lewis Mini Trees Christmas Crackers, Pack of 12, Navy",
+        "url": "https://www.johnlewis.com/john-lewis-mini-trees-christmas-crackers-pack-of-12-navy/p113375008",
+        "original_price": 26.0,
+        "latest_price": 7.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270376": {
+        "name": "John Lewis Fleur Moon Fine China Side Plate, 19.6cm, White",
+        "url": "https://www.johnlewis.com/john-lewis-fleur-moon-fine-china-side-plate-19-6cm-white/p113270376",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456250": {
+        "name": "John Lewis Harlequin/Star Wrapping Paper, L4m, Teal/Red",
+        "url": "https://www.johnlewis.com/john-lewis-harlequin-star-wrapping-paper-l4m-teal-red/p113456250",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113563195": {
+        "name": "John Lewis Snowflake Paper Napkins, Pack of 20, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-snowflake-paper-napkins-pack-of-20-blue/p113563195",
+        "original_price": 2.0,
+        "latest_price": 0.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270359": {
+        "name": "John Lewis Christmas Dogs Fine China Plates, Set of 4, 15cm, White/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-dogs-fine-china-plates-set-of-4-15cm-white-multi/p113270359",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113374994": {
+        "name": "John Lewis Snowman Confetti Glass Tumbler, 370ml, White",
+        "url": "https://www.johnlewis.com/john-lewis-snowman-confetti-glass-tumbler-370ml-white/p113374994",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113558907": {
+        "name": "John Lewis Candy Cane Felt Napkin Rings, Set of 4, Red/White",
+        "url": "https://www.johnlewis.com/john-lewis-candy-cane-felt-napkin-rings-set-of-4-red-white/p113558907",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113818206": {
+        "name": "Galison LEGO Christmas Countdown",
+        "url": "https://www.johnlewis.com/galison-lego-christmas-countdown/p113818206",
+        "original_price": 21.99,
+        "latest_price": 10.99,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456071": {
+        "name": "John Lewis Holographic Snowflake Wrapping Paper, L4m, Silver",
+        "url": "https://www.johnlewis.com/john-lewis-holographic-snowflake-wrapping-paper-l4m-silver/p113456071",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113359428": {
+        "name": "John Lewis Scallop Edge Glass Charger Plate, 35cm, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-scallop-edge-glass-charger-plate-35cm-gold/p113359428",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110234510": {
+        "name": "John Lewis Christmas Mini Silicone Non-Stick Baking Mould",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-mini-silicone-non-stick-baking-mould/p110234510",
+        "original_price": 4.0,
+        "latest_price": 2.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456078": {
+        "name": "John Lewis Winter Berry Wrapping Paper, L4m, Navy",
+        "url": "https://www.johnlewis.com/john-lewis-winter-berry-wrapping-paper-l4m-navy/p113456078",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113374995": {
+        "name": "John Lewis Black Centre Stem Coupe Cocktail Glass, Set of 2, 280ml",
+        "url": "https://www.johnlewis.com/john-lewis-black-centre-stem-coupe-cocktail-glass-set-of-2-280ml/p113374995",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113558878": {
+        "name": "John Lewis Foliage Rectangular Mango Wood Platter, 34cm, Natural/Dark Green",
+        "url": "https://www.johnlewis.com/john-lewis-foliage-rectangular-mango-wood-platter-34cm-natural-dark-green/p113558878",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111835456": {
+        "name": "Tala Gingerbread Stainless Steel Cookie Cutter",
+        "url": "https://www.johnlewis.com/tala-gingerbread-stainless-steel-cookie-cutter/p111835456",
+        "original_price": 3.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113324972": {
+        "name": "John Lewis Christmas Solid Spoon, FSC-Certfied (Oak Wood)",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-solid-spoon-fsc-certfied-oak-wood/p113324972",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270375": {
+        "name": "John Lewis Robin Fine China Mince Pie Plate, 15cm, White",
+        "url": "https://www.johnlewis.com/john-lewis-robin-fine-china-mince-pie-plate-15cm-white/p113270375",
+        "original_price": 5.0,
+        "latest_price": 2.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113475175": {
+        "name": "John Lewis Hem Stitch Cotton Tablecloth, 320 x 160cm, Red",
+        "url": "https://www.johnlewis.com/john-lewis-hem-stitch-cotton-tablecloth-320-x-160cm-red/p113475175",
+        "original_price": 42.0,
+        "latest_price": 21.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113231160": {
+        "name": "John Lewis Gold Base Ribbed Glass Tumbler, Set of 2, 325ml",
+        "url": "https://www.johnlewis.com/john-lewis-gold-base-ribbed-glass-tumbler-set-of-2-325ml/p113231160",
+        "original_price": 22.0,
+        "latest_price": 11.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113476548": {
+        "name": "John Lewis Beaded Coaster, Set of 4, Dark Peacock",
+        "url": "https://www.johnlewis.com/john-lewis-beaded-coaster-set-of-4-dark-peacock/p113476548",
+        "original_price": 14.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456237": {
+        "name": "John Lewis Kraft Wrapping Paper, L4m, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-kraft-wrapping-paper-l4m-gold/p113456237",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113558909": {
+        "name": "John Lewis Pinecone Foliage Napkin Rings, Set of 4, Green/Silver",
+        "url": "https://www.johnlewis.com/john-lewis-pinecone-foliage-napkin-rings-set-of-4-green-silver/p113558909",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110424229": {
+        "name": "John Lewis Snowflake Silicone Trivet, White",
+        "url": "https://www.johnlewis.com/john-lewis-snowflake-silicone-trivet-white/p110424229",
+        "original_price": 4.0,
+        "latest_price": 2.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113463021": {
+        "name": "John Lewis Heirloom Splendour Striped Bow Tree Decoration, Pink",
+        "url": "https://www.johnlewis.com/john-lewis-heirloom-splendour-striped-bow-tree-decoration-pink/p113463021",
+        "original_price": 6.0,
+        "latest_price": 1.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113359426": {
+        "name": "John Lewis Glass Votive Candle Holder, Set of 2, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-glass-votive-candle-holder-set-of-2-gold/p113359426",
+        "original_price": 14.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113456263": {
+        "name": "John Lewis Simple Star Foiled Wrapping Paper, L4m, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-simple-star-foiled-wrapping-paper-l4m-gold/p113456263",
+        "original_price": 4.0,
+        "latest_price": 1.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112226661": {
+        "name": "Le Creuset Stoneware Holly Serve Bowl, 25cm",
+        "url": "https://www.johnlewis.com/le-creuset-stoneware-holly-serve-bowl-25cm/p112226661",
+        "original_price": 55.0,
+        "latest_price": 27.14,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113484922": {
+        "name": "Hallmark Harry Potter Nimbus 2000 Broomstick Metal Tree Decoration",
+        "url": "https://www.johnlewis.com/hallmark-harry-potter-nimbus-2000-broomstick-metal-tree-decoration/p113484922",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113260912": {
+        "name": "Tala Christmas Gingerbread House Treat Box, Set of 2",
+        "url": "https://www.johnlewis.com/tala-christmas-gingerbread-house-treat-box-set-of-2/p113260912",
+        "original_price": 3.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6380768": {
+        "name": "John Lewis French Knot Reindeer Christmas Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-french-knot-reindeer-christmas-cushion/p6380768",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113483842": {
+        "name": "John Lewis Plain Wreath, Dia.60cm",
+        "url": "https://www.johnlewis.com/john-lewis-plain-wreath-dia-60cm/p113483842",
+        "original_price": 35.0,
+        "latest_price": 10.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113231151": {
+        "name": "John Lewis Gold Base Ribbed Wine Glass, Set of 2, 310ml",
+        "url": "https://www.johnlewis.com/john-lewis-gold-base-ribbed-wine-glass-set-of-2-310ml/p113231151",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114275481": {
+        "name": "John Lewis Sparkler DS Ribbon, W25mm x L5m",
+        "url": "https://www.johnlewis.com/john-lewis-sparkler-ds-ribbon-w25mm-x-l5m/p114275481",
+        "original_price": 5.5,
+        "latest_price": 2.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113320431": {
+        "name": "Sophie Allport Cosy Christmas Double Oven Glove, Green",
+        "url": "https://www.johnlewis.com/sophie-allport-cosy-christmas-double-oven-glove-green/p113320431",
+        "original_price": 26.0,
+        "latest_price": 13.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113376867": {
+        "name": "John Lewis Who Am I Snowman Game Christmas Crackers, Pack of 6",
+        "url": "https://www.johnlewis.com/john-lewis-who-am-i-snowman-game-christmas-crackers-pack-of-6/p113376867",
+        "original_price": 16.0,
+        "latest_price": 4.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113484936": {
+        "name": "Hallmark Storied Moments Harry Potter & Ollivander Tree Decoration, Pack of 2",
+        "url": "https://www.johnlewis.com/hallmark-storied-moments-harry-potter-ollivander-tree-decoration-pack-of-2/p113484936",
+        "original_price": 20.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113515384": {
+        "name": "John Lewis x Sara Miller London Chelsea Collection Birds Christmas Stocking, Green",
+        "url": "https://www.johnlewis.com/john-lewis-x-sara-miller-london-chelsea-collection-birds-christmas-stocking-green/p113515384",
+        "original_price": 30.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113518008": {
+        "name": "John Lewis Heirloom Splendour Sparkly Sunglasses Bauble",
+        "url": "https://www.johnlewis.com/john-lewis-heirloom-splendour-sparkly-sunglasses-bauble/p113518008",
+        "original_price": 10.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113270351": {
+        "name": "John Lewis Christmas Pudding Stoneware Side Plate, 20cm",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-pudding-stoneware-side-plate-20cm/p113270351",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113429714": {
+        "name": "John Lewis Scallop Felt Placemats & Coasters, Set of 4, Green",
+        "url": "https://www.johnlewis.com/john-lewis-scallop-felt-placemats-coasters-set-of-4-green/p113429714",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113255507": {
+        "name": "John Lewis Debossed Christmas Tree Stoneware Cereal Bowl, 17cm, Green",
+        "url": "https://www.johnlewis.com/john-lewis-debossed-christmas-tree-stoneware-cereal-bowl-17cm-green/p113255507",
+        "original_price": 6.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113475164": {
+        "name": "John Lewis Metallic Stripe Rectangular Cotton Blend Tablecloth, 160 x 320cm, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-metallic-stripe-rectangular-cotton-blend-tablecloth-160-x-320cm-gold/p113475164",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113558908": {
+        "name": "John Lewis Pinecone Napkin Rings, Set of 4, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-pinecone-napkin-rings-set-of-4-gold/p113558908",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113273911": {
+        "name": "John Lewis Christmas Enamel Square Brownie Tray, 26cm, White/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-enamel-square-brownie-tray-26cm-white-multi/p113273911",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113510011": {
+        "name": "John Lewis Heirloom Splendour Poodle Snowglobe Bauble",
+        "url": "https://www.johnlewis.com/john-lewis-heirloom-splendour-poodle-snowglobe-bauble/p113510011",
+        "original_price": 10.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113496207": {
+        "name": "John Lewis Heirloom Splendour Custard Cream Felt Tree Decoration",
+        "url": "https://www.johnlewis.com/john-lewis-heirloom-splendour-custard-cream-felt-tree-decoration/p113496207",
+        "original_price": 6.0,
+        "latest_price": 1.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110425103": {
+        "name": "John Lewis Christmas Gingerbread House Silicone Non-Stick Muffin Mould, 6 Hole",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-gingerbread-house-silicone-non-stick-muffin-mould-6-hole/p110425103",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110425102": {
+        "name": "John Lewis Christmas Tree Silicone Non-Stick Muffin Mould, 6 Hole",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-silicone-non-stick-muffin-mould-6-hole/p110425102",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113475193": {
+        "name": "John Lewis Metallic Stripe Cotton Blend Napkins, Set of 4, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-metallic-stripe-cotton-blend-napkins-set-of-4-gold/p113475193",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113476587": {
+        "name": "John Lewis Scallop Edge Large Glass Bowl, 19.5 cm, Clear",
+        "url": "https://www.johnlewis.com/john-lewis-scallop-edge-large-glass-bowl-19-5-cm-clear/p113476587",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113376861": {
+        "name": "John Lewis Stripe and Bells Christmas Crackers, Pack of 10, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-and-bells-christmas-crackers-pack-of-10-multi/p113376861",
+        "original_price": 23.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113494101": {
+        "name": "John Lewis Striped Hanging Bow, Red/White, 35cm",
+        "url": "https://www.johnlewis.com/john-lewis-striped-hanging-bow-red-white-35cm/p113494101",
+        "original_price": 15.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113260922": {
+        "name": "Tala Christmas Bamboo Spatula with Silicone Head",
+        "url": "https://www.johnlewis.com/tala-christmas-bamboo-spatula-with-silicone-head/p113260922",
+        "original_price": 6.0,
+        "latest_price": 3.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:31:50.352325",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

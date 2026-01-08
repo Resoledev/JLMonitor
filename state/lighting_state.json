@@ -923,7 +923,7 @@
         "name": "John Lewis Tameo 5 Arm Flush Ceiling Light, Chrome",
         "url": "https://www.johnlewis.com/john-lewis-tameo-5-arm-flush-ceiling-light-chrome/p112192882",
         "original_price": 195.0,
-        "latest_price": 97.0,
+        "latest_price": 97.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:24:48.309235",
         "recently_reduced": false,
@@ -1002,12 +1002,12 @@
     "109752388": {
         "name": "John Lewis Ribbed Ceramic Lamp Base",
         "url": "https://www.johnlewis.com/john-lewis-ribbed-ceramic-lamp-base/p109752388",
-        "original_price": 90.0,
-        "latest_price": 45.0,
+        "original_price": 85.0,
+        "latest_price": 42.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:24:48.309235",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T14:17:07.674662"
     },
     "111654949": {
         "name": "John Lewis Boucle Layered Ceiling Lampshade",
@@ -1276,6 +1276,166 @@
         "latest_price": 6.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T07:57:12.268180",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111112149": {
+        "name": "John Lewis Stroud Wall Light, Black",
+        "url": "https://www.johnlewis.com/john-lewis-stroud-wall-light-black/p111112149",
+        "original_price": 52.0,
+        "latest_price": 15.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "109752399": {
+        "name": "John Lewis + Matthew Williamson Blown Glass Lamp Base, Orange/Mint/Black",
+        "url": "https://www.johnlewis.com/john-lewis-matthew-williamson-blown-glass-lamp-base-orange-mint-black/p109752399",
+        "original_price": 130.0,
+        "latest_price": 65.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112331144": {
+        "name": "John Lewis Botal Ceramic Table Lamp, Fruitti Glaze",
+        "url": "https://www.johnlewis.com/john-lewis-botal-ceramic-table-lamp-fruitti-glaze/p112331144",
+        "original_price": 140.0,
+        "latest_price": 70.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111112193": {
+        "name": "John Lewis Carlita XL Ceiling Light",
+        "url": "https://www.johnlewis.com/john-lewis-carlita-xl-ceiling-light/p111112193",
+        "original_price": 275.0,
+        "latest_price": 137.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112512861": {
+        "name": "John Lewis Sophia Pure Linen Drum Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-sophia-pure-linen-drum-lampshade/p112512861",
+        "original_price": 45.0,
+        "latest_price": 13.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112221818": {
+        "name": "John Lewis Trinity LED Semi Flush Ceiling Light, Rose Gold",
+        "url": "https://www.johnlewis.com/john-lewis-trinity-led-semi-flush-ceiling-light-rose-gold/p112221818",
+        "original_price": 115.0,
+        "latest_price": 57.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112331149": {
+        "name": "John Lewis The Potter's Wheel Tall Ceramic Table Lamp",
+        "url": "https://www.johnlewis.com/john-lewis-the-potters-wheel-tall-ceramic-table-lamp/black/p112331149",
+        "original_price": 160.0,
+        "latest_price": 80.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3997417": {
+        "name": "John Lewis Orb 8 Light Floor Lamp, Smoke",
+        "url": "https://www.johnlewis.com/john-lewis-orb-8-light-floor-lamp-smoke/p3997417",
+        "original_price": 350.0,
+        "latest_price": 175.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111645077": {
+        "name": "John Lewis Walker 6 Light Ceiling Lantern",
+        "url": "https://www.johnlewis.com/john-lewis-walker-6-light-ceiling-lantern/p111645077",
+        "original_price": 200.0,
+        "latest_price": 100.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112547360": {
+        "name": "MADE Ilaria Optical Glass Shade Flush Ceiling Light",
+        "url": "https://www.johnlewis.com/made-ilaria-optical-glass-shade-flush-ceiling-light/p112547360",
+        "original_price": 79.0,
+        "latest_price": 39.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112274717": {
+        "name": "John Lewis Easy-to-Fit Jute Ceiling Shade, White",
+        "url": "https://www.johnlewis.com/john-lewis-easy-to-fit-jute-ceiling-shade-white/p112274717",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111651297": {
+        "name": "John Lewis Sophia Pleated Candle Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-sophia-pleated-candle-lampshade/p111651297",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111651258": {
+        "name": "John Lewis Else Floral Pleated Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-else-floral-pleated-lampshade/p111651258",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3299933": {
+        "name": "John Lewis Harry Floor Lamp",
+        "url": "https://www.johnlewis.com/john-lewis-harry-floor-lamp/p3299933",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111530291": {
+        "name": "John Lewis + Matthew Williamson Bobbin Floor Lamp Base",
+        "url": "https://www.johnlewis.com/john-lewis-matthew-williamson-bobbin-floor-lamp-base/p111530291",
+        "original_price": 210.0,
+        "latest_price": 63.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111652319": {
+        "name": "John Lewis Issie Table Lamp, Black",
+        "url": "https://www.johnlewis.com/john-lewis-issie-table-lamp-black/p111652319",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:17:07.674662",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

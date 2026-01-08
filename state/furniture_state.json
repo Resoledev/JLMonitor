@@ -458,5 +458,75 @@
         "first_seen": "2026-01-08T07:53:18.360048",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "112327691": {
+        "name": "John Lewis Wave Double Bed Frame, Green",
+        "url": "https://www.johnlewis.com/john-lewis-wave-double-bed-frame-green/p112327691",
+        "original_price": 349.0,
+        "latest_price": 169.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112218455": {
+        "name": "John Lewis Boardwalk Garden Dining Chair, Set of 2, FSC-Certified (Acacia Wood), Natural",
+        "url": "https://www.johnlewis.com/john-lewis-boardwalk-garden-dining-chair-set-of-2-fsc-certified-acacia-wood-natural/p112218455",
+        "original_price": 449.0,
+        "latest_price": 134.7,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112057615": {
+        "name": "John Lewis Abacus 3 Drawer Wide Filing Chest, FSC-Certified (Oak Veneer), Natural",
+        "url": "https://www.johnlewis.com/john-lewis-abacus-3-drawer-wide-filing-chest-fsc-certified-oak-veneer-natural/p112057615",
+        "original_price": 349.0,
+        "latest_price": 174.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111748951": {
+        "name": "John Lewis Cantera Storage Desk, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-cantera-storage-desk-blue/p111748951",
+        "original_price": 349.0,
+        "latest_price": 174.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111229182": {
+        "name": "John Lewis Format Bedside Table",
+        "url": "https://www.johnlewis.com/john-lewis-format-bedside-table/p111229182",
+        "original_price": 89.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113094231": {
+        "name": "MADE Lacey Rectangular Coffee Table, Orange",
+        "url": "https://www.johnlewis.com/made-lacey-rectangular-coffee-table-orange/p113094231",
+        "original_price": 379.0,
+        "latest_price": 189.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112057616": {
+        "name": "John Lewis Abacus Narrow Cupboard, FSC Certified (Oak Veneer), Natural",
+        "url": "https://www.johnlewis.com/john-lewis-abacus-narrow-cupboard-fsc-certified-oak-veneer-natural/p112057616",
+        "original_price": 249.0,
+        "latest_price": 124.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

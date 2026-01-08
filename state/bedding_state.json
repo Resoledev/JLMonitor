@@ -3,11 +3,11 @@
         "name": "Disney Little Mermaid Tail Fleece Blanket",
         "url": "https://www.johnlewis.com/disney-little-mermaid-tail-fleece-blanket/p110488307",
         "original_price": 25.0,
-        "latest_price": 12.5,
+        "latest_price": 10.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T14:19:12.279275"
     },
     "5833583": {
         "name": "Disney Frozen Sherpa Fleece Throw",
@@ -296,6 +296,86 @@
         "latest_price": 8.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T07:59:39.059178",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112741170": {
+        "name": "Mapo\u00e9sie Stella Bedding",
+        "url": "https://www.johnlewis.com/mapoesie-stella-bedding/p112741170",
+        "original_price": 140.0,
+        "latest_price": 42.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113527785": {
+        "name": "Laura Ashley Sherston Fitted Sheet",
+        "url": "https://www.johnlewis.com/laura-ashley-sherston-fitted-sheet/p113527785",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113802500": {
+        "name": "William Morris At Home Rose Reversible Duvet Cover Set",
+        "url": "https://www.johnlewis.com/william-morris-at-home-rose-reversible-duvet-cover-set/p113802500",
+        "original_price": 125.0,
+        "latest_price": 62.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3321099": {
+        "name": "John Lewis Textured and Decorative Fusion Nisha Stripe Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-textured-and-decorative-fusion-nisha-stripe-duvet-cover-set/p3321099",
+        "original_price": 60.0,
+        "latest_price": 30.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111246822": {
+        "name": "John Lewis Quilted Microfibre Standard Pillow Protector, Pair",
+        "url": "https://www.johnlewis.com/john-lewis-quilted-microfibre-standard-pillow-protector-pair/p111246822",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6361059": {
+        "name": "John Lewis Spots Reversible Duvet Cover Set, Blue/Stone",
+        "url": "https://www.johnlewis.com/john-lewis-spots-reversible-duvet-cover-set-blue-stone/p6361059",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113470357": {
+        "name": "John Lewis Christmas Faux Fur Throw",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-faux-fur-throw/p113470357",
+        "original_price": 99.0,
+        "latest_price": 42.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112624865": {
+        "name": "John Lewis Blossom Duvet Cover Set, Sage Green",
+        "url": "https://www.johnlewis.com/john-lewis-blossom-duvet-cover-set-sage-green/p112624865",
+        "original_price": 80.0,
+        "latest_price": 40.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:19:12.279275",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

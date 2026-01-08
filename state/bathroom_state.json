@@ -322,12 +322,12 @@
     "113763621": {
         "name": "William Morris At Home Wild Tulip Towels",
         "url": "https://www.johnlewis.com/william-morris-at-home-wild-tulip-towels/p113763621",
-        "original_price": 48.0,
-        "latest_price": 24.0,
+        "original_price": 15.0,
+        "latest_price": 7.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:35:20.828310",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-08T14:24:04.495187"
     },
     "111211274": {
         "name": "John Lewis Open Check Bath Mat",
@@ -516,6 +516,66 @@
         "latest_price": 6.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T08:07:45.700661",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112376939": {
+        "name": "Ted Baker Rose Towels",
+        "url": "https://www.johnlewis.com/ted-baker-rose-towels/p112376939",
+        "original_price": 56.0,
+        "latest_price": 28.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110516134": {
+        "name": "Simplehuman Rectangular Liner Pocket Pedal Bin, Matte Black Steel, 55L",
+        "url": "https://www.johnlewis.com/simplehuman-rectangular-liner-pocket-pedal-bin-matte-black-steel-55l/p110516134",
+        "original_price": 210.0,
+        "latest_price": 105.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113399518": {
+        "name": "John Lewis Wavy Stripe Soap Dispenser",
+        "url": "https://www.johnlewis.com/john-lewis-wavy-stripe-soap-dispenser/olive/p113399518",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112664900": {
+        "name": "William Morris At Home Marigold Bath Mat",
+        "url": "https://www.johnlewis.com/william-morris-at-home-marigold-bath-mat/p112664900",
+        "original_price": 24.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "231572604": {
+        "name": "Leifheit Cabino Squeegee Shower Wiper with Hanging Loop",
+        "url": "https://www.johnlewis.com/leifheit-cabino-squeegee-shower-wiper-with-hanging-loop/p231572604",
+        "original_price": 8.0,
+        "latest_price": 4.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112885460": {
+        "name": "John Lewis x Sanderson Ottoman Bath Mat",
+        "url": "https://www.johnlewis.com/john-lewis-x-sanderson-ottoman-bath-mat/p112885460",
+        "original_price": 23.0,
+        "latest_price": 11.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-08T14:24:04.495187",
         "recently_reduced": false,
         "reduced_timestamp": null
     }
