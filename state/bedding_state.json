@@ -62,8 +62,8 @@
     "113184169": {
         "name": "John Lewis Cotton Winter Berry Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-cotton-winter-berry-duvet-cover-set/p113184169",
-        "original_price": 65.0,
-        "latest_price": 32.5,
+        "original_price": 75.0,
+        "latest_price": 37.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
         "recently_reduced": false,
@@ -386,6 +386,46 @@
         "latest_price": 8.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T16:52:52.532915",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112002775": {
+        "name": "MM Linen Anders Duvet Cover Set",
+        "url": "https://www.johnlewis.com/mm-linen-anders-duvet-cover-set/p112002775",
+        "original_price": 130.0,
+        "latest_price": 65.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:29:52.912295",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113527781": {
+        "name": "Laura Ashley Sherston Duvet Cover Set",
+        "url": "https://www.johnlewis.com/laura-ashley-sherston-duvet-cover-set/p113527781",
+        "original_price": 70.0,
+        "latest_price": 35.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:29:52.912295",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111732032": {
+        "name": "John Lewis Gingham Duvet Cover Set, Red Berry",
+        "url": "https://www.johnlewis.com/john-lewis-gingham-duvet-cover-set-red-berry/p111732032",
+        "original_price": 75.0,
+        "latest_price": 37.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:29:52.912295",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111913953": {
+        "name": "John Lewis X Collagerie Ikat Stripe Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-x-collagerie-ikat-stripe-duvet-cover-set/p111913953",
+        "original_price": 90.0,
+        "latest_price": 45.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:29:52.912295",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

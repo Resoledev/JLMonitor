@@ -122,8 +122,8 @@
     "3967052": {
         "name": "John Lewis Rona Weave Pair Lined Eyelet Curtains",
         "url": "https://www.johnlewis.com/john-lewis-rona-weave-pair-lined-eyelet-curtains/p3967052",
-        "original_price": 150.0,
-        "latest_price": 75.0,
+        "original_price": 200.0,
+        "latest_price": 100.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": false,
@@ -243,11 +243,11 @@
         "name": "John Lewis Vice Versa Stripe Corduroy Rectangular Cushion",
         "url": "https://www.johnlewis.com/john-lewis-vice-versa-stripe-corduroy-rectangular-cushion/p112772743",
         "original_price": 35.0,
-        "latest_price": 12.25,
+        "latest_price": 10.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": true,
-        "reduced_timestamp": "2026-01-08T08:13:10.996625"
+        "reduced_timestamp": "2026-01-09T07:35:38.061780"
     },
     "110465700": {
         "name": "John Lewis Strie Vinyl Wallpaper",
@@ -821,7 +821,7 @@
     },
     "112451741": {
         "name": "John Lewis Boxed Velvet Seat Pad",
-        "url": "https://www.johnlewis.com/john-lewis-boxed-velvet-seat-pad/petrol/p112451741",
+        "url": "https://www.johnlewis.com/john-lewis-boxed-velvet-seat-pad/p112451741",
         "original_price": 25.0,
         "latest_price": 12.5,
         "stock_status": "In Stock",
@@ -963,11 +963,11 @@
         "name": "John Lewis Velvet Stripe Cushion",
         "url": "https://www.johnlewis.com/john-lewis-velvet-stripe-cushion/p110260942",
         "original_price": 40.0,
-        "latest_price": 20.0,
+        "latest_price": 12.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T07:35:38.061780"
     },
     "111933690": {
         "name": "John Lewis Ferns Frill Cushion, Multi",
@@ -1636,6 +1636,16 @@
         "latest_price": 8.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T16:58:32.076258",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110339395": {
+        "name": "John Lewis Woven Draught Excluder, Graphite",
+        "url": "https://www.johnlewis.com/john-lewis-woven-draught-excluder-graphite/p110339395",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:35:38.061780",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

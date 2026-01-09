@@ -121,7 +121,7 @@
     },
     "112782772": {
         "name": "Mepal Flip Straw Leak-Proof Drinks Bottle, 600ml",
-        "url": "https://www.johnlewis.com/mepal-flip-straw-leak-proof-drinks-bottle-600ml/peach-orange/p112782772",
+        "url": "https://www.johnlewis.com/mepal-flip-straw-leak-proof-drinks-bottle-600ml/p112782772",
         "original_price": 16.99,
         "latest_price": 8.0,
         "stock_status": "In Stock",
@@ -2896,6 +2896,16 @@
         "latest_price": 15.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:37:40.710301",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112027695": {
+        "name": "John Lewis Archive Floral Print Bamboo Tray",
+        "url": "https://www.johnlewis.com/john-lewis-archive-floral-print-bamboo-tray/p112027695",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:39:24.775828",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

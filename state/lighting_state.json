@@ -923,11 +923,11 @@
         "name": "John Lewis Tameo 5 Arm Flush Ceiling Light, Chrome",
         "url": "https://www.johnlewis.com/john-lewis-tameo-5-arm-flush-ceiling-light-chrome/p112192882",
         "original_price": 195.0,
-        "latest_price": 97.5,
+        "latest_price": 97.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:24:48.309235",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T07:27:39.999683"
     },
     "113145046": {
         "name": "FontanaArte Cameo Portable Lamp, Gold",
@@ -1141,7 +1141,7 @@
     },
     "112274405": {
         "name": "John Lewis Boucle Drum Lampshade",
-        "url": "https://www.johnlewis.com/john-lewis-boucle-drum-lampshade/pistachio/p112274405",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-drum-lampshade/p112274405",
         "original_price": 45.0,
         "latest_price": 22.0,
         "stock_status": "In Stock",

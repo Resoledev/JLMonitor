@@ -2108,5 +2108,15 @@
         "first_seen": "2026-01-08T17:00:52.192458",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "113842746": {
+        "name": "John Lewis The After Party Cracker",
+        "url": "https://www.johnlewis.com/john-lewis-the-after-party-cracker/p113842746",
+        "original_price": 28.0,
+        "latest_price": 14.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:37:21.715606",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

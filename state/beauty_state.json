@@ -191,7 +191,7 @@
     },
     "2891257": {
         "name": "Hourglass Vanish Seamless Finish Foundation Stick",
-        "url": "https://www.johnlewis.com/hourglass-vanish-seamless-finish-foundation-stick/p2891257",
+        "url": "https://www.johnlewis.com/hourglass-vanish-seamless-finish-foundation-stick/chestnut/p2891257",
         "original_price": 49.0,
         "latest_price": 24.5,
         "stock_status": "In Stock",
@@ -203,11 +203,11 @@
         "name": "Bloom & Bay Jasmine Hair Claws, Pack of 2, Grey/Black",
         "url": "https://www.johnlewis.com/bloom-bay-jasmine-hair-claws-pack-of-2-grey-black/p114313380",
         "original_price": 24.95,
-        "latest_price": 12.0,
+        "latest_price": 10.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T07:44:25.730933"
     },
     "114220850": {
         "name": "Chantecaille Lip Cr\u00e8me \u00c9clat Cristalline Collection, Barberry",
@@ -313,21 +313,21 @@
         "name": "Bloom & Bay Ayanna Headband",
         "url": "https://www.johnlewis.com/bloom-bay-ayanna-headband/p114313374",
         "original_price": 22.95,
-        "latest_price": 11.0,
+        "latest_price": 7.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T07:44:25.730933"
     },
     "111061797": {
         "name": "Bloom & Bay Viola Triangular Hair Claws, Pack of 2",
         "url": "https://www.johnlewis.com/bloom-bay-viola-triangular-hair-claws-pack-of-2/p111061797",
         "original_price": 24.95,
-        "latest_price": 12.0,
+        "latest_price": 10.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T07:44:25.730933"
     },
     "113429331": {
         "name": "Briogeo Don\u2019t Despair, Repair!\u2122 Rosehip + Algae Deep Conditioning Mask Travel Size, 59ml",
@@ -1026,6 +1026,96 @@
         "latest_price": 95.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:42:46.979714",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313392": {
+        "name": "Bloom & Bay Leopard Make Up Bag, Pink",
+        "url": "https://www.johnlewis.com/bloom-bay-leopard-make-up-bag-pink/p114313392",
+        "original_price": 29.95,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113888096": {
+        "name": "Est\u00e9e Lauder Skincare Superstars Beauty Of The Night Gift Set",
+        "url": "https://www.johnlewis.com/estee-lauder-skincare-superstars-beauty-of-the-night-gift-set/p113888096",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112512902": {
+        "name": "Bloom & Bay Maya Claw Hair Clips, Set of 3, Black/Multi",
+        "url": "https://www.johnlewis.com/bloom-bay-maya-claw-hair-clips-set-of-3-black-multi/p112512902",
+        "original_price": 15.95,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112512947": {
+        "name": "Bloom & Bay Saphron Hair Bow, Black",
+        "url": "https://www.johnlewis.com/bloom-bay-saphron-hair-bow-black/p112512947",
+        "original_price": 17.95,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313375": {
+        "name": "Bloom & Bay Cosmos Embellished Headband, Black",
+        "url": "https://www.johnlewis.com/bloom-bay-cosmos-embellished-headband-black/p114313375",
+        "original_price": 17.95,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313389": {
+        "name": "Bloom & Bay Starfall Satin Headband, Black",
+        "url": "https://www.johnlewis.com/bloom-bay-starfall-satin-headband-black/p114313389",
+        "original_price": 22.95,
+        "latest_price": 11.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313379": {
+        "name": "Bloom & Bay Ixora Headband, Brown",
+        "url": "https://www.johnlewis.com/bloom-bay-ixora-headband-brown/p114313379",
+        "original_price": 18.95,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113842746": {
+        "name": "John Lewis The After Party Cracker",
+        "url": "https://www.johnlewis.com/john-lewis-the-after-party-cracker/p113842746",
+        "original_price": 28.0,
+        "latest_price": 14.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113180112": {
+        "name": "Bloom & Bay Arrabelle Satin Headband, Cream",
+        "url": "https://www.johnlewis.com/bloom-bay-arrabelle-satin-headband-cream/p113180112",
+        "original_price": 17.95,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T07:44:25.730933",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

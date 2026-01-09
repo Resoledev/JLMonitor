@@ -266,6 +266,10 @@
       {
         "price": 225.0,
         "timestamp": "2026-01-08T16:50:20.409153"
+      },
+      {
+        "price": 225.0,
+        "timestamp": "2026-01-09T07:27:35.835883"
       }
     ],
     "recently_reduced": false,
@@ -702,6 +706,10 @@
       {
         "price": 5.6,
         "timestamp": "2026-01-08T16:52:31.958624"
+      },
+      {
+        "price": 5.6,
+        "timestamp": "2026-01-09T07:29:36.896846"
       }
     ],
     "recently_reduced": true,
@@ -806,6 +814,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:57:49.447906"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:02.540407"
       }
     ],
     "recently_reduced": false,
@@ -966,6 +978,10 @@
       {
         "price": 6.25,
         "timestamp": "2026-01-08T16:58:01.608002"
+      },
+      {
+        "price": 6.25,
+        "timestamp": "2026-01-09T07:35:12.931633"
       }
     ],
     "recently_reduced": false,
@@ -1010,6 +1026,10 @@
       {
         "price": 25.5,
         "timestamp": "2026-01-08T16:50:23.580264"
+      },
+      {
+        "price": 25.5,
+        "timestamp": "2026-01-09T07:27:29.053766"
       }
     ],
     "recently_reduced": true,
@@ -1122,6 +1142,10 @@
       {
         "price": 78.0,
         "timestamp": "2026-01-08T16:50:21.899149"
+      },
+      {
+        "price": 78.0,
+        "timestamp": "2026-01-09T07:27:22.269400"
       }
     ],
     "recently_reduced": true,
@@ -1430,6 +1454,10 @@
       {
         "price": 14.4,
         "timestamp": "2026-01-08T16:50:41.740096"
+      },
+      {
+        "price": 14.4,
+        "timestamp": "2026-01-09T07:27:31.786496"
       }
     ],
     "recently_reduced": true,
@@ -1498,6 +1526,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:50:21.742804"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:27:19.312309"
       }
     ],
     "recently_reduced": false,
@@ -1546,6 +1578,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:50:28.483939"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:27:17.075211"
       }
     ],
     "recently_reduced": true,
@@ -1626,6 +1662,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:58:14.832670"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:34:51.068249"
       }
     ],
     "recently_reduced": false,
@@ -1674,10 +1714,14 @@
       {
         "price": 12.25,
         "timestamp": "2026-01-08T16:57:55.789338"
+      },
+      {
+        "price": 10.5,
+        "timestamp": "2026-01-09T07:34:56.284453"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "recently_reduced": true,
+    "reduction_from_initial": 14.285714285714285
   },
   "110224656": {
     "name": "John Lewis Serenity Natural WovenTable Lamp",
@@ -1786,6 +1830,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:58:23.612709"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:35:15.728412"
       }
     ],
     "recently_reduced": false,
@@ -1858,6 +1906,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:04.725750"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:24.463126"
       }
     ],
     "recently_reduced": false,
@@ -2054,6 +2106,10 @@
       {
         "price": 1.2,
         "timestamp": "2026-01-08T16:58:23.682464"
+      },
+      {
+        "price": 1.2,
+        "timestamp": "2026-01-09T07:34:55.244418"
       }
     ],
     "recently_reduced": false,
@@ -2534,6 +2590,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T16:58:17.554209"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:34:59.908722"
       }
     ],
     "recently_reduced": false,
@@ -2634,6 +2694,10 @@
       {
         "price": 6.25,
         "timestamp": "2026-01-08T16:57:52.035443"
+      },
+      {
+        "price": 6.25,
+        "timestamp": "2026-01-09T07:35:20.933329"
       }
     ],
     "recently_reduced": false,
@@ -2914,6 +2978,10 @@
       {
         "price": 4.75,
         "timestamp": "2026-01-08T17:00:25.239132"
+      },
+      {
+        "price": 4.75,
+        "timestamp": "2026-01-09T07:37:07.199150"
       }
     ],
     "recently_reduced": true,
@@ -2994,6 +3062,10 @@
       {
         "price": 87.5,
         "timestamp": "2026-01-08T16:50:26.983571"
+      },
+      {
+        "price": 87.5,
+        "timestamp": "2026-01-09T07:27:18.123004"
       }
     ],
     "recently_reduced": false,
@@ -3270,6 +3342,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T16:50:22.189024"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:27:19.359569"
       }
     ],
     "recently_reduced": true,
@@ -3338,6 +3414,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T17:03:29.180449"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:38:57.540191"
       }
     ],
     "recently_reduced": true,
@@ -3406,6 +3486,14 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:55:55.217506"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:25:39.303314"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:32:55.994188"
       }
     ],
     "recently_reduced": false,
@@ -3710,6 +3798,10 @@
       {
         "price": 6.25,
         "timestamp": "2026-01-08T16:57:49.492920"
+      },
+      {
+        "price": 6.25,
+        "timestamp": "2026-01-09T07:35:20.902846"
       }
     ],
     "recently_reduced": false,
@@ -3962,6 +4054,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:58:00.139881"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:35:17.049625"
       }
     ],
     "recently_reduced": false,
@@ -4094,6 +4190,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:57:52.078993"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:34:53.721260"
       }
     ],
     "recently_reduced": false,
@@ -4182,6 +4282,10 @@
       {
         "price": 52.5,
         "timestamp": "2026-01-08T16:50:33.924216"
+      },
+      {
+        "price": 52.5,
+        "timestamp": "2026-01-09T07:27:24.563171"
       }
     ],
     "recently_reduced": true,
@@ -4326,6 +4430,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:50.365752"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:49.376389"
       }
     ],
     "recently_reduced": false,
@@ -4462,6 +4570,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T17:02:40.621116"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:39:20.757717"
       }
     ],
     "recently_reduced": true,
@@ -4610,6 +4722,10 @@
       {
         "price": 7.75,
         "timestamp": "2026-01-08T17:00:13.176705"
+      },
+      {
+        "price": 7.75,
+        "timestamp": "2026-01-09T07:37:15.207831"
       }
     ],
     "recently_reduced": true,
@@ -4842,6 +4958,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:50:38.179790"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:27:31.800170"
       }
     ],
     "recently_reduced": false,
@@ -4902,6 +5022,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:27.644325"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:24.482039"
       }
     ],
     "recently_reduced": false,
@@ -5062,6 +5186,10 @@
       {
         "price": 24.0,
         "timestamp": "2026-01-08T16:50:16.958135"
+      },
+      {
+        "price": 24.0,
+        "timestamp": "2026-01-09T07:27:27.534336"
       }
     ],
     "recently_reduced": false,
@@ -5166,6 +5294,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:55:50.242885"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:32:48.019253"
       }
     ],
     "recently_reduced": false,
@@ -5214,6 +5346,10 @@
       {
         "price": 20.7,
         "timestamp": "2026-01-08T16:48:45.987664"
+      },
+      {
+        "price": 20.7,
+        "timestamp": "2026-01-09T07:25:39.485391"
       }
     ],
     "recently_reduced": true,
@@ -5298,6 +5434,10 @@
       {
         "price": 125.0,
         "timestamp": "2026-01-08T16:50:40.025725"
+      },
+      {
+        "price": 125.0,
+        "timestamp": "2026-01-09T07:27:15.037827"
       }
     ],
     "recently_reduced": false,
@@ -5462,6 +5602,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T16:58:04.699149"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:34:59.881239"
       }
     ],
     "recently_reduced": false,
@@ -5602,6 +5746,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-07T18:51:57.986467"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:03.247420"
       }
     ],
     "recently_reduced": false,
@@ -5794,6 +5942,10 @@
       {
         "price": 105.0,
         "timestamp": "2026-01-08T16:50:30.362860"
+      },
+      {
+        "price": 105.0,
+        "timestamp": "2026-01-09T07:27:37.222391"
       }
     ],
     "recently_reduced": true,
@@ -5962,6 +6114,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:50:26.950512"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:27:19.147454"
       }
     ],
     "recently_reduced": false,
@@ -6026,6 +6182,10 @@
       {
         "price": 80.0,
         "timestamp": "2026-01-08T16:48:46.086514"
+      },
+      {
+        "price": 80.0,
+        "timestamp": "2026-01-09T07:25:29.065498"
       }
     ],
     "recently_reduced": false,
@@ -6086,6 +6246,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:58:07.780493"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:34:56.172398"
       }
     ],
     "recently_reduced": false,
@@ -6258,6 +6422,10 @@
       {
         "price": 47.5,
         "timestamp": "2026-01-07T18:18:27.835490"
+      },
+      {
+        "price": 47.5,
+        "timestamp": "2026-01-09T07:27:37.200155"
       }
     ],
     "recently_reduced": false,
@@ -6810,6 +6978,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T16:57:58.930519"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:35:04.893621"
       }
     ],
     "recently_reduced": false,
@@ -7026,6 +7198,10 @@
       {
         "price": 45.0,
         "timestamp": "2026-01-08T16:50:43.823540"
+      },
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:27:20.755536"
       }
     ],
     "recently_reduced": true,
@@ -7070,6 +7246,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:55:58.023164"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:32:50.852613"
       }
     ],
     "recently_reduced": false,
@@ -7698,6 +7878,10 @@
       {
         "price": 5.25,
         "timestamp": "2026-01-08T16:58:18.981859"
+      },
+      {
+        "price": 5.25,
+        "timestamp": "2026-01-09T07:35:22.123020"
       }
     ],
     "recently_reduced": false,
@@ -7734,6 +7918,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:55:56.876670"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:32:54.911084"
       }
     ],
     "recently_reduced": false,
@@ -7862,6 +8050,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:19.306941"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:23.077579"
       }
     ],
     "recently_reduced": false,
@@ -8794,6 +8986,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:55:56.751348"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:32:52.081726"
       }
     ],
     "recently_reduced": false,
@@ -8866,6 +9062,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:13.275135"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:14.627944"
       }
     ],
     "recently_reduced": false,
@@ -9086,6 +9286,10 @@
       {
         "price": 175.0,
         "timestamp": "2026-01-08T16:58:01.653177"
+      },
+      {
+        "price": 175.0,
+        "timestamp": "2026-01-09T07:34:49.792377"
       }
     ],
     "recently_reduced": false,
@@ -9118,6 +9322,10 @@
       {
         "price": 4.2,
         "timestamp": "2026-01-08T16:55:50.286898"
+      },
+      {
+        "price": 4.2,
+        "timestamp": "2026-01-09T07:32:47.997944"
       }
     ],
     "recently_reduced": false,
@@ -9154,6 +9362,10 @@
       {
         "price": 63.6,
         "timestamp": "2026-01-08T16:48:28.551239"
+      },
+      {
+        "price": 63.6,
+        "timestamp": "2026-01-09T07:25:19.747780"
       }
     ],
     "recently_reduced": false,
@@ -9258,6 +9470,10 @@
       {
         "price": 139.6,
         "timestamp": "2026-01-08T16:48:44.957577"
+      },
+      {
+        "price": 139.6,
+        "timestamp": "2026-01-09T07:25:34.403662"
       }
     ],
     "recently_reduced": false,
@@ -9318,6 +9534,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T16:54:08.980092"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:31:28.696370"
       }
     ],
     "recently_reduced": false,
@@ -9406,6 +9626,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T16:54:00.523286"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:31:19.961918"
       }
     ],
     "recently_reduced": false,
@@ -9442,6 +9666,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:02:40.560312"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:18.129466"
       }
     ],
     "recently_reduced": true,
@@ -9478,6 +9706,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:03:25.484999"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:38:55.013991"
       }
     ],
     "recently_reduced": true,
@@ -9550,6 +9782,10 @@
       {
         "price": 22.0,
         "timestamp": "2026-01-08T16:50:18.546922"
+      },
+      {
+        "price": 22.0,
+        "timestamp": "2026-01-09T07:27:26.096552"
       }
     ],
     "recently_reduced": false,
@@ -9582,6 +9818,10 @@
       {
         "price": 58.5,
         "timestamp": "2026-01-08T16:54:05.017603"
+      },
+      {
+        "price": 58.5,
+        "timestamp": "2026-01-09T07:31:22.156018"
       }
     ],
     "recently_reduced": true,
@@ -9794,6 +10034,10 @@
       {
         "price": 37.0,
         "timestamp": "2026-01-08T16:50:34.436987"
+      },
+      {
+        "price": 37.0,
+        "timestamp": "2026-01-09T07:27:34.346267"
       }
     ],
     "recently_reduced": false,
@@ -9842,6 +10086,10 @@
       {
         "price": 37.0,
         "timestamp": "2026-01-08T16:50:33.994944"
+      },
+      {
+        "price": 37.0,
+        "timestamp": "2026-01-09T07:27:32.906493"
       }
     ],
     "recently_reduced": false,
@@ -9998,6 +10246,10 @@
       {
         "price": 28.5,
         "timestamp": "2026-01-08T16:50:33.970414"
+      },
+      {
+        "price": 28.5,
+        "timestamp": "2026-01-09T07:27:16.885856"
       }
     ],
     "recently_reduced": true,
@@ -10130,6 +10382,10 @@
       {
         "price": 139.0,
         "timestamp": "2026-01-08T16:48:45.951258"
+      },
+      {
+        "price": 139.0,
+        "timestamp": "2026-01-09T07:25:29.171722"
       }
     ],
     "recently_reduced": false,
@@ -10166,10 +10422,14 @@
       {
         "price": 97.5,
         "timestamp": "2026-01-08T16:50:31.729573"
+      },
+      {
+        "price": 97.0,
+        "timestamp": "2026-01-09T07:27:25.951656"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": -0.5154639175257731
+    "recently_reduced": true,
+    "reduction_from_initial": 0.0
   },
   "112272046": {
     "name": "John Lewis Leaf Pendant Ceiling Light, Gold",
@@ -10202,6 +10462,10 @@
       {
         "price": 88.5,
         "timestamp": "2026-01-08T16:50:17.169658"
+      },
+      {
+        "price": 88.5,
+        "timestamp": "2026-01-09T07:27:14.848451"
       }
     ],
     "recently_reduced": true,
@@ -10322,6 +10586,10 @@
       {
         "price": 112.0,
         "timestamp": "2026-01-08T16:50:26.762800"
+      },
+      {
+        "price": 112.0,
+        "timestamp": "2026-01-09T07:27:23.432362"
       }
     ],
     "recently_reduced": false,
@@ -10358,6 +10626,10 @@
       {
         "price": 67.5,
         "timestamp": "2026-01-08T16:54:20.834998"
+      },
+      {
+        "price": 67.5,
+        "timestamp": "2026-01-09T07:31:33.584293"
       }
     ],
     "recently_reduced": true,
@@ -10462,6 +10734,14 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T17:03:05.401185"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:37:10.989684"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:39:01.033470"
       }
     ],
     "recently_reduced": false,
@@ -10638,6 +10918,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:40.184474"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:37:05.877196"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:48.300011"
       }
     ],
     "recently_reduced": false,
@@ -10770,6 +11058,14 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:03:39.118504"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:37:14.142212"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:39:05.760580"
       }
     ],
     "recently_reduced": false,
@@ -10818,6 +11114,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:54:04.770120"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:31:32.504353"
       }
     ],
     "recently_reduced": false,
@@ -10926,6 +11226,14 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T17:03:25.840467"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:37:11.002720"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:39:01.204055"
       }
     ],
     "recently_reduced": true,
@@ -11042,6 +11350,14 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T17:03:20.778653"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:37:07.066950"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:38:49.516068"
       }
     ],
     "recently_reduced": false,
@@ -11078,6 +11394,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T17:03:38.808910"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:39:05.803088"
       }
     ],
     "recently_reduced": false,
@@ -11174,6 +11494,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:13.434185"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:02.366900"
       }
     ],
     "recently_reduced": false,
@@ -11254,6 +11578,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:23.940701"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:37:09.625606"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:56.386115"
       }
     ],
     "recently_reduced": false,
@@ -11334,6 +11666,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:11.662584"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:17.132715"
       }
     ],
     "recently_reduced": false,
@@ -11390,6 +11726,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:17.683272"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:34:58.803266"
       }
     ],
     "recently_reduced": false,
@@ -11470,6 +11810,14 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:14.820766"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:37:05.672047"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:38:48.285454"
       }
     ],
     "recently_reduced": false,
@@ -11530,6 +11878,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:55:55.193332"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:32:54.963776"
       }
     ],
     "recently_reduced": false,
@@ -11566,6 +11918,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T17:02:40.687322"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:39:21.918313"
       }
     ],
     "recently_reduced": false,
@@ -11602,6 +11958,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:37.404872"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:03.523479"
       }
     ],
     "recently_reduced": false,
@@ -11646,10 +12006,14 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T16:58:10.611232"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:20.858633"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "recently_reduced": true,
+    "reduction_from_initial": 40.0
   },
   "113476535": {
     "name": "John Lewis Beaded Round Coasters, Set of 4, White",
@@ -11702,6 +12066,14 @@
       {
         "price": 6.25,
         "timestamp": "2026-01-08T17:03:17.105893"
+      },
+      {
+        "price": 6.25,
+        "timestamp": "2026-01-09T07:37:15.177894"
+      },
+      {
+        "price": 6.25,
+        "timestamp": "2026-01-09T07:39:10.171928"
       }
     ],
     "recently_reduced": false,
@@ -11734,6 +12106,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T16:55:54.118971"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:32:50.737855"
       }
     ],
     "recently_reduced": false,
@@ -11770,6 +12146,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T17:03:10.778630"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:39:15.260294"
       }
     ],
     "recently_reduced": false,
@@ -11818,6 +12198,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T16:54:00.491086"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:31:35.673802"
       }
     ],
     "recently_reduced": false,
@@ -11850,6 +12234,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:58:28.962778"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:13.001891"
       }
     ],
     "recently_reduced": true,
@@ -11886,6 +12274,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:50:21.839295"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:27:18.140576"
       }
     ],
     "recently_reduced": false,
@@ -11982,6 +12374,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:54:06.434329"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:31:37.023172"
       }
     ],
     "recently_reduced": false,
@@ -12014,6 +12410,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:54:01.030939"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:31:27.394567"
       }
     ],
     "recently_reduced": false,
@@ -12074,6 +12474,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:13.245271"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:49.640764"
       }
     ],
     "recently_reduced": false,
@@ -12154,6 +12558,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:02:52.595046"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:08.342242"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:38:53.525303"
       }
     ],
     "recently_reduced": false,
@@ -12198,6 +12610,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:55.357548"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:56.050648"
       }
     ],
     "recently_reduced": true,
@@ -12298,6 +12714,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:57:57.245005"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:17.066444"
       }
     ],
     "recently_reduced": true,
@@ -12410,6 +12830,10 @@
       {
         "price": 39.5,
         "timestamp": "2026-01-08T16:48:40.493291"
+      },
+      {
+        "price": 39.5,
+        "timestamp": "2026-01-09T07:25:31.750591"
       }
     ],
     "recently_reduced": false,
@@ -12466,6 +12890,14 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:02:42.760926"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:37:10.948652"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:38:59.538426"
       }
     ],
     "recently_reduced": false,
@@ -12510,6 +12942,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:55.377272"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:46.754923"
       }
     ],
     "recently_reduced": false,
@@ -12546,6 +12982,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:27.216225"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:38:48.339202"
       }
     ],
     "recently_reduced": false,
@@ -12594,6 +13034,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:22.267438"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:55.001017"
       }
     ],
     "recently_reduced": false,
@@ -12650,6 +13094,14 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:25.551852"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:37:10.964893"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:38:57.526742"
       }
     ],
     "recently_reduced": false,
@@ -12682,6 +13134,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:57:51.013382"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:34:55.184564"
       }
     ],
     "recently_reduced": true,
@@ -12738,6 +13194,14 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:03:20.613961"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:37:09.533429"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:38:56.286061"
       }
     ],
     "recently_reduced": false,
@@ -12782,6 +13246,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:56:02.522944"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:54.948258"
       }
     ],
     "recently_reduced": true,
@@ -12850,6 +13318,14 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:38.644006"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:14.112149"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:07.097529"
       }
     ],
     "recently_reduced": false,
@@ -12906,6 +13382,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:54:15.699846"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:31:22.254733"
       }
     ],
     "recently_reduced": false,
@@ -12942,6 +13422,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:36.116358"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:38:49.675065"
       }
     ],
     "recently_reduced": false,
@@ -13038,6 +13522,10 @@
       {
         "price": 47.5,
         "timestamp": "2026-01-08T16:54:04.999580"
+      },
+      {
+        "price": 47.5,
+        "timestamp": "2026-01-09T07:31:31.321411"
       }
     ],
     "recently_reduced": false,
@@ -13110,6 +13598,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:44.388462"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:52.210960"
       }
     ],
     "recently_reduced": false,
@@ -13166,6 +13658,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:07.718167"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:34:56.220325"
       }
     ],
     "recently_reduced": false,
@@ -13198,6 +13694,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:27.805575"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:14.386800"
       }
     ],
     "recently_reduced": false,
@@ -13306,6 +13806,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:02:54.472209"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:39:02.311906"
       }
     ],
     "recently_reduced": false,
@@ -13426,6 +13930,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:11.171055"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:37:15.238105"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:39:10.068937"
       }
     ],
     "recently_reduced": false,
@@ -13470,6 +13982,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:13.702973"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:34:49.937219"
       }
     ],
     "recently_reduced": false,
@@ -13542,6 +14058,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:27.686587"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:39:12.843386"
       }
     ],
     "recently_reduced": false,
@@ -13598,6 +14118,14 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:02:40.703910"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:37:09.549587"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:38:57.448011"
       }
     ],
     "recently_reduced": false,
@@ -13642,6 +14170,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:54:03.293117"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:31:24.897736"
       }
     ],
     "recently_reduced": false,
@@ -13678,6 +14210,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:07.948317"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:48.354136"
       }
     ],
     "recently_reduced": false,
@@ -13714,6 +14250,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:50:31.646897"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:27:23.618383"
       }
     ],
     "recently_reduced": false,
@@ -13802,6 +14342,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:56:02.313743"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:32:46.710288"
       }
     ],
     "recently_reduced": false,
@@ -13838,6 +14382,10 @@
       {
         "price": 74.5,
         "timestamp": "2026-01-08T16:48:40.514391"
+      },
+      {
+        "price": 74.5,
+        "timestamp": "2026-01-09T07:25:14.270755"
       }
     ],
     "recently_reduced": false,
@@ -13950,6 +14498,10 @@
       {
         "price": 74.5,
         "timestamp": "2026-01-08T16:48:43.221832"
+      },
+      {
+        "price": 74.5,
+        "timestamp": "2026-01-09T07:25:21.877482"
       }
     ],
     "recently_reduced": false,
@@ -13982,6 +14534,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:48:26.980739"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:25:30.492691"
       }
     ],
     "recently_reduced": false,
@@ -14014,6 +14570,10 @@
       {
         "price": 149.5,
         "timestamp": "2026-01-08T16:48:41.901166"
+      },
+      {
+        "price": 149.5,
+        "timestamp": "2026-01-09T07:25:39.429944"
       }
     ],
     "recently_reduced": false,
@@ -14046,6 +14606,10 @@
       {
         "price": 149.0,
         "timestamp": "2026-01-08T16:48:32.170640"
+      },
+      {
+        "price": 149.0,
+        "timestamp": "2026-01-09T07:25:38.147756"
       }
     ],
     "recently_reduced": false,
@@ -14078,6 +14642,10 @@
       {
         "price": 149.5,
         "timestamp": "2026-01-08T16:48:53.112118"
+      },
+      {
+        "price": 149.5,
+        "timestamp": "2026-01-09T07:25:26.310530"
       }
     ],
     "recently_reduced": false,
@@ -14110,6 +14678,10 @@
       {
         "price": 89.5,
         "timestamp": "2026-01-08T16:48:42.025858"
+      },
+      {
+        "price": 89.5,
+        "timestamp": "2026-01-09T07:25:11.621403"
       }
     ],
     "recently_reduced": false,
@@ -14154,6 +14726,10 @@
       {
         "price": 174.5,
         "timestamp": "2026-01-08T16:48:49.228507"
+      },
+      {
+        "price": 174.5,
+        "timestamp": "2026-01-09T07:25:38.117866"
       }
     ],
     "recently_reduced": false,
@@ -14186,6 +14762,10 @@
       {
         "price": 99.5,
         "timestamp": "2026-01-08T16:48:48.039322"
+      },
+      {
+        "price": 99.5,
+        "timestamp": "2026-01-09T07:25:17.178142"
       }
     ],
     "recently_reduced": false,
@@ -14218,6 +14798,10 @@
       {
         "price": 59.0,
         "timestamp": "2026-01-08T16:48:30.081814"
+      },
+      {
+        "price": 59.0,
+        "timestamp": "2026-01-09T07:25:33.176514"
       }
     ],
     "recently_reduced": false,
@@ -14250,6 +14834,10 @@
       {
         "price": 225.0,
         "timestamp": "2026-01-08T16:48:43.195547"
+      },
+      {
+        "price": 225.0,
+        "timestamp": "2026-01-09T07:25:34.326841"
       }
     ],
     "recently_reduced": false,
@@ -14282,6 +14870,10 @@
       {
         "price": 149.5,
         "timestamp": "2026-01-08T16:48:55.754593"
+      },
+      {
+        "price": 149.5,
+        "timestamp": "2026-01-09T07:25:30.435184"
       }
     ],
     "recently_reduced": false,
@@ -14314,6 +14906,10 @@
       {
         "price": 74.5,
         "timestamp": "2026-01-08T16:48:33.119325"
+      },
+      {
+        "price": 74.5,
+        "timestamp": "2026-01-09T07:25:33.039238"
       }
     ],
     "recently_reduced": false,
@@ -14346,6 +14942,10 @@
       {
         "price": 199.5,
         "timestamp": "2026-01-08T16:48:30.067353"
+      },
+      {
+        "price": 199.5,
+        "timestamp": "2026-01-09T07:25:38.054734"
       }
     ],
     "recently_reduced": false,
@@ -14378,6 +14978,10 @@
       {
         "price": 174.5,
         "timestamp": "2026-01-08T16:48:46.039471"
+      },
+      {
+        "price": 174.5,
+        "timestamp": "2026-01-09T07:25:20.674081"
       }
     ],
     "recently_reduced": false,
@@ -14410,6 +15014,10 @@
       {
         "price": 114.5,
         "timestamp": "2026-01-08T16:48:40.581597"
+      },
+      {
+        "price": 114.5,
+        "timestamp": "2026-01-09T07:25:29.035928"
       }
     ],
     "recently_reduced": false,
@@ -14458,6 +15066,10 @@
       {
         "price": 449.5,
         "timestamp": "2026-01-08T16:48:47.509707"
+      },
+      {
+        "price": 449.5,
+        "timestamp": "2026-01-09T07:25:31.636582"
       }
     ],
     "recently_reduced": false,
@@ -14490,6 +15102,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:48:51.679262"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:25:12.811289"
       }
     ],
     "recently_reduced": false,
@@ -14522,6 +15138,10 @@
       {
         "price": 23.6,
         "timestamp": "2026-01-08T16:48:51.800244"
+      },
+      {
+        "price": 23.6,
+        "timestamp": "2026-01-09T07:25:31.652043"
       }
     ],
     "recently_reduced": false,
@@ -14554,6 +15174,10 @@
       {
         "price": 214.5,
         "timestamp": "2026-01-08T16:48:30.006522"
+      },
+      {
+        "price": 214.5,
+        "timestamp": "2026-01-09T07:25:15.735087"
       }
     ],
     "recently_reduced": false,
@@ -14586,6 +15210,10 @@
       {
         "price": 219.0,
         "timestamp": "2026-01-08T16:48:44.389139"
+      },
+      {
+        "price": 219.0,
+        "timestamp": "2026-01-09T07:25:11.608070"
       }
     ],
     "recently_reduced": false,
@@ -14618,6 +15246,10 @@
       {
         "price": 199.5,
         "timestamp": "2026-01-08T16:48:44.449902"
+      },
+      {
+        "price": 199.5,
+        "timestamp": "2026-01-09T07:25:15.814109"
       }
     ],
     "recently_reduced": false,
@@ -14650,6 +15282,10 @@
       {
         "price": 89.5,
         "timestamp": "2026-01-08T16:48:57.820623"
+      },
+      {
+        "price": 89.5,
+        "timestamp": "2026-01-09T07:25:33.112944"
       }
     ],
     "recently_reduced": false,
@@ -14682,6 +15318,10 @@
       {
         "price": 89.5,
         "timestamp": "2026-01-08T16:48:40.567660"
+      },
+      {
+        "price": 89.5,
+        "timestamp": "2026-01-09T07:25:34.539302"
       }
     ],
     "recently_reduced": false,
@@ -14714,6 +15354,10 @@
       {
         "price": 149.5,
         "timestamp": "2026-01-08T16:48:47.845956"
+      },
+      {
+        "price": 149.5,
+        "timestamp": "2026-01-09T07:25:22.176884"
       }
     ],
     "recently_reduced": false,
@@ -14746,6 +15390,10 @@
       {
         "price": 99.5,
         "timestamp": "2026-01-08T16:48:42.299679"
+      },
+      {
+        "price": 99.5,
+        "timestamp": "2026-01-09T07:25:11.511172"
       }
     ],
     "recently_reduced": false,
@@ -14826,6 +15474,10 @@
       {
         "price": 149.7,
         "timestamp": "2026-01-08T16:50:41.277845"
+      },
+      {
+        "price": 149.7,
+        "timestamp": "2026-01-09T07:27:15.914374"
       }
     ],
     "recently_reduced": true,
@@ -14858,6 +15510,10 @@
       {
         "price": 10.5,
         "timestamp": "2026-01-08T16:50:41.300341"
+      },
+      {
+        "price": 10.5,
+        "timestamp": "2026-01-09T07:27:35.706357"
       }
     ],
     "recently_reduced": false,
@@ -14890,6 +15546,10 @@
       {
         "price": 15.6,
         "timestamp": "2026-01-08T16:50:41.412638"
+      },
+      {
+        "price": 15.6,
+        "timestamp": "2026-01-09T07:27:27.511959"
       }
     ],
     "recently_reduced": true,
@@ -14922,6 +15582,10 @@
       {
         "price": 137.5,
         "timestamp": "2026-01-08T16:50:37.073205"
+      },
+      {
+        "price": 137.5,
+        "timestamp": "2026-01-09T07:27:31.693446"
       }
     ],
     "recently_reduced": false,
@@ -14954,6 +15618,10 @@
       {
         "price": 45.0,
         "timestamp": "2026-01-08T16:50:21.673400"
+      },
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:27:34.481871"
       }
     ],
     "recently_reduced": true,
@@ -14986,6 +15654,10 @@
       {
         "price": 34.5,
         "timestamp": "2026-01-08T16:50:24.036036"
+      },
+      {
+        "price": 34.5,
+        "timestamp": "2026-01-09T07:27:18.091080"
       }
     ],
     "recently_reduced": true,
@@ -15018,6 +15690,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:50:43.781096"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:27:27.665343"
       }
     ],
     "recently_reduced": false,
@@ -15050,6 +15726,10 @@
       {
         "price": 47.5,
         "timestamp": "2026-01-08T16:50:38.520799"
+      },
+      {
+        "price": 47.5,
+        "timestamp": "2026-01-09T07:27:14.970022"
       }
     ],
     "recently_reduced": false,
@@ -15082,6 +15762,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:50:23.545561"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:27:20.787004"
       }
     ],
     "recently_reduced": false,
@@ -15114,6 +15798,10 @@
       {
         "price": 330.0,
         "timestamp": "2026-01-08T16:50:26.730340"
+      },
+      {
+        "price": 330.0,
+        "timestamp": "2026-01-09T07:27:18.007114"
       }
     ],
     "recently_reduced": false,
@@ -15158,6 +15846,10 @@
       {
         "price": 34.0,
         "timestamp": "2026-01-08T16:50:40.116378"
+      },
+      {
+        "price": 34.0,
+        "timestamp": "2026-01-09T07:27:20.688611"
       }
     ],
     "recently_reduced": false,
@@ -15190,6 +15882,10 @@
       {
         "price": 60.0,
         "timestamp": "2026-01-08T16:50:21.693591"
+      },
+      {
+        "price": 60.0,
+        "timestamp": "2026-01-09T07:27:23.509500"
       }
     ],
     "recently_reduced": true,
@@ -15222,6 +15918,10 @@
       {
         "price": 80.0,
         "timestamp": "2026-01-08T16:50:21.406399"
+      },
+      {
+        "price": 80.0,
+        "timestamp": "2026-01-09T07:27:27.592388"
       }
     ],
     "recently_reduced": false,
@@ -15254,6 +15954,10 @@
       {
         "price": 169.5,
         "timestamp": "2026-01-08T16:50:43.737352"
+      },
+      {
+        "price": 169.5,
+        "timestamp": "2026-01-09T07:27:18.072105"
       }
     ],
     "recently_reduced": true,
@@ -15310,6 +16014,10 @@
       {
         "price": 58.5,
         "timestamp": "2026-01-08T16:50:16.978461"
+      },
+      {
+        "price": 58.5,
+        "timestamp": "2026-01-09T07:27:30.276163"
       }
     ],
     "recently_reduced": true,
@@ -15342,6 +16050,10 @@
       {
         "price": 25.5,
         "timestamp": "2026-01-08T16:50:36.889757"
+      },
+      {
+        "price": 25.5,
+        "timestamp": "2026-01-09T07:27:23.633825"
       }
     ],
     "recently_reduced": true,
@@ -15374,6 +16086,10 @@
       {
         "price": 52.5,
         "timestamp": "2026-01-08T16:50:19.861923"
+      },
+      {
+        "price": 52.5,
+        "timestamp": "2026-01-09T07:27:15.131766"
       }
     ],
     "recently_reduced": true,
@@ -15418,6 +16134,10 @@
       {
         "price": 31.5,
         "timestamp": "2026-01-08T16:50:18.530992"
+      },
+      {
+        "price": 31.5,
+        "timestamp": "2026-01-09T07:27:16.944308"
       }
     ],
     "recently_reduced": true,
@@ -15450,6 +16170,10 @@
       {
         "price": 48.0,
         "timestamp": "2026-01-08T16:50:24.075788"
+      },
+      {
+        "price": 48.0,
+        "timestamp": "2026-01-09T07:27:30.330244"
       }
     ],
     "recently_reduced": true,
@@ -15482,6 +16206,10 @@
       {
         "price": 28.5,
         "timestamp": "2026-01-08T16:50:42.685983"
+      },
+      {
+        "price": 28.5,
+        "timestamp": "2026-01-09T07:27:32.890278"
       }
     ],
     "recently_reduced": true,
@@ -15530,6 +16258,10 @@
       {
         "price": 20.4,
         "timestamp": "2026-01-08T16:50:31.627317"
+      },
+      {
+        "price": 20.4,
+        "timestamp": "2026-01-09T07:27:32.982437"
       }
     ],
     "recently_reduced": true,
@@ -15562,6 +16294,10 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:50:32.780297"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:27:26.053490"
       }
     ],
     "recently_reduced": false,
@@ -15594,6 +16330,10 @@
       {
         "price": 39.0,
         "timestamp": "2026-01-08T16:50:35.391555"
+      },
+      {
+        "price": 39.0,
+        "timestamp": "2026-01-09T07:27:34.271395"
       }
     ],
     "recently_reduced": false,
@@ -15626,6 +16366,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:50:31.678437"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:27:26.002337"
       }
     ],
     "recently_reduced": false,
@@ -15654,6 +16398,10 @@
       {
         "price": 32.5,
         "timestamp": "2026-01-08T16:50:23.508341"
+      },
+      {
+        "price": 32.5,
+        "timestamp": "2026-01-09T07:27:17.986282"
       }
     ],
     "recently_reduced": false,
@@ -15686,6 +16434,10 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:50:38.733558"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:27:19.279170"
       }
     ],
     "recently_reduced": false,
@@ -15718,6 +16470,10 @@
       {
         "price": 59.5,
         "timestamp": "2026-01-08T16:50:32.657081"
+      },
+      {
+        "price": 59.5,
+        "timestamp": "2026-01-09T07:27:16.978050"
       }
     ],
     "recently_reduced": false,
@@ -15750,6 +16506,10 @@
       {
         "price": 42.0,
         "timestamp": "2026-01-08T16:50:32.732737"
+      },
+      {
+        "price": 42.0,
+        "timestamp": "2026-01-09T07:27:32.938758"
       }
     ],
     "recently_reduced": true,
@@ -15782,6 +16542,10 @@
       {
         "price": 97.0,
         "timestamp": "2026-01-08T16:50:17.071727"
+      },
+      {
+        "price": 97.0,
+        "timestamp": "2026-01-09T07:27:37.273974"
       }
     ],
     "recently_reduced": false,
@@ -15814,6 +16578,10 @@
       {
         "price": 45.0,
         "timestamp": "2026-01-08T16:50:40.060825"
+      },
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:27:35.788436"
       }
     ],
     "recently_reduced": false,
@@ -15858,6 +16626,10 @@
       {
         "price": 118.5,
         "timestamp": "2026-01-08T16:50:32.716235"
+      },
+      {
+        "price": 118.5,
+        "timestamp": "2026-01-09T07:27:18.039074"
       }
     ],
     "recently_reduced": true,
@@ -15890,6 +16662,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:50:36.905392"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:27:17.058601"
       }
     ],
     "recently_reduced": false,
@@ -15922,6 +16698,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:50:25.303795"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:27:27.439503"
       }
     ],
     "recently_reduced": false,
@@ -15954,6 +16734,10 @@
       {
         "price": 42.5,
         "timestamp": "2026-01-08T16:50:26.747111"
+      },
+      {
+        "price": 42.5,
+        "timestamp": "2026-01-09T07:27:34.293753"
       }
     ],
     "recently_reduced": false,
@@ -15986,6 +16770,10 @@
       {
         "price": 26.0,
         "timestamp": "2026-01-08T16:50:36.944850"
+      },
+      {
+        "price": 26.0,
+        "timestamp": "2026-01-09T07:27:31.634634"
       }
     ],
     "recently_reduced": false,
@@ -16018,6 +16806,10 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T16:50:31.784737"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:27:30.398877"
       }
     ],
     "recently_reduced": false,
@@ -16050,6 +16842,10 @@
       {
         "price": 100.0,
         "timestamp": "2026-01-08T16:50:23.491384"
+      },
+      {
+        "price": 100.0,
+        "timestamp": "2026-01-09T07:27:37.242553"
       }
     ],
     "recently_reduced": false,
@@ -16082,6 +16878,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:50:35.491562"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:27:34.314142"
       }
     ],
     "recently_reduced": true,
@@ -16114,6 +16914,10 @@
       {
         "price": 70.0,
         "timestamp": "2026-01-08T16:50:20.185899"
+      },
+      {
+        "price": 70.0,
+        "timestamp": "2026-01-09T07:27:34.331682"
       }
     ],
     "recently_reduced": false,
@@ -16158,6 +16962,10 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:50:28.177869"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:27:18.207769"
       }
     ],
     "recently_reduced": true,
@@ -16190,6 +16998,10 @@
       {
         "price": 10.5,
         "timestamp": "2026-01-08T16:50:30.165059"
+      },
+      {
+        "price": 10.5,
+        "timestamp": "2026-01-09T07:27:14.795024"
       }
     ],
     "recently_reduced": true,
@@ -16222,6 +17034,10 @@
       {
         "price": 77.5,
         "timestamp": "2026-01-08T16:50:20.388570"
+      },
+      {
+        "price": 77.5,
+        "timestamp": "2026-01-09T07:27:31.675516"
       }
     ],
     "recently_reduced": false,
@@ -16282,6 +17098,10 @@
       {
         "price": 47.5,
         "timestamp": "2026-01-08T16:50:38.205913"
+      },
+      {
+        "price": 47.5,
+        "timestamp": "2026-01-09T07:27:22.148000"
       }
     ],
     "recently_reduced": false,
@@ -16314,6 +17134,10 @@
       {
         "price": 19.5,
         "timestamp": "2026-01-08T16:50:42.893985"
+      },
+      {
+        "price": 19.5,
+        "timestamp": "2026-01-09T07:27:16.907584"
       }
     ],
     "recently_reduced": true,
@@ -16346,6 +17170,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:50:32.681486"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:27:29.088366"
       }
     ],
     "recently_reduced": false,
@@ -16378,6 +17206,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:50:26.915704"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:27:15.187498"
       }
     ],
     "recently_reduced": false,
@@ -16410,6 +17242,10 @@
       {
         "price": 29.7,
         "timestamp": "2026-01-08T16:50:34.115221"
+      },
+      {
+        "price": 29.7,
+        "timestamp": "2026-01-09T07:27:20.628687"
       }
     ],
     "recently_reduced": true,
@@ -16438,6 +17274,10 @@
       {
         "price": 187.5,
         "timestamp": "2026-01-08T16:50:25.158845"
+      },
+      {
+        "price": 187.5,
+        "timestamp": "2026-01-09T07:27:34.403193"
       }
     ],
     "recently_reduced": false,
@@ -16470,6 +17310,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:50:37.057105"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:27:17.007904"
       }
     ],
     "recently_reduced": true,
@@ -16502,6 +17346,10 @@
       {
         "price": 225.0,
         "timestamp": "2026-01-08T16:50:28.524628"
+      },
+      {
+        "price": 225.0,
+        "timestamp": "2026-01-09T07:27:23.601868"
       }
     ],
     "recently_reduced": false,
@@ -16562,6 +17410,10 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T16:50:32.903730"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:27:22.235665"
       }
     ],
     "recently_reduced": false,
@@ -16594,6 +17446,10 @@
       {
         "price": 144.5,
         "timestamp": "2026-01-08T16:50:40.201583"
+      },
+      {
+        "price": 144.5,
+        "timestamp": "2026-01-09T07:27:30.314345"
       }
     ],
     "recently_reduced": false,
@@ -16626,6 +17482,10 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:50:34.458554"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:27:24.598105"
       }
     ],
     "recently_reduced": false,
@@ -16654,6 +17514,10 @@
       {
         "price": 65.0,
         "timestamp": "2026-01-08T16:50:30.114695"
+      },
+      {
+        "price": 65.0,
+        "timestamp": "2026-01-09T07:27:19.189904"
       }
     ],
     "recently_reduced": false,
@@ -16686,6 +17550,10 @@
       {
         "price": 42.5,
         "timestamp": "2026-01-08T16:50:18.607937"
+      },
+      {
+        "price": 42.5,
+        "timestamp": "2026-01-09T07:27:20.651245"
       }
     ],
     "recently_reduced": false,
@@ -16750,6 +17618,10 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T16:50:38.504147"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:27:22.125230"
       }
     ],
     "recently_reduced": false,
@@ -16782,6 +17654,10 @@
       {
         "price": 42.0,
         "timestamp": "2026-01-08T16:50:23.445942"
+      },
+      {
+        "price": 42.0,
+        "timestamp": "2026-01-09T07:27:23.551248"
       }
     ],
     "recently_reduced": true,
@@ -16842,6 +17718,10 @@
       {
         "price": 69.0,
         "timestamp": "2026-01-08T16:50:25.339853"
+      },
+      {
+        "price": 69.0,
+        "timestamp": "2026-01-09T07:27:30.354149"
       }
     ],
     "recently_reduced": false,
@@ -16874,6 +17754,10 @@
       {
         "price": 214.5,
         "timestamp": "2026-01-08T16:50:35.627645"
+      },
+      {
+        "price": 214.5,
+        "timestamp": "2026-01-09T07:27:19.377967"
       }
     ],
     "recently_reduced": false,
@@ -16906,6 +17790,10 @@
       {
         "price": 70.0,
         "timestamp": "2026-01-08T16:50:20.099108"
+      },
+      {
+        "price": 70.0,
+        "timestamp": "2026-01-09T07:27:22.318096"
       }
     ],
     "recently_reduced": false,
@@ -16938,6 +17826,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T16:50:30.095638"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:27:29.175075"
       }
     ],
     "recently_reduced": true,
@@ -16970,6 +17862,10 @@
       {
         "price": 83.7,
         "timestamp": "2026-01-08T16:50:28.307560"
+      },
+      {
+        "price": 83.7,
+        "timestamp": "2026-01-09T07:27:30.159169"
       }
     ],
     "recently_reduced": true,
@@ -17030,6 +17926,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:50:40.101094"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:27:35.726452"
       }
     ],
     "recently_reduced": false,
@@ -17062,6 +17962,10 @@
       {
         "price": 187.5,
         "timestamp": "2026-01-08T16:50:20.081806"
+      },
+      {
+        "price": 187.5,
+        "timestamp": "2026-01-09T07:27:20.702910"
       }
     ],
     "recently_reduced": false,
@@ -17094,6 +17998,10 @@
       {
         "price": 63.0,
         "timestamp": "2026-01-08T16:50:34.080739"
+      },
+      {
+        "price": 63.0,
+        "timestamp": "2026-01-09T07:27:32.830184"
       }
     ],
     "recently_reduced": true,
@@ -17122,6 +18030,10 @@
       {
         "price": 382.5,
         "timestamp": "2026-01-08T16:50:18.478337"
+      },
+      {
+        "price": 382.5,
+        "timestamp": "2026-01-09T07:27:24.613474"
       }
     ],
     "recently_reduced": false,
@@ -17154,6 +18066,10 @@
       {
         "price": 23.4,
         "timestamp": "2026-01-08T16:50:23.596826"
+      },
+      {
+        "price": 23.4,
+        "timestamp": "2026-01-09T07:27:31.815148"
       }
     ],
     "recently_reduced": true,
@@ -17258,6 +18174,10 @@
       {
         "price": 46.5,
         "timestamp": "2026-01-08T16:50:17.202444"
+      },
+      {
+        "price": 46.5,
+        "timestamp": "2026-01-09T07:27:26.020773"
       }
     ],
     "recently_reduced": true,
@@ -17290,6 +18210,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:50:42.845175"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:27:17.042955"
       }
     ],
     "recently_reduced": false,
@@ -17350,6 +18274,10 @@
       {
         "price": 42.0,
         "timestamp": "2026-01-08T16:50:43.940845"
+      },
+      {
+        "price": 42.0,
+        "timestamp": "2026-01-09T07:27:19.209083"
       }
     ],
     "recently_reduced": true,
@@ -17382,6 +18310,10 @@
       {
         "price": 34.0,
         "timestamp": "2026-01-08T16:50:42.823789"
+      },
+      {
+        "price": 34.0,
+        "timestamp": "2026-01-09T07:27:23.567679"
       }
     ],
     "recently_reduced": false,
@@ -17414,6 +18346,10 @@
       {
         "price": 28.5,
         "timestamp": "2026-01-08T16:50:35.561187"
+      },
+      {
+        "price": 28.5,
+        "timestamp": "2026-01-09T07:27:24.705565"
       }
     ],
     "recently_reduced": true,
@@ -17446,6 +18382,10 @@
       {
         "price": 104.7,
         "timestamp": "2026-01-08T16:50:18.495063"
+      },
+      {
+        "price": 104.7,
+        "timestamp": "2026-01-09T07:27:32.874272"
       }
     ],
     "recently_reduced": true,
@@ -17474,6 +18414,10 @@
       {
         "price": 247.5,
         "timestamp": "2026-01-08T16:50:30.063071"
+      },
+      {
+        "price": 247.5,
+        "timestamp": "2026-01-09T07:27:31.833579"
       }
     ],
     "recently_reduced": false,
@@ -17506,6 +18450,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:50:42.948913"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:27:19.329318"
       }
     ],
     "recently_reduced": false,
@@ -17534,6 +18482,10 @@
       {
         "price": 150.0,
         "timestamp": "2026-01-08T16:50:43.975035"
+      },
+      {
+        "price": 150.0,
+        "timestamp": "2026-01-09T07:27:22.203311"
       }
     ],
     "recently_reduced": false,
@@ -17562,6 +18514,10 @@
       {
         "price": 219.5,
         "timestamp": "2026-01-08T16:50:20.164960"
+      },
+      {
+        "price": 219.5,
+        "timestamp": "2026-01-09T07:27:15.112607"
       }
     ],
     "recently_reduced": false,
@@ -17606,6 +18562,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:58:14.861596"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:29:30.742596"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:35:02.479587"
       }
     ],
     "recently_reduced": true,
@@ -17658,6 +18622,14 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T16:58:00.124812"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:29:34.147542"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:35:14.474079"
       }
     ],
     "recently_reduced": false,
@@ -17722,6 +18694,14 @@
       {
         "price": 10.4,
         "timestamp": "2026-01-08T16:57:52.093789"
+      },
+      {
+        "price": 10.4,
+        "timestamp": "2026-01-09T07:29:11.718083"
+      },
+      {
+        "price": 10.4,
+        "timestamp": "2026-01-09T07:34:53.704551"
       }
     ],
     "recently_reduced": true,
@@ -17786,6 +18766,14 @@
       {
         "price": 97.5,
         "timestamp": "2026-01-08T16:58:29.197127"
+      },
+      {
+        "price": 97.5,
+        "timestamp": "2026-01-09T07:29:38.112369"
+      },
+      {
+        "price": 97.5,
+        "timestamp": "2026-01-09T07:35:22.087031"
       }
     ],
     "recently_reduced": false,
@@ -17810,10 +18798,14 @@
       {
         "price": 32.5,
         "timestamp": "2026-01-08T11:38:32.949576"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:29:29.159409"
       }
     ],
     "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "reduction_from_initial": -15.384615384615385
   },
   "111322531": {
     "name": "John Atkinson by Hainsworth Whip Stitch Wool Blanket",
@@ -17874,6 +18866,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:58:17.511305"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:29:27.468108"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:34:56.141308"
       }
     ],
     "recently_reduced": true,
@@ -17906,6 +18906,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:52:30.382132"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:29:10.834224"
       }
     ],
     "recently_reduced": false,
@@ -17974,6 +18978,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:52:34.000135"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:29:35.468525"
       }
     ],
     "recently_reduced": false,
@@ -18006,6 +19014,10 @@
       {
         "price": 3.6,
         "timestamp": "2026-01-08T16:52:39.748139"
+      },
+      {
+        "price": 3.6,
+        "timestamp": "2026-01-09T07:29:33.323643"
       }
     ],
     "recently_reduced": true,
@@ -18102,6 +19114,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:54:17.570964"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:31:36.993091"
       }
     ],
     "recently_reduced": false,
@@ -18134,6 +19150,10 @@
       {
         "price": 42.0,
         "timestamp": "2026-01-08T16:54:06.246003"
+      },
+      {
+        "price": 42.0,
+        "timestamp": "2026-01-09T07:31:35.869043"
       }
     ],
     "recently_reduced": true,
@@ -18162,6 +19182,10 @@
       {
         "price": 66.0,
         "timestamp": "2026-01-08T16:54:05.063822"
+      },
+      {
+        "price": 66.0,
+        "timestamp": "2026-01-09T07:31:27.541318"
       }
     ],
     "recently_reduced": true,
@@ -18194,6 +19218,10 @@
       {
         "price": 45.0,
         "timestamp": "2026-01-08T16:54:22.412230"
+      },
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:31:27.412709"
       }
     ],
     "recently_reduced": true,
@@ -18226,6 +19254,10 @@
       {
         "price": 60.0,
         "timestamp": "2026-01-08T16:54:19.839502"
+      },
+      {
+        "price": 60.0,
+        "timestamp": "2026-01-09T07:31:23.344706"
       }
     ],
     "recently_reduced": false,
@@ -18258,6 +19290,10 @@
       {
         "price": 65.0,
         "timestamp": "2026-01-08T16:54:10.403548"
+      },
+      {
+        "price": 65.0,
+        "timestamp": "2026-01-09T07:31:23.496771"
       }
     ],
     "recently_reduced": false,
@@ -18290,6 +19326,10 @@
       {
         "price": 18.0,
         "timestamp": "2026-01-08T16:54:00.589346"
+      },
+      {
+        "price": 18.0,
+        "timestamp": "2026-01-09T07:31:33.626296"
       }
     ],
     "recently_reduced": true,
@@ -18338,6 +19378,10 @@
       {
         "price": 32.5,
         "timestamp": "2026-01-08T16:54:06.187748"
+      },
+      {
+        "price": 32.5,
+        "timestamp": "2026-01-09T07:31:23.417233"
       }
     ],
     "recently_reduced": false,
@@ -18370,6 +19414,10 @@
       {
         "price": 55.0,
         "timestamp": "2026-01-08T16:54:07.713762"
+      },
+      {
+        "price": 55.0,
+        "timestamp": "2026-01-09T07:31:32.542184"
       }
     ],
     "recently_reduced": false,
@@ -18402,6 +19450,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:54:17.553940"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:31:29.037308"
       }
     ],
     "recently_reduced": false,
@@ -18434,6 +19486,10 @@
       {
         "price": 59.7,
         "timestamp": "2026-01-08T16:54:12.949573"
+      },
+      {
+        "price": 59.7,
+        "timestamp": "2026-01-09T07:31:27.477538"
       }
     ],
     "recently_reduced": true,
@@ -18466,6 +19522,10 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T16:54:02.214854"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:31:27.429026"
       }
     ],
     "recently_reduced": false,
@@ -18498,6 +19558,10 @@
       {
         "price": 112.5,
         "timestamp": "2026-01-08T16:54:16.127387"
+      },
+      {
+        "price": 112.5,
+        "timestamp": "2026-01-09T07:31:33.515024"
       }
     ],
     "recently_reduced": false,
@@ -18538,6 +19602,10 @@
       {
         "price": 80.0,
         "timestamp": "2026-01-08T16:54:08.934471"
+      },
+      {
+        "price": 80.0,
+        "timestamp": "2026-01-09T07:31:30.231834"
       }
     ],
     "recently_reduced": false,
@@ -18566,6 +19634,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:54:15.945640"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:31:35.828332"
       }
     ],
     "recently_reduced": false,
@@ -18594,6 +19666,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:54:19.739946"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:31:19.854683"
       }
     ],
     "recently_reduced": false,
@@ -18626,6 +19702,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:54:18.918711"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:31:34.684765"
       }
     ],
     "recently_reduced": false,
@@ -18658,6 +19738,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:54:14.498110"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:31:26.311928"
       }
     ],
     "recently_reduced": true,
@@ -18686,6 +19770,10 @@
       {
         "price": 125.0,
         "timestamp": "2026-01-08T16:54:12.847968"
+      },
+      {
+        "price": 125.0,
+        "timestamp": "2026-01-09T07:31:26.475300"
       }
     ],
     "recently_reduced": false,
@@ -18718,6 +19806,10 @@
       {
         "price": 36.0,
         "timestamp": "2026-01-08T16:54:21.010934"
+      },
+      {
+        "price": 36.0,
+        "timestamp": "2026-01-09T07:31:24.846810"
       }
     ],
     "recently_reduced": true,
@@ -18750,6 +19842,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:54:12.899073"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:31:36.962952"
       }
     ],
     "recently_reduced": true,
@@ -18782,6 +19878,10 @@
       {
         "price": 80.0,
         "timestamp": "2026-01-08T16:54:11.446670"
+      },
+      {
+        "price": 80.0,
+        "timestamp": "2026-01-09T07:31:23.294247"
       }
     ],
     "recently_reduced": false,
@@ -18854,6 +19954,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:54:15.857515"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:31:22.240380"
       }
     ],
     "recently_reduced": true,
@@ -18886,6 +19990,10 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T16:54:06.326238"
+      },
+      {
+        "price": 75.0,
+        "timestamp": "2026-01-09T07:31:26.298346"
       }
     ],
     "recently_reduced": false,
@@ -18914,6 +20022,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:54:17.785678"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:31:34.662566"
       }
     ],
     "recently_reduced": false,
@@ -18942,6 +20054,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:55:51.626928"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:32:55.024830"
       }
     ],
     "recently_reduced": true,
@@ -18970,6 +20086,10 @@
       {
         "price": 11.5,
         "timestamp": "2026-01-08T16:55:54.194014"
+      },
+      {
+        "price": 11.5,
+        "timestamp": "2026-01-09T07:32:57.237840"
       }
     ],
     "recently_reduced": false,
@@ -18998,6 +20118,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T16:56:00.635081"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:32:52.144562"
       }
     ],
     "recently_reduced": true,
@@ -19026,6 +20150,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T16:55:59.082474"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:32:56.018384"
       }
     ],
     "recently_reduced": true,
@@ -19054,6 +20182,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:55:58.053736"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:32:56.037145"
       }
     ],
     "recently_reduced": true,
@@ -19082,6 +20214,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T16:55:59.062600"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:32:57.191359"
       }
     ],
     "recently_reduced": true,
@@ -19110,6 +20246,10 @@
       {
         "price": 2.4,
         "timestamp": "2026-01-08T16:55:59.134890"
+      },
+      {
+        "price": 2.4,
+        "timestamp": "2026-01-09T07:32:46.741417"
       }
     ],
     "recently_reduced": true,
@@ -19158,6 +20298,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:55:51.435431"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:52.160222"
       }
     ],
     "recently_reduced": true,
@@ -19186,6 +20330,10 @@
       {
         "price": 6.6,
         "timestamp": "2026-01-08T16:55:53.202621"
+      },
+      {
+        "price": 6.6,
+        "timestamp": "2026-01-09T07:32:53.508690"
       }
     ],
     "recently_reduced": true,
@@ -19214,6 +20362,10 @@
       {
         "price": 57.5,
         "timestamp": "2026-01-08T16:55:55.406237"
+      },
+      {
+        "price": 57.5,
+        "timestamp": "2026-01-09T07:32:53.573470"
       }
     ],
     "recently_reduced": false,
@@ -19242,6 +20394,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:54.324605"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:45.645450"
       }
     ],
     "recently_reduced": false,
@@ -19270,6 +20426,10 @@
       {
         "price": 3.6,
         "timestamp": "2026-01-08T16:55:54.278286"
+      },
+      {
+        "price": 3.6,
+        "timestamp": "2026-01-09T07:32:54.927982"
       }
     ],
     "recently_reduced": true,
@@ -19326,6 +20486,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:54.138484"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:50.754312"
       }
     ],
     "recently_reduced": true,
@@ -19354,6 +20518,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:56:00.655796"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:46.768341"
       }
     ],
     "recently_reduced": true,
@@ -19382,6 +20550,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T16:55:50.350934"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:32:45.598347"
       }
     ],
     "recently_reduced": true,
@@ -19450,6 +20622,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:56:02.402345"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:32:50.770241"
       }
     ],
     "recently_reduced": false,
@@ -19478,6 +20654,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:56:00.595379"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:52.102042"
       }
     ],
     "recently_reduced": true,
@@ -19506,6 +20686,10 @@
       {
         "price": 3.6,
         "timestamp": "2026-01-08T16:56:02.669049"
+      },
+      {
+        "price": 3.6,
+        "timestamp": "2026-01-09T07:32:52.043244"
       }
     ],
     "recently_reduced": true,
@@ -19534,6 +20718,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:56.799283"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:45.715579"
       }
     ],
     "recently_reduced": false,
@@ -19590,6 +20778,10 @@
       {
         "price": 3.6,
         "timestamp": "2026-01-08T16:55:56.776993"
+      },
+      {
+        "price": 3.6,
+        "timestamp": "2026-01-09T07:32:53.311363"
       }
     ],
     "recently_reduced": true,
@@ -19618,6 +20810,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:55:56.972059"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:32:53.472372"
       }
     ],
     "recently_reduced": true,
@@ -19646,6 +20842,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:56:00.703233"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:48.142648"
       }
     ],
     "recently_reduced": true,
@@ -19674,6 +20874,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:55:52.778170"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:32:50.717526"
       }
     ],
     "recently_reduced": false,
@@ -19702,6 +20906,10 @@
       {
         "price": 3.6,
         "timestamp": "2026-01-08T16:55:59.300100"
+      },
+      {
+        "price": 3.6,
+        "timestamp": "2026-01-09T07:32:49.557560"
       }
     ],
     "recently_reduced": true,
@@ -19730,6 +20938,10 @@
       {
         "price": 2.4,
         "timestamp": "2026-01-08T16:55:54.083867"
+      },
+      {
+        "price": 2.4,
+        "timestamp": "2026-01-09T07:32:52.130562"
       }
     ],
     "recently_reduced": true,
@@ -19758,6 +20970,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-08T16:55:55.450670"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:32:54.894087"
       }
     ],
     "recently_reduced": true,
@@ -19798,6 +21014,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:23.755561"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:25.614672"
       }
     ],
     "recently_reduced": true,
@@ -19826,6 +21046,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T16:58:06.198407"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:34:49.923427"
       }
     ],
     "recently_reduced": false,
@@ -19854,6 +21078,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:57:53.837613"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:35:12.915212"
       }
     ],
     "recently_reduced": true,
@@ -19870,10 +21098,14 @@
       {
         "price": 75.0,
         "timestamp": "2026-01-08T08:09:23.750654"
+      },
+      {
+        "price": 100.0,
+        "timestamp": "2026-01-09T07:34:59.762746"
       }
     ],
     "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "reduction_from_initial": -33.33333333333333
   },
   "5130212": {
     "name": "John Lewis Maribel Wallpaper",
@@ -19950,6 +21182,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:58:26.099818"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:34:58.713943"
       }
     ],
     "recently_reduced": true,
@@ -19978,6 +21214,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:57:55.746366"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:34:57.428210"
       }
     ],
     "recently_reduced": false,
@@ -20006,6 +21246,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:06.298630"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:14.519046"
       }
     ],
     "recently_reduced": false,
@@ -20018,6 +21262,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-07T18:37:05.092336"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:34:48.864472"
       }
     ],
     "recently_reduced": false,
@@ -20046,6 +21294,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:58:00.154619"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:35:19.592994"
       }
     ],
     "recently_reduced": true,
@@ -20074,6 +21326,10 @@
       {
         "price": 8.5,
         "timestamp": "2026-01-08T16:58:16.316650"
+      },
+      {
+        "price": 8.5,
+        "timestamp": "2026-01-09T07:35:14.574478"
       }
     ],
     "recently_reduced": false,
@@ -20102,6 +21358,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:57:58.805167"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:05.984980"
       }
     ],
     "recently_reduced": false,
@@ -20130,6 +21390,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:57:55.759761"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:16.948101"
       }
     ],
     "recently_reduced": false,
@@ -20158,6 +21422,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:14.941821"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:24.355237"
       }
     ],
     "recently_reduced": false,
@@ -20186,6 +21454,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:57:57.113901"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:22.056231"
       }
     ],
     "recently_reduced": true,
@@ -20214,6 +21486,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:30.806278"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:15.675633"
       }
     ],
     "recently_reduced": true,
@@ -20302,6 +21578,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:10.583371"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:24.406515"
       }
     ],
     "recently_reduced": false,
@@ -20330,6 +21610,10 @@
       {
         "price": 10.5,
         "timestamp": "2026-01-08T16:57:53.943034"
+      },
+      {
+        "price": 10.5,
+        "timestamp": "2026-01-09T07:34:59.783264"
       }
     ],
     "recently_reduced": true,
@@ -20358,6 +21642,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:58:03.061752"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:35:04.838951"
       }
     ],
     "recently_reduced": true,
@@ -20386,6 +21674,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:57:50.984200"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:06.015920"
       }
     ],
     "recently_reduced": false,
@@ -20410,6 +21702,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:58:09.069222"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:34:57.516602"
       }
     ],
     "recently_reduced": false,
@@ -20438,6 +21734,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:07.765856"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:01.273822"
       }
     ],
     "recently_reduced": false,
@@ -20462,6 +21762,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:01.469492"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:15.657320"
       }
     ],
     "recently_reduced": false,
@@ -20490,6 +21794,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:06.314681"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:15.695748"
       }
     ],
     "recently_reduced": false,
@@ -20518,6 +21826,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:58:01.489217"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:35:18.091706"
       }
     ],
     "recently_reduced": false,
@@ -20558,6 +21870,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T11:43:46.429554"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:34:53.837021"
       }
     ],
     "recently_reduced": false,
@@ -20630,6 +21946,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:14.815049"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:03.524941"
       }
     ],
     "recently_reduced": false,
@@ -20658,6 +21978,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:57:53.855941"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:34:55.265997"
       }
     ],
     "recently_reduced": true,
@@ -20686,6 +22010,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:58:06.234439"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:34:53.736236"
       }
     ],
     "recently_reduced": true,
@@ -20706,6 +22034,10 @@
       {
         "price": 32.5,
         "timestamp": "2026-01-08T14:25:49.271448"
+      },
+      {
+        "price": 32.5,
+        "timestamp": "2026-01-09T07:34:55.148857"
       }
     ],
     "recently_reduced": false,
@@ -20774,6 +22106,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:58:29.078100"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:20.872312"
       }
     ],
     "recently_reduced": true,
@@ -20802,6 +22138,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:58:15.285522"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:34:53.677740"
       }
     ],
     "recently_reduced": false,
@@ -20814,6 +22154,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-07T18:37:30.002611"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:13.131787"
       }
     ],
     "recently_reduced": false,
@@ -20842,6 +22186,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T16:57:53.871887"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:34:53.750929"
       }
     ],
     "recently_reduced": false,
@@ -20870,6 +22218,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:57:49.585349"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:35:06.124120"
       }
     ],
     "recently_reduced": true,
@@ -20898,6 +22250,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:04.204722"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:19.462371"
       }
     ],
     "recently_reduced": false,
@@ -20954,6 +22310,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T16:58:20.827908"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:35:03.496172"
       }
     ],
     "recently_reduced": false,
@@ -20982,6 +22342,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:57:54.259778"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:34:48.932761"
       }
     ],
     "recently_reduced": true,
@@ -21110,6 +22474,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:58:13.369822"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:35:18.130981"
       }
     ],
     "recently_reduced": false,
@@ -21150,6 +22518,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:57:53.973367"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:19.477147"
       }
     ],
     "recently_reduced": false,
@@ -21178,6 +22550,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:57:53.774719"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:35:23.092654"
       }
     ],
     "recently_reduced": true,
@@ -21206,6 +22582,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:17.526397"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:14.505844"
       }
     ],
     "recently_reduced": false,
@@ -21234,6 +22614,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:20.875313"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:23.121992"
       }
     ],
     "recently_reduced": false,
@@ -21274,6 +22658,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:58:22.513313"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:35:18.220178"
       }
     ],
     "recently_reduced": true,
@@ -21302,6 +22690,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:57:51.060773"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:03.540793"
       }
     ],
     "recently_reduced": false,
@@ -21410,6 +22802,14 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:02:45.914494"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:37:16.531892"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:39:12.876105"
       }
     ],
     "recently_reduced": false,
@@ -21490,6 +22890,14 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T17:02:40.719195"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:37:07.010177"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:38:50.830635"
       }
     ],
     "recently_reduced": false,
@@ -21590,6 +22998,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:17.502649"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:09.488623"
       }
     ],
     "recently_reduced": false,
@@ -21646,6 +23058,10 @@
       {
         "price": 1.75,
         "timestamp": "2026-01-08T17:00:19.191551"
+      },
+      {
+        "price": 1.75,
+        "timestamp": "2026-01-09T07:37:11.920730"
       }
     ],
     "recently_reduced": false,
@@ -21678,6 +23094,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T17:03:05.337163"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:37:14.161618"
       }
     ],
     "recently_reduced": false,
@@ -21734,6 +23154,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T17:03:03.520930"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:37:14.188494"
       }
     ],
     "recently_reduced": false,
@@ -21774,6 +23198,14 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:00:11.598483"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:37:11.834049"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:02.259972"
       }
     ],
     "recently_reduced": false,
@@ -21802,6 +23234,10 @@
       {
         "price": 3.5,
         "timestamp": "2026-01-08T17:00:32.758539"
+      },
+      {
+        "price": 3.5,
+        "timestamp": "2026-01-09T07:37:17.830490"
       }
     ],
     "recently_reduced": false,
@@ -21830,6 +23266,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:08.943030"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:17.862486"
       }
     ],
     "recently_reduced": false,
@@ -22086,6 +23526,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:16.358790"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:17.877102"
       }
     ],
     "recently_reduced": false,
@@ -22142,6 +23586,10 @@
       {
         "price": 1.75,
         "timestamp": "2026-01-08T17:00:22.738717"
+      },
+      {
+        "price": 1.75,
+        "timestamp": "2026-01-09T07:37:14.244763"
       }
     ],
     "recently_reduced": false,
@@ -22186,6 +23634,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:00:10.311606"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:37:12.927224"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:39:04.636306"
       }
     ],
     "recently_reduced": false,
@@ -22258,6 +23714,14 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T17:02:42.694405"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:37:15.296442"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:39:11.691674"
       }
     ],
     "recently_reduced": false,
@@ -22410,6 +23874,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:03:40.131106"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:16.655973"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:12.924188"
       }
     ],
     "recently_reduced": false,
@@ -22466,6 +23938,10 @@
       {
         "price": 1.0,
         "timestamp": "2026-01-08T17:00:16.023167"
+      },
+      {
+        "price": 1.0,
+        "timestamp": "2026-01-09T07:37:19.025688"
       }
     ],
     "recently_reduced": false,
@@ -22570,6 +24046,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:00:19.328080"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:37:15.365761"
       }
     ],
     "recently_reduced": false,
@@ -22654,6 +24134,10 @@
       {
         "price": 1.75,
         "timestamp": "2026-01-08T17:00:08.922941"
+      },
+      {
+        "price": 1.75,
+        "timestamp": "2026-01-09T07:37:12.962616"
       }
     ],
     "recently_reduced": false,
@@ -22706,6 +24190,14 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:03:33.803811"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:37:14.175731"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:39:07.136170"
       }
     ],
     "recently_reduced": false,
@@ -22734,6 +24226,10 @@
       {
         "price": 3.75,
         "timestamp": "2026-01-08T17:00:20.947677"
+      },
+      {
+        "price": 3.75,
+        "timestamp": "2026-01-09T07:37:08.518120"
       }
     ],
     "recently_reduced": false,
@@ -22762,6 +24258,10 @@
       {
         "price": 21.0,
         "timestamp": "2026-01-08T17:00:13.264148"
+      },
+      {
+        "price": 21.0,
+        "timestamp": "2026-01-09T07:37:12.944882"
       }
     ],
     "recently_reduced": false,
@@ -22938,6 +24438,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:28.759093"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:09.590001"
       }
     ],
     "recently_reduced": false,
@@ -22966,6 +24470,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T17:00:23.902333"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:37:06.993427"
       }
     ],
     "recently_reduced": false,
@@ -22994,6 +24502,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:00:22.699863"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:12.882795"
       }
     ],
     "recently_reduced": false,
@@ -23022,6 +24534,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:00:25.193049"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:37:13.029980"
       }
     ],
     "recently_reduced": false,
@@ -23118,6 +24634,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:11.582664"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:17.907772"
       }
     ],
     "recently_reduced": false,
@@ -23210,6 +24730,10 @@
       {
         "price": 1.2,
         "timestamp": "2026-01-08T17:00:14.752442"
+      },
+      {
+        "price": 1.2,
+        "timestamp": "2026-01-09T07:37:05.924991"
       }
     ],
     "recently_reduced": false,
@@ -23286,6 +24810,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T17:00:34.485431"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:37:08.483145"
       }
     ],
     "recently_reduced": false,
@@ -23338,6 +24866,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:03:07.821243"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:12.108936"
       }
     ],
     "recently_reduced": false,
@@ -23366,6 +24898,10 @@
       {
         "price": 8.85,
         "timestamp": "2026-01-08T17:00:30.924178"
+      },
+      {
+        "price": 8.85,
+        "timestamp": "2026-01-09T07:37:07.027894"
       }
     ],
     "recently_reduced": false,
@@ -23546,6 +25082,10 @@
       {
         "price": 0.45,
         "timestamp": "2026-01-08T17:03:28.934509"
+      },
+      {
+        "price": 0.45,
+        "timestamp": "2026-01-09T07:39:20.811848"
       }
     ],
     "recently_reduced": false,
@@ -23590,6 +25130,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:02:39.350371"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:53.477714"
       }
     ],
     "recently_reduced": false,
@@ -23666,6 +25210,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T17:02:42.499474"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:39:07.258707"
       }
     ],
     "recently_reduced": false,
@@ -23730,6 +25278,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:02:51.397740"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:01.015869"
       }
     ],
     "recently_reduced": false,
@@ -23762,6 +25314,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:49.452160"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:38:49.576803"
       }
     ],
     "recently_reduced": false,
@@ -23826,6 +25382,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:17.127026"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:20.742981"
       }
     ],
     "recently_reduced": false,
@@ -23858,6 +25418,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:03:30.644314"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:02.380714"
       }
     ],
     "recently_reduced": false,
@@ -23882,6 +25446,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T11:47:25.978660"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:04.591206"
       }
     ],
     "recently_reduced": false,
@@ -23914,6 +25482,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:19.293152"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:19.292725"
       }
     ],
     "recently_reduced": false,
@@ -23958,6 +25530,10 @@
       {
         "price": 8.4,
         "timestamp": "2026-01-08T17:03:09.151483"
+      },
+      {
+        "price": 8.4,
+        "timestamp": "2026-01-09T07:39:19.323222"
       }
     ],
     "recently_reduced": true,
@@ -23982,6 +25558,10 @@
       {
         "price": 4.5,
         "timestamp": "2026-01-07T18:51:56.618891"
+      },
+      {
+        "price": 4.5,
+        "timestamp": "2026-01-09T07:39:20.774765"
       }
     ],
     "recently_reduced": false,
@@ -24014,6 +25594,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:49.307393"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:16.877450"
       }
     ],
     "recently_reduced": false,
@@ -24046,6 +25630,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:02:59.884853"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:39:11.531343"
       }
     ],
     "recently_reduced": false,
@@ -24066,6 +25654,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T17:03:23.825704"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:39:12.827399"
       }
     ],
     "recently_reduced": false,
@@ -24234,6 +25826,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:49.657948"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:18.211683"
       }
     ],
     "recently_reduced": false,
@@ -24266,6 +25862,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:03:30.862617"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:56.308228"
       }
     ],
     "recently_reduced": false,
@@ -24298,6 +25898,10 @@
       {
         "price": 3.25,
         "timestamp": "2026-01-08T17:03:37.567784"
+      },
+      {
+        "price": 3.25,
+        "timestamp": "2026-01-09T07:39:10.238114"
       }
     ],
     "recently_reduced": false,
@@ -24322,6 +25926,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T11:47:29.782969"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:38:58.641416"
       }
     ],
     "recently_reduced": false,
@@ -24354,6 +25962,10 @@
       {
         "price": 10.5,
         "timestamp": "2026-01-08T17:02:40.510627"
+      },
+      {
+        "price": 10.5,
+        "timestamp": "2026-01-09T07:38:47.108487"
       }
     ],
     "recently_reduced": true,
@@ -24418,6 +26030,10 @@
       {
         "price": 1.0,
         "timestamp": "2026-01-08T17:03:33.278730"
+      },
+      {
+        "price": 1.0,
+        "timestamp": "2026-01-09T07:39:07.288364"
       }
     ],
     "recently_reduced": false,
@@ -24450,6 +26066,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:19.307551"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:39:15.406773"
       }
     ],
     "recently_reduced": true,
@@ -24502,6 +26122,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:18.942274"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:04.746295"
       }
     ],
     "recently_reduced": false,
@@ -24566,6 +26190,10 @@
       {
         "price": 71.0,
         "timestamp": "2026-01-08T17:06:58.891611"
+      },
+      {
+        "price": 71.0,
+        "timestamp": "2026-01-09T07:42:51.331779"
       }
     ],
     "recently_reduced": false,
@@ -24598,6 +26226,10 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T17:07:02.776547"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:42:49.882045"
       }
     ],
     "recently_reduced": false,
@@ -24630,6 +26262,10 @@
       {
         "price": 8.7,
         "timestamp": "2026-01-08T17:07:04.721367"
+      },
+      {
+        "price": 8.7,
+        "timestamp": "2026-01-09T07:42:46.849183"
       }
     ],
     "recently_reduced": true,
@@ -24662,6 +26298,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:07:04.341131"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:42:44.161547"
       }
     ],
     "recently_reduced": false,
@@ -24722,6 +26362,10 @@
       {
         "price": 15.5,
         "timestamp": "2026-01-08T17:06:29.585706"
+      },
+      {
+        "price": 15.5,
+        "timestamp": "2026-01-09T07:43:11.546186"
       }
     ],
     "recently_reduced": false,
@@ -24754,6 +26398,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:07:33.508746"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:42:52.523016"
       }
     ],
     "recently_reduced": false,
@@ -24786,6 +26434,10 @@
       {
         "price": 8.7,
         "timestamp": "2026-01-08T17:07:21.510426"
+      },
+      {
+        "price": 8.7,
+        "timestamp": "2026-01-09T07:43:49.626545"
       }
     ],
     "recently_reduced": true,
@@ -24818,6 +26470,10 @@
       {
         "price": 40.0,
         "timestamp": "2026-01-08T17:07:18.435980"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:42:22.436498"
       }
     ],
     "recently_reduced": false,
@@ -24850,6 +26506,10 @@
       {
         "price": 52.5,
         "timestamp": "2026-01-08T17:07:29.253715"
+      },
+      {
+        "price": 52.5,
+        "timestamp": "2026-01-09T07:43:24.763610"
       }
     ],
     "recently_reduced": false,
@@ -24898,6 +26558,10 @@
       {
         "price": 14.5,
         "timestamp": "2026-01-08T17:06:40.455549"
+      },
+      {
+        "price": 14.5,
+        "timestamp": "2026-01-09T07:42:31.277189"
       }
     ],
     "recently_reduced": false,
@@ -24922,6 +26586,10 @@
       {
         "price": 15.05,
         "timestamp": "2026-01-08T17:07:34.513943"
+      },
+      {
+        "price": 15.05,
+        "timestamp": "2026-01-09T07:42:31.466101"
       }
     ],
     "recently_reduced": false,
@@ -24954,6 +26622,10 @@
       {
         "price": 19.0,
         "timestamp": "2026-01-08T17:06:32.667511"
+      },
+      {
+        "price": 19.0,
+        "timestamp": "2026-01-09T07:43:17.592464"
       }
     ],
     "recently_reduced": false,
@@ -24998,6 +26670,10 @@
       {
         "price": 16.0,
         "timestamp": "2026-01-08T17:07:03.373766"
+      },
+      {
+        "price": 16.0,
+        "timestamp": "2026-01-09T07:43:47.276376"
       }
     ],
     "recently_reduced": false,
@@ -25030,6 +26706,10 @@
       {
         "price": 5.07,
         "timestamp": "2026-01-08T17:07:19.905238"
+      },
+      {
+        "price": 5.07,
+        "timestamp": "2026-01-09T07:42:42.968950"
       }
     ],
     "recently_reduced": false,
@@ -25054,6 +26734,10 @@
       {
         "price": 24.5,
         "timestamp": "2026-01-08T11:51:23.469765"
+      },
+      {
+        "price": 24.5,
+        "timestamp": "2026-01-09T07:43:51.128872"
       }
     ],
     "recently_reduced": false,
@@ -25086,10 +26770,14 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T17:06:47.784172"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:43:15.504024"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "recently_reduced": true,
+    "reduction_from_initial": 16.666666666666664
   },
   "114220850": {
     "name": "Chantecaille Lip Cr\u00e8me \u00c9clat Cristalline Collection, Barberry",
@@ -25118,6 +26806,10 @@
       {
         "price": 24.0,
         "timestamp": "2026-01-08T17:06:30.835564"
+      },
+      {
+        "price": 24.0,
+        "timestamp": "2026-01-09T07:43:19.095237"
       }
     ],
     "recently_reduced": false,
@@ -25166,6 +26858,10 @@
       {
         "price": 8.7,
         "timestamp": "2026-01-08T17:06:43.580286"
+      },
+      {
+        "price": 8.7,
+        "timestamp": "2026-01-09T07:42:45.400458"
       }
     ],
     "recently_reduced": true,
@@ -25198,6 +26894,10 @@
       {
         "price": 31.0,
         "timestamp": "2026-01-08T17:07:25.377321"
+      },
+      {
+        "price": 31.0,
+        "timestamp": "2026-01-09T07:42:27.703956"
       }
     ],
     "recently_reduced": false,
@@ -25230,6 +26930,10 @@
       {
         "price": 18.75,
         "timestamp": "2026-01-08T17:06:59.998283"
+      },
+      {
+        "price": 18.75,
+        "timestamp": "2026-01-09T07:42:44.236481"
       }
     ],
     "recently_reduced": false,
@@ -25262,6 +26966,10 @@
       {
         "price": 52.5,
         "timestamp": "2026-01-08T17:06:53.594541"
+      },
+      {
+        "price": 52.5,
+        "timestamp": "2026-01-09T07:43:22.077556"
       }
     ],
     "recently_reduced": false,
@@ -25294,6 +27002,10 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T17:06:41.848341"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:42:25.339402"
       }
     ],
     "recently_reduced": false,
@@ -25326,6 +27038,10 @@
       {
         "price": 14.5,
         "timestamp": "2026-01-08T17:06:32.713783"
+      },
+      {
+        "price": 14.5,
+        "timestamp": "2026-01-09T07:42:30.097079"
       }
     ],
     "recently_reduced": false,
@@ -25358,6 +27074,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T17:07:04.181112"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:43:40.023463"
       }
     ],
     "recently_reduced": false,
@@ -25390,6 +27110,10 @@
       {
         "price": 8.7,
         "timestamp": "2026-01-08T17:06:26.716604"
+      },
+      {
+        "price": 8.7,
+        "timestamp": "2026-01-09T07:42:38.508441"
       }
     ],
     "recently_reduced": true,
@@ -25422,10 +27146,14 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:06:39.191339"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:42:42.813961"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "recently_reduced": true,
+    "reduction_from_initial": 36.36363636363637
   },
   "111061797": {
     "name": "Bloom & Bay Viola Triangular Hair Claws, Pack of 2",
@@ -25454,10 +27182,14 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T17:07:33.585564"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:43:16.605325"
       }
     ],
-    "recently_reduced": false,
-    "reduction_from_initial": 0.0
+    "recently_reduced": true,
+    "reduction_from_initial": 16.666666666666664
   },
   "113429331": {
     "name": "Briogeo Don\u2019t Despair, Repair!\u2122 Rosehip + Algae Deep Conditioning Mask Travel Size, 59ml",
@@ -25486,6 +27218,10 @@
       {
         "price": 7.35,
         "timestamp": "2026-01-08T17:06:41.765434"
+      },
+      {
+        "price": 7.35,
+        "timestamp": "2026-01-09T07:43:17.608419"
       }
     ],
     "recently_reduced": false,
@@ -25518,6 +27254,10 @@
       {
         "price": 38.5,
         "timestamp": "2026-01-08T17:07:27.688148"
+      },
+      {
+        "price": 38.5,
+        "timestamp": "2026-01-09T07:42:43.056364"
       }
     ],
     "recently_reduced": false,
@@ -25558,6 +27298,10 @@
       {
         "price": 199.5,
         "timestamp": "2026-01-08T16:48:36.504129"
+      },
+      {
+        "price": 199.5,
+        "timestamp": "2026-01-09T07:25:11.589909"
       }
     ],
     "recently_reduced": false,
@@ -25586,6 +27330,10 @@
       {
         "price": 370.0,
         "timestamp": "2026-01-08T16:48:55.669460"
+      },
+      {
+        "price": 370.0,
+        "timestamp": "2026-01-09T07:25:39.471187"
       }
     ],
     "recently_reduced": false,
@@ -25630,6 +27378,14 @@
       {
         "price": 16.49,
         "timestamp": "2026-01-08T16:58:26.261579"
+      },
+      {
+        "price": 16.49,
+        "timestamp": "2026-01-09T07:25:27.766300"
+      },
+      {
+        "price": 16.49,
+        "timestamp": "2026-01-09T07:35:13.021044"
       }
     ],
     "recently_reduced": false,
@@ -25658,6 +27414,10 @@
       {
         "price": 49.5,
         "timestamp": "2026-01-08T16:48:37.611009"
+      },
+      {
+        "price": 49.5,
+        "timestamp": "2026-01-09T07:25:30.479335"
       }
     ],
     "recently_reduced": false,
@@ -25686,6 +27446,10 @@
       {
         "price": 470.0,
         "timestamp": "2026-01-08T16:48:40.549423"
+      },
+      {
+        "price": 470.0,
+        "timestamp": "2026-01-09T07:25:19.515237"
       }
     ],
     "recently_reduced": false,
@@ -25714,6 +27478,10 @@
       {
         "price": 74.5,
         "timestamp": "2026-01-08T16:48:43.042620"
+      },
+      {
+        "price": 74.5,
+        "timestamp": "2026-01-09T07:25:19.705867"
       }
     ],
     "recently_reduced": false,
@@ -25742,6 +27510,10 @@
       {
         "price": 89.5,
         "timestamp": "2026-01-08T16:48:54.404906"
+      },
+      {
+        "price": 89.5,
+        "timestamp": "2026-01-09T07:25:26.326809"
       }
     ],
     "recently_reduced": false,
@@ -25770,6 +27542,10 @@
       {
         "price": 34.5,
         "timestamp": "2026-01-08T16:48:54.376195"
+      },
+      {
+        "price": 34.5,
+        "timestamp": "2026-01-09T07:25:30.463766"
       }
     ],
     "recently_reduced": false,
@@ -25798,6 +27574,10 @@
       {
         "price": 420.0,
         "timestamp": "2026-01-08T16:48:53.142015"
+      },
+      {
+        "price": 420.0,
+        "timestamp": "2026-01-09T07:25:36.794018"
       }
     ],
     "recently_reduced": false,
@@ -25826,6 +27606,10 @@
       {
         "price": 54.0,
         "timestamp": "2026-01-08T16:50:31.710154"
+      },
+      {
+        "price": 54.0,
+        "timestamp": "2026-01-09T07:27:22.373272"
       }
     ],
     "recently_reduced": false,
@@ -25854,6 +27638,10 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:50:38.233198"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:27:20.672630"
       }
     ],
     "recently_reduced": false,
@@ -25882,6 +27670,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:50:40.000381"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:27:22.286443"
       }
     ],
     "recently_reduced": false,
@@ -25910,6 +27702,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:50:28.198685"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:27:35.803695"
       }
     ],
     "recently_reduced": false,
@@ -25954,6 +27750,14 @@
       {
         "price": 40.0,
         "timestamp": "2026-01-08T16:57:58.865444"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:29:36.711911"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:35:17.035121"
       }
     ],
     "recently_reduced": false,
@@ -25982,6 +27786,10 @@
       {
         "price": 47.5,
         "timestamp": "2026-01-08T16:52:46.055368"
+      },
+      {
+        "price": 47.5,
+        "timestamp": "2026-01-09T07:29:11.891606"
       }
     ],
     "recently_reduced": false,
@@ -26002,6 +27810,10 @@
       {
         "price": 55.0,
         "timestamp": "2026-01-08T11:38:36.980321"
+      },
+      {
+        "price": 55.0,
+        "timestamp": "2026-01-09T07:29:27.407229"
       }
     ],
     "recently_reduced": false,
@@ -26046,6 +27858,14 @@
       {
         "price": 32.5,
         "timestamp": "2026-01-08T16:57:52.768606"
+      },
+      {
+        "price": 32.5,
+        "timestamp": "2026-01-09T07:29:33.258271"
+      },
+      {
+        "price": 32.5,
+        "timestamp": "2026-01-09T07:35:06.177316"
       }
     ],
     "recently_reduced": false,
@@ -26090,6 +27910,14 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:58:02.888812"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:29:29.273430"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:35:01.259429"
       }
     ],
     "recently_reduced": false,
@@ -26134,6 +27962,14 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:58:06.023200"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:29:35.431162"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:35:15.784045"
       }
     ],
     "recently_reduced": false,
@@ -26194,6 +28030,14 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:58:15.139908"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:29:31.754784"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:35:03.455065"
       }
     ],
     "recently_reduced": false,
@@ -26266,6 +28110,14 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:57:50.749691"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:29:27.865852"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:34:57.531953"
       }
     ],
     "recently_reduced": false,
@@ -26310,6 +28162,14 @@
       {
         "price": 90.0,
         "timestamp": "2026-01-08T16:58:03.228893"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:29:33.368856"
+      },
+      {
+        "price": 90.0,
+        "timestamp": "2026-01-09T07:35:06.090523"
       }
     ],
     "recently_reduced": false,
@@ -26366,6 +28226,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T16:52:34.935137"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:29:31.931120"
       }
     ],
     "recently_reduced": false,
@@ -26394,6 +28258,10 @@
       {
         "price": 95.0,
         "timestamp": "2026-01-08T16:54:10.326028"
+      },
+      {
+        "price": 95.0,
+        "timestamp": "2026-01-09T07:31:35.697256"
       }
     ],
     "recently_reduced": false,
@@ -26422,6 +28290,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T16:54:04.856739"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:31:22.104904"
       }
     ],
     "recently_reduced": false,
@@ -26450,6 +28322,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:04.966944"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:30.274921"
       }
     ],
     "recently_reduced": false,
@@ -26478,6 +28354,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:54:06.267211"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:31:34.806155"
       }
     ],
     "recently_reduced": false,
@@ -26534,6 +28414,10 @@
       {
         "price": 19.0,
         "timestamp": "2026-01-08T16:54:08.720795"
+      },
+      {
+        "price": 19.0,
+        "timestamp": "2026-01-09T07:31:20.988798"
       }
     ],
     "recently_reduced": false,
@@ -26562,6 +28446,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:21.070465"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:28.665653"
       }
     ],
     "recently_reduced": false,
@@ -26590,6 +28478,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T16:54:02.387227"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:31:26.356133"
       }
     ],
     "recently_reduced": false,
@@ -26618,6 +28510,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:10.602872"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:35.711675"
       }
     ],
     "recently_reduced": false,
@@ -26646,6 +28542,10 @@
       {
         "price": 85.0,
         "timestamp": "2026-01-08T16:54:13.005151"
+      },
+      {
+        "price": 85.0,
+        "timestamp": "2026-01-09T07:31:18.755945"
       }
     ],
     "recently_reduced": false,
@@ -26694,6 +28594,10 @@
       {
         "price": 101.0,
         "timestamp": "2026-01-08T16:54:02.076574"
+      },
+      {
+        "price": 101.0,
+        "timestamp": "2026-01-09T07:31:26.248673"
       }
     ],
     "recently_reduced": false,
@@ -26742,6 +28646,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:08.826462"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:27.373759"
       }
     ],
     "recently_reduced": false,
@@ -26770,6 +28678,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T16:54:14.154053"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:31:28.533432"
       }
     ],
     "recently_reduced": false,
@@ -26798,6 +28710,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:06.212743"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:34.819922"
       }
     ],
     "recently_reduced": false,
@@ -26854,6 +28770,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:54:17.532396"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:31:33.477655"
       }
     ],
     "recently_reduced": false,
@@ -26882,6 +28802,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:20.001768"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:24.991156"
       }
     ],
     "recently_reduced": false,
@@ -26938,6 +28862,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:54:08.766932"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:31:20.873601"
       }
     ],
     "recently_reduced": false,
@@ -26994,6 +28922,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T16:54:15.814693"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:31:31.304650"
       }
     ],
     "recently_reduced": false,
@@ -27022,6 +28954,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T16:54:12.934119"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:31:36.867749"
       }
     ],
     "recently_reduced": false,
@@ -27050,6 +28986,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:54:06.339658"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:31:19.810892"
       }
     ],
     "recently_reduced": false,
@@ -27134,6 +29074,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:54:06.576670"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:31:34.753630"
       }
     ],
     "recently_reduced": false,
@@ -27162,6 +29106,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:18.823035"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:26.330573"
       }
     ],
     "recently_reduced": false,
@@ -27190,6 +29138,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T16:54:22.345566"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:31:19.832891"
       }
     ],
     "recently_reduced": false,
@@ -27218,6 +29170,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:54:07.638130"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:31:30.246120"
       }
     ],
     "recently_reduced": false,
@@ -27246,6 +29202,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:54:11.583652"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:31:32.663964"
       }
     ],
     "recently_reduced": false,
@@ -27274,6 +29234,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:54:11.477041"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:31:34.784839"
       }
     ],
     "recently_reduced": false,
@@ -27302,6 +29266,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:02.096825"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:36.852394"
       }
     ],
     "recently_reduced": false,
@@ -27330,6 +29298,10 @@
       {
         "price": 45.0,
         "timestamp": "2026-01-08T16:54:14.172367"
+      },
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:31:33.598088"
       }
     ],
     "recently_reduced": false,
@@ -27378,6 +29350,14 @@
       {
         "price": 36.0,
         "timestamp": "2026-01-08T17:06:32.645089"
+      },
+      {
+        "price": 36.0,
+        "timestamp": "2026-01-09T07:31:24.824724"
+      },
+      {
+        "price": 36.0,
+        "timestamp": "2026-01-09T07:42:44.095024"
       }
     ],
     "recently_reduced": false,
@@ -27406,6 +29386,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:14.267730"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:32.604488"
       }
     ],
     "recently_reduced": false,
@@ -27434,6 +29418,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:54:03.538388"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:31:32.471349"
       }
     ],
     "recently_reduced": false,
@@ -27462,6 +29450,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:14.228329"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:23.510064"
       }
     ],
     "recently_reduced": false,
@@ -27490,6 +29482,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:14.188371"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:35.757875"
       }
     ],
     "recently_reduced": false,
@@ -27518,6 +29514,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:00.365761"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:34.833024"
       }
     ],
     "recently_reduced": false,
@@ -27546,6 +29546,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:54:08.948823"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:31:22.190312"
       }
     ],
     "recently_reduced": false,
@@ -27574,6 +29578,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T16:54:22.374984"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:31:28.681208"
       }
     ],
     "recently_reduced": false,
@@ -27622,6 +29630,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T16:54:07.377411"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:31:28.709298"
       }
     ],
     "recently_reduced": false,
@@ -27646,6 +29658,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:54:19.867542"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:31:32.647001"
       }
     ],
     "recently_reduced": false,
@@ -27674,6 +29690,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T16:54:18.627041"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:31:27.525659"
       }
     ],
     "recently_reduced": false,
@@ -27698,6 +29718,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T16:54:03.508586"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:31:20.944106"
       }
     ],
     "recently_reduced": false,
@@ -27770,6 +29794,10 @@
       {
         "price": 76.5,
         "timestamp": "2026-01-08T16:54:10.375705"
+      },
+      {
+        "price": 76.5,
+        "timestamp": "2026-01-09T07:31:20.916427"
       }
     ],
     "recently_reduced": false,
@@ -27794,6 +29822,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:54:17.635858"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:31:31.348751"
       }
     ],
     "recently_reduced": false,
@@ -27818,6 +29850,10 @@
       {
         "price": 42.5,
         "timestamp": "2026-01-08T16:54:15.830323"
+      },
+      {
+        "price": 42.5,
+        "timestamp": "2026-01-09T07:31:33.529383"
       }
     ],
     "recently_reduced": false,
@@ -27842,6 +29878,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:54:13.017742"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:31:31.335412"
       }
     ],
     "recently_reduced": false,
@@ -27866,6 +29906,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:54:14.240964"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:31:23.313109"
       }
     ],
     "recently_reduced": false,
@@ -27890,6 +29934,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:54:07.602309"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:31:30.260403"
       }
     ],
     "recently_reduced": false,
@@ -27914,6 +29962,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:54:18.744980"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:31:28.517611"
       }
     ],
     "recently_reduced": false,
@@ -27938,6 +29990,10 @@
       {
         "price": 3.5,
         "timestamp": "2026-01-08T16:54:11.494221"
+      },
+      {
+        "price": 3.5,
+        "timestamp": "2026-01-09T07:31:32.631869"
       }
     ],
     "recently_reduced": false,
@@ -27962,6 +30018,10 @@
       {
         "price": 39.5,
         "timestamp": "2026-01-08T16:54:15.843967"
+      },
+      {
+        "price": 39.5,
+        "timestamp": "2026-01-09T07:31:36.979076"
       }
     ],
     "recently_reduced": false,
@@ -27986,6 +30046,10 @@
       {
         "price": 6.5,
         "timestamp": "2026-01-08T16:54:08.966825"
+      },
+      {
+        "price": 6.5,
+        "timestamp": "2026-01-09T07:31:36.788163"
       }
     ],
     "recently_reduced": false,
@@ -28026,6 +30090,10 @@
       {
         "price": 49.5,
         "timestamp": "2026-01-08T16:54:19.758283"
+      },
+      {
+        "price": 49.5,
+        "timestamp": "2026-01-09T07:31:18.742424"
       }
     ],
     "recently_reduced": false,
@@ -28050,6 +30118,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T16:54:08.993620"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:31:18.829180"
       }
     ],
     "recently_reduced": false,
@@ -28074,6 +30146,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:54:19.771590"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:31:35.656678"
       }
     ],
     "recently_reduced": false,
@@ -28098,6 +30174,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:54:16.057128"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:31:32.519489"
       }
     ],
     "recently_reduced": false,
@@ -28122,6 +30202,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:18.765938"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:20.961161"
       }
     ],
     "recently_reduced": false,
@@ -28146,6 +30230,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T16:54:22.541358"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:31:18.530281"
       }
     ],
     "recently_reduced": false,
@@ -28170,6 +30258,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T16:54:14.211148"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:31:26.267987"
       }
     ],
     "recently_reduced": false,
@@ -28194,6 +30286,10 @@
       {
         "price": 119.5,
         "timestamp": "2026-01-08T16:54:03.447562"
+      },
+      {
+        "price": 119.5,
+        "timestamp": "2026-01-09T07:31:34.738696"
       }
     ],
     "recently_reduced": false,
@@ -28218,6 +30314,10 @@
       {
         "price": 29.5,
         "timestamp": "2026-01-08T16:54:20.979424"
+      },
+      {
+        "price": 29.5,
+        "timestamp": "2026-01-09T07:31:31.398819"
       }
     ],
     "recently_reduced": false,
@@ -28242,6 +30342,10 @@
       {
         "price": 19.0,
         "timestamp": "2026-01-08T16:54:21.024276"
+      },
+      {
+        "price": 19.0,
+        "timestamp": "2026-01-09T07:31:19.870611"
       }
     ],
     "recently_reduced": false,
@@ -28266,6 +30370,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:55:50.214236"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:32:50.893635"
       }
     ],
     "recently_reduced": false,
@@ -28290,6 +30398,10 @@
       {
         "price": 13.5,
         "timestamp": "2026-01-08T16:55:51.590566"
+      },
+      {
+        "price": 13.5,
+        "timestamp": "2026-01-09T07:32:49.391673"
       }
     ],
     "recently_reduced": false,
@@ -28314,6 +30426,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:55:58.271966"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:32:54.989520"
       }
     ],
     "recently_reduced": false,
@@ -28338,6 +30454,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T16:55:55.338653"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:32:46.844752"
       }
     ],
     "recently_reduced": false,
@@ -28362,6 +30482,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:55:51.541654"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:32:49.361858"
       }
     ],
     "recently_reduced": false,
@@ -28386,6 +30510,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T16:55:50.118280"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:32:56.073912"
       }
     ],
     "recently_reduced": false,
@@ -28410,6 +30538,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:00.240452"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:34:59.867968"
       }
     ],
     "recently_reduced": false,
@@ -28434,6 +30566,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:03.045405"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:04.962028"
       }
     ],
     "recently_reduced": false,
@@ -28458,6 +30594,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T16:57:52.015955"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:35:25.507963"
       }
     ],
     "recently_reduced": false,
@@ -28506,6 +30646,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:58:26.432898"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:35:12.978035"
       }
     ],
     "recently_reduced": false,
@@ -28530,6 +30674,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:06.270428"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:20.808374"
       }
     ],
     "recently_reduced": false,
@@ -28554,6 +30702,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T16:57:59.019718"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:35:18.112322"
       }
     ],
     "recently_reduced": false,
@@ -28602,6 +30754,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:16.333118"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:01.184133"
       }
     ],
     "recently_reduced": false,
@@ -28626,6 +30782,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T16:58:22.384716"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:34:59.893524"
       }
     ],
     "recently_reduced": false,
@@ -28650,6 +30810,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:04.288212"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:25.594506"
       }
     ],
     "recently_reduced": false,
@@ -28674,6 +30838,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:04.338645"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:05.005342"
       }
     ],
     "recently_reduced": false,
@@ -28746,6 +30914,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:58:21.116060"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:35:19.399985"
       }
     ],
     "recently_reduced": false,
@@ -28770,6 +30942,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T16:58:27.820714"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:35:19.490072"
       }
     ],
     "recently_reduced": false,
@@ -28794,6 +30970,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:58:16.215346"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:34:56.251667"
       }
     ],
     "recently_reduced": false,
@@ -28866,6 +31046,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:57:55.733188"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:06.109917"
       }
     ],
     "recently_reduced": false,
@@ -28890,6 +31074,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T16:58:06.043583"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:34:51.129787"
       }
     ],
     "recently_reduced": false,
@@ -28914,6 +31102,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:26.354573"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:05.059062"
       }
     ],
     "recently_reduced": false,
@@ -28930,6 +31122,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T11:44:01.365968"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:20.842412"
       }
     ],
     "recently_reduced": false,
@@ -28954,6 +31150,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:00.269432"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:24.445152"
       }
     ],
     "recently_reduced": false,
@@ -29002,6 +31202,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:58:07.795731"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:14.454663"
       }
     ],
     "recently_reduced": false,
@@ -29026,6 +31230,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:24.758461"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:03.624111"
       }
     ],
     "recently_reduced": false,
@@ -29050,6 +31258,10 @@
       {
         "price": 245.0,
         "timestamp": "2026-01-08T16:58:13.312288"
+      },
+      {
+        "price": 245.0,
+        "timestamp": "2026-01-09T07:35:02.386419"
       }
     ],
     "recently_reduced": false,
@@ -29074,6 +31286,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:57:50.954592"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:34:52.320583"
       }
     ],
     "recently_reduced": false,
@@ -29098,6 +31314,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:58:27.779276"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:34:58.788195"
       }
     ],
     "recently_reduced": false,
@@ -29122,6 +31342,10 @@
       {
         "price": 22.5,
         "timestamp": "2026-01-08T16:57:57.059457"
+      },
+      {
+        "price": 22.5,
+        "timestamp": "2026-01-09T07:35:25.528143"
       }
     ],
     "recently_reduced": false,
@@ -29146,6 +31370,10 @@
       {
         "price": 29.7,
         "timestamp": "2026-01-08T16:57:49.556342"
+      },
+      {
+        "price": 29.7,
+        "timestamp": "2026-01-09T07:34:55.231321"
       }
     ],
     "recently_reduced": false,
@@ -29170,6 +31398,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T16:58:22.276102"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:35:12.963019"
       }
     ],
     "recently_reduced": false,
@@ -29194,6 +31426,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:11.949754"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:18.192882"
       }
     ],
     "recently_reduced": false,
@@ -29218,6 +31454,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:26.148640"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:35:17.119810"
       }
     ],
     "recently_reduced": false,
@@ -29242,6 +31482,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:57:55.653467"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:35:01.216213"
       }
     ],
     "recently_reduced": false,
@@ -29266,6 +31510,10 @@
       {
         "price": 42.0,
         "timestamp": "2026-01-08T17:00:14.705451"
+      },
+      {
+        "price": 42.0,
+        "timestamp": "2026-01-09T07:37:08.421936"
       }
     ],
     "recently_reduced": false,
@@ -29346,6 +31594,14 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:57.865248"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:37:17.848018"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:16.724620"
       }
     ],
     "recently_reduced": false,
@@ -29390,6 +31646,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:03:05.538154"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:11.062733"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:01.146211"
       }
     ],
     "recently_reduced": false,
@@ -29434,6 +31698,14 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:03:35.077844"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:07.084969"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:50.682211"
       }
     ],
     "recently_reduced": false,
@@ -29466,6 +31738,14 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:23.698176"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:37:17.891149"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:16.891064"
       }
     ],
     "recently_reduced": false,
@@ -29490,6 +31770,10 @@
       {
         "price": 72.5,
         "timestamp": "2026-01-08T17:00:32.509185"
+      },
+      {
+        "price": 72.5,
+        "timestamp": "2026-01-09T07:37:06.976249"
       }
     ],
     "recently_reduced": false,
@@ -29558,6 +31842,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T17:00:07.800258"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:37:08.321065"
       }
     ],
     "recently_reduced": false,
@@ -29602,6 +31890,14 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:02:59.963665"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:37:14.217746"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:39:07.151183"
       }
     ],
     "recently_reduced": false,
@@ -29646,6 +31942,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:02:56.187374"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:08.380434"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:38:54.916934"
       }
     ],
     "recently_reduced": false,
@@ -29690,6 +31994,14 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:14.974935"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:37:18.831425"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:18.248218"
       }
     ],
     "recently_reduced": false,
@@ -29734,6 +32046,14 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:36.941873"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:08.436779"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:53.555503"
       }
     ],
     "recently_reduced": false,
@@ -29778,6 +32098,14 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:44.285985"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:37:05.831616"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:48.325557"
       }
     ],
     "recently_reduced": false,
@@ -29822,6 +32150,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T17:03:37.278859"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:37:08.451538"
       }
     ],
     "recently_reduced": false,
@@ -29890,6 +32222,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T17:00:11.466563"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:37:05.912254"
       }
     ],
     "recently_reduced": false,
@@ -29934,6 +32270,14 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:03:08.995504"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:37:18.960512"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:39:20.727635"
       }
     ],
     "recently_reduced": false,
@@ -29978,6 +32322,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:02:42.519916"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:37:07.040916"
       }
     ],
     "recently_reduced": false,
@@ -30066,6 +32414,14 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T17:03:09.349550"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:37:14.079870"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:39:07.120122"
       }
     ],
     "recently_reduced": false,
@@ -30110,6 +32466,14 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:57.732972"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:37:10.907670"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:38:57.604048"
       }
     ],
     "recently_reduced": false,
@@ -30154,6 +32518,14 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:03:32.402946"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:37:16.547615"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:39:12.810971"
       }
     ],
     "recently_reduced": false,
@@ -30198,6 +32570,14 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T17:03:01.646291"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:37:05.817501"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:38:48.366715"
       }
     ],
     "recently_reduced": false,
@@ -30274,6 +32654,10 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T17:03:13.449019"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:37:12.996145"
       }
     ],
     "recently_reduced": false,
@@ -30318,6 +32702,14 @@
       {
         "price": 17.14,
         "timestamp": "2026-01-08T17:03:01.809066"
+      },
+      {
+        "price": 17.14,
+        "timestamp": "2026-01-09T07:37:16.562618"
+      },
+      {
+        "price": 17.14,
+        "timestamp": "2026-01-09T07:39:11.596259"
       }
     ],
     "recently_reduced": false,
@@ -30362,6 +32754,14 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:28.953990"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:37:16.610551"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:11.679103"
       }
     ],
     "recently_reduced": false,
@@ -30446,6 +32846,10 @@
       {
         "price": 40.0,
         "timestamp": "2026-01-08T17:03:05.478850"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:38:52.150431"
       }
     ],
     "recently_reduced": false,
@@ -30474,6 +32878,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:02:54.063171"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:02.297224"
       }
     ],
     "recently_reduced": false,
@@ -30502,6 +32910,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T17:03:33.379529"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:39:14.184962"
       }
     ],
     "recently_reduced": false,
@@ -30530,6 +32942,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T17:03:33.581227"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:39:05.746666"
       }
     ],
     "recently_reduced": false,
@@ -30586,6 +33002,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:03:35.119001"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:39:08.994298"
       }
     ],
     "recently_reduced": false,
@@ -30682,6 +33102,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:03:23.670563"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:39:14.308199"
       }
     ],
     "recently_reduced": false,
@@ -30710,6 +33134,10 @@
       {
         "price": 210.0,
         "timestamp": "2026-01-08T17:03:36.042062"
+      },
+      {
+        "price": 210.0,
+        "timestamp": "2026-01-09T07:39:14.277663"
       }
     ],
     "recently_reduced": false,
@@ -30738,6 +33166,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:07.127001"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:16.804450"
       }
     ],
     "recently_reduced": false,
@@ -30766,6 +33198,10 @@
       {
         "price": 2.45,
         "timestamp": "2026-01-08T17:03:36.154262"
+      },
+      {
+        "price": 2.45,
+        "timestamp": "2026-01-09T07:39:14.334394"
       }
     ],
     "recently_reduced": false,
@@ -30822,6 +33258,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:01.829368"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:14.205236"
       }
     ],
     "recently_reduced": false,
@@ -30850,6 +33290,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:02:59.607087"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:01.097417"
       }
     ],
     "recently_reduced": false,
@@ -30878,6 +33322,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:03:33.351310"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:16.788106"
       }
     ],
     "recently_reduced": false,
@@ -30906,6 +33354,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:25.639417"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:56.325055"
       }
     ],
     "recently_reduced": false,
@@ -30962,6 +33414,10 @@
       {
         "price": 29.98,
         "timestamp": "2026-01-08T17:02:59.915855"
+      },
+      {
+        "price": 29.98,
+        "timestamp": "2026-01-09T07:38:52.110742"
       }
     ],
     "recently_reduced": false,
@@ -30990,6 +33446,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:02:49.558142"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:57.496520"
       }
     ],
     "recently_reduced": false,
@@ -31010,6 +33470,10 @@
       {
         "price": 41.0,
         "timestamp": "2026-01-08T11:47:39.169206"
+      },
+      {
+        "price": 41.0,
+        "timestamp": "2026-01-09T07:38:49.592237"
       }
     ],
     "recently_reduced": false,
@@ -31038,6 +33502,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T17:03:22.329685"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:38:58.596618"
       }
     ],
     "recently_reduced": false,
@@ -31114,6 +33582,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:54.347544"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:38:49.627499"
       }
     ],
     "recently_reduced": false,
@@ -31142,6 +33614,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:52.617971"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:02.340337"
       }
     ],
     "recently_reduced": false,
@@ -31170,6 +33646,10 @@
       {
         "price": 58.0,
         "timestamp": "2026-01-08T17:03:11.593204"
+      },
+      {
+        "price": 58.0,
+        "timestamp": "2026-01-09T07:38:48.244760"
       }
     ],
     "recently_reduced": false,
@@ -31198,6 +33678,10 @@
       {
         "price": 18.0,
         "timestamp": "2026-01-08T17:03:23.716245"
+      },
+      {
+        "price": 18.0,
+        "timestamp": "2026-01-09T07:39:20.798579"
       }
     ],
     "recently_reduced": false,
@@ -31226,6 +33710,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:35.251928"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:16.774619"
       }
     ],
     "recently_reduced": false,
@@ -31254,6 +33742,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:24.169864"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:38:59.786795"
       }
     ],
     "recently_reduced": false,
@@ -31338,6 +33830,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T17:03:38.829754"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:39:20.680753"
       }
     ],
     "recently_reduced": false,
@@ -31358,6 +33854,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T11:47:57.046872"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:39:20.655636"
       }
     ],
     "recently_reduced": false,
@@ -31386,6 +33886,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:36.092489"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:38:53.598471"
       }
     ],
     "recently_reduced": false,
@@ -31442,6 +33946,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:02:50.901750"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:02.279654"
       }
     ],
     "recently_reduced": false,
@@ -31490,6 +33998,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T11:47:30.929389"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:48.221347"
       }
     ],
     "recently_reduced": false,
@@ -31510,6 +34022,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T11:47:22.077842"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:38:55.029820"
       }
     ],
     "recently_reduced": false,
@@ -31538,6 +34054,10 @@
       {
         "price": 3.0,
         "timestamp": "2026-01-08T17:03:39.259527"
+      },
+      {
+        "price": 3.0,
+        "timestamp": "2026-01-09T07:39:21.849426"
       }
     ],
     "recently_reduced": false,
@@ -31566,6 +34086,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:15.071906"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:57.467179"
       }
     ],
     "recently_reduced": false,
@@ -31594,6 +34118,10 @@
       {
         "price": 3.5,
         "timestamp": "2026-01-08T17:02:45.828615"
+      },
+      {
+        "price": 3.5,
+        "timestamp": "2026-01-09T07:39:19.477700"
       }
     ],
     "recently_reduced": false,
@@ -31622,6 +34150,10 @@
       {
         "price": 22.0,
         "timestamp": "2026-01-08T17:03:34.037174"
+      },
+      {
+        "price": 22.0,
+        "timestamp": "2026-01-09T07:39:19.408472"
       }
     ],
     "recently_reduced": false,
@@ -31642,6 +34174,10 @@
       {
         "price": 24.0,
         "timestamp": "2026-01-08T11:47:43.727229"
+      },
+      {
+        "price": 24.0,
+        "timestamp": "2026-01-09T07:38:57.514204"
       }
     ],
     "recently_reduced": false,
@@ -31670,6 +34206,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:02:51.359036"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:38:56.359293"
       }
     ],
     "recently_reduced": false,
@@ -31698,6 +34238,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:03:13.418891"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:18.298360"
       }
     ],
     "recently_reduced": false,
@@ -31726,6 +34270,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:35.926510"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:38:58.582320"
       }
     ],
     "recently_reduced": false,
@@ -31822,6 +34370,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:28.797763"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:39:10.142061"
       }
     ],
     "recently_reduced": false,
@@ -31850,6 +34402,10 @@
       {
         "price": 156.0,
         "timestamp": "2026-01-08T17:02:51.380443"
+      },
+      {
+        "price": 156.0,
+        "timestamp": "2026-01-09T07:38:50.791272"
       }
     ],
     "recently_reduced": false,
@@ -31906,6 +34462,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T17:02:55.782847"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:38:59.690466"
       }
     ],
     "recently_reduced": false,
@@ -31962,6 +34522,10 @@
       {
         "price": 22.0,
         "timestamp": "2026-01-08T17:03:09.277892"
+      },
+      {
+        "price": 22.0,
+        "timestamp": "2026-01-09T07:38:59.727615"
       }
     ],
     "recently_reduced": false,
@@ -31990,6 +34554,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T17:03:20.598572"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:39:10.094183"
       }
     ],
     "recently_reduced": false,
@@ -32046,6 +34614,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:03:01.703553"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:04.666883"
       }
     ],
     "recently_reduced": false,
@@ -32074,6 +34646,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:02:44.330486"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:38:47.088826"
       }
     ],
     "recently_reduced": false,
@@ -32102,6 +34678,10 @@
       {
         "price": 87.5,
         "timestamp": "2026-01-08T17:03:13.377389"
+      },
+      {
+        "price": 87.5,
+        "timestamp": "2026-01-09T07:39:01.054123"
       }
     ],
     "recently_reduced": false,
@@ -32130,6 +34710,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:44.113833"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:38:59.625646"
       }
     ],
     "recently_reduced": false,
@@ -32158,6 +34742,10 @@
       {
         "price": 3.5,
         "timestamp": "2026-01-08T17:02:36.970864"
+      },
+      {
+        "price": 3.5,
+        "timestamp": "2026-01-09T07:39:18.192620"
       }
     ],
     "recently_reduced": false,
@@ -32198,6 +34786,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:03:35.092077"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:04.652317"
       }
     ],
     "recently_reduced": false,
@@ -32282,6 +34874,10 @@
       {
         "price": 14.0,
         "timestamp": "2026-01-08T17:03:27.735401"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:39:07.076396"
       }
     ],
     "recently_reduced": false,
@@ -32310,6 +34906,10 @@
       {
         "price": 72.5,
         "timestamp": "2026-01-08T17:02:39.029008"
+      },
+      {
+        "price": 72.5,
+        "timestamp": "2026-01-09T07:39:16.864123"
       }
     ],
     "recently_reduced": false,
@@ -32330,6 +34930,10 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T11:47:48.994624"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:38:53.611797"
       }
     ],
     "recently_reduced": false,
@@ -32358,6 +34962,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T17:03:15.123565"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:39:19.392375"
       }
     ],
     "recently_reduced": false,
@@ -32386,6 +34994,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:03:35.046263"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:04.609101"
       }
     ],
     "recently_reduced": false,
@@ -32414,6 +35026,10 @@
       {
         "price": 24.0,
         "timestamp": "2026-01-08T17:03:15.180261"
+      },
+      {
+        "price": 24.0,
+        "timestamp": "2026-01-09T07:39:03.290749"
       }
     ],
     "recently_reduced": false,
@@ -32442,6 +35058,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:25.622397"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:39:14.321153"
       }
     ],
     "recently_reduced": false,
@@ -32470,6 +35090,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:02:38.860333"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:57.430897"
       }
     ],
     "recently_reduced": false,
@@ -32498,6 +35122,10 @@
       {
         "price": 13.0,
         "timestamp": "2026-01-08T17:06:47.599747"
+      },
+      {
+        "price": 13.0,
+        "timestamp": "2026-01-09T07:42:30.181899"
       }
     ],
     "recently_reduced": false,
@@ -32526,6 +35154,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T17:06:32.685515"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:43:40.243259"
       }
     ],
     "recently_reduced": false,
@@ -32574,6 +35206,10 @@
       {
         "price": 83.0,
         "timestamp": "2026-01-08T17:07:02.677954"
+      },
+      {
+        "price": 83.0,
+        "timestamp": "2026-01-09T07:42:45.426832"
       }
     ],
     "recently_reduced": false,
@@ -32602,6 +35238,10 @@
       {
         "price": 19.0,
         "timestamp": "2026-01-08T17:07:26.713398"
+      },
+      {
+        "price": 19.0,
+        "timestamp": "2026-01-09T07:42:51.111796"
       }
     ],
     "recently_reduced": false,
@@ -32630,6 +35270,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:06:53.693158"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:42:51.358126"
       }
     ],
     "recently_reduced": false,
@@ -32686,6 +35330,10 @@
       {
         "price": 17.0,
         "timestamp": "2026-01-08T17:07:33.492718"
+      },
+      {
+        "price": 17.0,
+        "timestamp": "2026-01-09T07:42:27.818806"
       }
     ],
     "recently_reduced": false,
@@ -32714,6 +35362,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:07:05.796651"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:42:42.952210"
       }
     ],
     "recently_reduced": false,
@@ -32742,6 +35394,10 @@
       {
         "price": 19.0,
         "timestamp": "2026-01-08T17:06:34.223054"
+      },
+      {
+        "price": 19.0,
+        "timestamp": "2026-01-09T07:42:45.355369"
       }
     ],
     "recently_reduced": false,
@@ -32770,6 +35426,10 @@
       {
         "price": 13.25,
         "timestamp": "2026-01-08T17:06:58.809326"
+      },
+      {
+        "price": 13.25,
+        "timestamp": "2026-01-09T07:43:22.152000"
       }
     ],
     "recently_reduced": false,
@@ -32798,6 +35458,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:07:34.752539"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:43:24.815748"
       }
     ],
     "recently_reduced": false,
@@ -32826,6 +35490,10 @@
       {
         "price": 17.25,
         "timestamp": "2026-01-08T17:06:37.115978"
+      },
+      {
+        "price": 17.25,
+        "timestamp": "2026-01-09T07:42:54.836168"
       }
     ],
     "recently_reduced": false,
@@ -32854,6 +35522,10 @@
       {
         "price": 14.97,
         "timestamp": "2026-01-08T17:06:35.542129"
+      },
+      {
+        "price": 14.97,
+        "timestamp": "2026-01-09T07:43:13.047321"
       }
     ],
     "recently_reduced": false,
@@ -32882,6 +35554,10 @@
       {
         "price": 11.6,
         "timestamp": "2026-01-08T17:07:33.687836"
+      },
+      {
+        "price": 11.6,
+        "timestamp": "2026-01-09T07:43:17.513884"
       }
     ],
     "recently_reduced": false,
@@ -32910,6 +35586,10 @@
       {
         "price": 24.5,
         "timestamp": "2026-01-08T17:07:01.635371"
+      },
+      {
+        "price": 24.5,
+        "timestamp": "2026-01-09T07:43:22.039740"
       }
     ],
     "recently_reduced": false,
@@ -32938,6 +35618,10 @@
       {
         "price": 22.0,
         "timestamp": "2026-01-08T17:06:59.019436"
+      },
+      {
+        "price": 22.0,
+        "timestamp": "2026-01-09T07:42:23.797757"
       }
     ],
     "recently_reduced": false,
@@ -32966,6 +35650,10 @@
       {
         "price": 6.75,
         "timestamp": "2026-01-08T17:06:36.969006"
+      },
+      {
+        "price": 6.75,
+        "timestamp": "2026-01-09T07:43:48.397329"
       }
     ],
     "recently_reduced": false,
@@ -32994,6 +35682,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:07:00.037976"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:43:42.551582"
       }
     ],
     "recently_reduced": false,
@@ -33022,6 +35714,10 @@
       {
         "price": 8.75,
         "timestamp": "2026-01-08T17:06:56.237849"
+      },
+      {
+        "price": 8.75,
+        "timestamp": "2026-01-09T07:42:20.883929"
       }
     ],
     "recently_reduced": false,
@@ -33050,6 +35746,10 @@
       {
         "price": 6.4,
         "timestamp": "2026-01-08T17:07:10.157905"
+      },
+      {
+        "price": 6.4,
+        "timestamp": "2026-01-09T07:42:22.377747"
       }
     ],
     "recently_reduced": false,
@@ -33078,6 +35778,10 @@
       {
         "price": 27.0,
         "timestamp": "2026-01-08T17:06:29.528094"
+      },
+      {
+        "price": 27.0,
+        "timestamp": "2026-01-09T07:43:49.642086"
       }
     ],
     "recently_reduced": false,
@@ -33106,6 +35810,10 @@
       {
         "price": 24.0,
         "timestamp": "2026-01-08T17:07:16.241749"
+      },
+      {
+        "price": 24.0,
+        "timestamp": "2026-01-09T07:43:20.701499"
       }
     ],
     "recently_reduced": false,
@@ -33134,6 +35842,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T17:06:47.655665"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:43:43.766430"
       }
     ],
     "recently_reduced": false,
@@ -33162,6 +35874,10 @@
       {
         "price": 24.5,
         "timestamp": "2026-01-08T17:07:05.811669"
+      },
+      {
+        "price": 24.5,
+        "timestamp": "2026-01-09T07:43:38.428556"
       }
     ],
     "recently_reduced": false,
@@ -33174,6 +35890,10 @@
       {
         "price": 70.0,
         "timestamp": "2026-01-08T08:26:45.383900"
+      },
+      {
+        "price": 70.0,
+        "timestamp": "2026-01-09T07:43:18.918249"
       }
     ],
     "recently_reduced": false,
@@ -33202,6 +35922,10 @@
       {
         "price": 26.25,
         "timestamp": "2026-01-08T17:07:15.131305"
+      },
+      {
+        "price": 26.25,
+        "timestamp": "2026-01-09T07:42:23.848733"
       }
     ],
     "recently_reduced": false,
@@ -33230,6 +35954,10 @@
       {
         "price": 6.4,
         "timestamp": "2026-01-08T17:06:41.789761"
+      },
+      {
+        "price": 6.4,
+        "timestamp": "2026-01-09T07:43:45.850126"
       }
     ],
     "recently_reduced": false,
@@ -33258,6 +35986,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T17:06:26.881210"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:42:32.899828"
       }
     ],
     "recently_reduced": false,
@@ -33286,6 +36018,10 @@
       {
         "price": 24.5,
         "timestamp": "2026-01-08T17:06:38.949429"
+      },
+      {
+        "price": 24.5,
+        "timestamp": "2026-01-09T07:42:22.285537"
       }
     ],
     "recently_reduced": false,
@@ -33314,6 +36050,10 @@
       {
         "price": 10.0,
         "timestamp": "2026-01-08T17:06:43.439314"
+      },
+      {
+        "price": 10.0,
+        "timestamp": "2026-01-09T07:42:37.083890"
       }
     ],
     "recently_reduced": false,
@@ -33342,6 +36082,10 @@
       {
         "price": 6.75,
         "timestamp": "2026-01-08T17:06:32.813747"
+      },
+      {
+        "price": 6.75,
+        "timestamp": "2026-01-09T07:42:42.924543"
       }
     ],
     "recently_reduced": false,
@@ -33370,6 +36114,10 @@
       {
         "price": 6.4,
         "timestamp": "2026-01-08T17:07:13.012773"
+      },
+      {
+        "price": 6.4,
+        "timestamp": "2026-01-09T07:42:49.754987"
       }
     ],
     "recently_reduced": false,
@@ -33398,6 +36146,10 @@
       {
         "price": 11.5,
         "timestamp": "2026-01-08T17:06:54.872470"
+      },
+      {
+        "price": 11.5,
+        "timestamp": "2026-01-09T07:42:51.285794"
       }
     ],
     "recently_reduced": false,
@@ -33426,6 +36178,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:07:20.580261"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:43:18.974382"
       }
     ],
     "recently_reduced": false,
@@ -33454,6 +36210,10 @@
       {
         "price": 16.5,
         "timestamp": "2026-01-08T17:07:22.756744"
+      },
+      {
+        "price": 16.5,
+        "timestamp": "2026-01-09T07:42:49.723526"
       }
     ],
     "recently_reduced": false,
@@ -33482,6 +36242,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T17:07:13.573518"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:43:15.633218"
       }
     ],
     "recently_reduced": false,
@@ -33566,6 +36330,10 @@
       {
         "price": 40.0,
         "timestamp": "2026-01-08T17:06:30.851958"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:43:21.994575"
       }
     ],
     "recently_reduced": false,
@@ -33594,6 +36362,10 @@
       {
         "price": 35.0,
         "timestamp": "2026-01-08T17:07:14.864929"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:43:38.316892"
       }
     ],
     "recently_reduced": false,
@@ -33622,6 +36394,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:06:54.975025"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:43:16.541097"
       }
     ],
     "recently_reduced": false,
@@ -33650,6 +36426,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T17:06:57.407661"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:42:53.850654"
       }
     ],
     "recently_reduced": false,
@@ -33678,6 +36458,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T17:06:53.715536"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:42:27.685767"
       }
     ],
     "recently_reduced": false,
@@ -33706,6 +36490,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T17:06:44.122685"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:42:46.813002"
       }
     ],
     "recently_reduced": false,
@@ -33734,6 +36522,10 @@
       {
         "price": 12.45,
         "timestamp": "2026-01-08T17:07:22.671038"
+      },
+      {
+        "price": 12.45,
+        "timestamp": "2026-01-09T07:43:23.709801"
       }
     ],
     "recently_reduced": false,
@@ -33762,6 +36554,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T17:06:31.001085"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:42:28.726479"
       }
     ],
     "recently_reduced": false,
@@ -33790,6 +36586,10 @@
       {
         "price": 20.0,
         "timestamp": "2026-01-08T17:07:16.840868"
+      },
+      {
+        "price": 20.0,
+        "timestamp": "2026-01-09T07:42:35.555646"
       }
     ],
     "recently_reduced": false,
@@ -33818,6 +36618,10 @@
       {
         "price": 9.99,
         "timestamp": "2026-01-08T17:06:58.699283"
+      },
+      {
+        "price": 9.99,
+        "timestamp": "2026-01-09T07:42:35.664282"
       }
     ],
     "recently_reduced": false,
@@ -33846,6 +36650,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T17:07:14.837230"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:43:43.685522"
       }
     ],
     "recently_reduced": false,
@@ -33874,6 +36682,10 @@
       {
         "price": 8.25,
         "timestamp": "2026-01-08T17:07:36.030027"
+      },
+      {
+        "price": 8.25,
+        "timestamp": "2026-01-09T07:43:41.403472"
       }
     ],
     "recently_reduced": false,
@@ -33902,6 +36714,10 @@
       {
         "price": 18.0,
         "timestamp": "2026-01-08T17:06:56.056559"
+      },
+      {
+        "price": 18.0,
+        "timestamp": "2026-01-09T07:42:25.368196"
       }
     ],
     "recently_reduced": false,
@@ -33930,6 +36746,10 @@
       {
         "price": 45.5,
         "timestamp": "2026-01-08T17:06:49.085658"
+      },
+      {
+        "price": 45.5,
+        "timestamp": "2026-01-09T07:43:14.009155"
       }
     ],
     "recently_reduced": false,
@@ -33986,6 +36806,10 @@
       {
         "price": 15.0,
         "timestamp": "2026-01-08T17:06:54.856500"
+      },
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:42:32.778393"
       }
     ],
     "recently_reduced": false,
@@ -34014,6 +36838,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T17:06:50.264807"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:42:26.301572"
       }
     ],
     "recently_reduced": false,
@@ -34042,6 +36870,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:06:54.738337"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:42:48.308236"
       }
     ],
     "recently_reduced": false,
@@ -34070,6 +36902,10 @@
       {
         "price": 37.5,
         "timestamp": "2026-01-08T17:06:40.311349"
+      },
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:43:48.368374"
       }
     ],
     "recently_reduced": false,
@@ -34098,6 +36934,10 @@
       {
         "price": 16.25,
         "timestamp": "2026-01-08T17:06:36.937568"
+      },
+      {
+        "price": 16.25,
+        "timestamp": "2026-01-09T07:42:20.845553"
       }
     ],
     "recently_reduced": false,
@@ -34114,6 +36954,10 @@
       {
         "price": 32.45,
         "timestamp": "2026-01-08T11:47:45.368634"
+      },
+      {
+        "price": 32.45,
+        "timestamp": "2026-01-09T07:38:52.253718"
       }
     ],
     "recently_reduced": false,
@@ -34154,6 +36998,10 @@
       {
         "price": 169.0,
         "timestamp": "2026-01-08T16:48:42.044038"
+      },
+      {
+        "price": 169.0,
+        "timestamp": "2026-01-09T07:25:17.059874"
       }
     ],
     "recently_reduced": false,
@@ -34198,6 +37046,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T16:48:54.352782"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:25:21.986505"
       }
     ],
     "recently_reduced": false,
@@ -34242,6 +37094,10 @@
       {
         "price": 65.0,
         "timestamp": "2026-01-08T16:50:16.939215"
+      },
+      {
+        "price": 65.0,
+        "timestamp": "2026-01-09T07:27:31.727209"
       }
     ],
     "recently_reduced": false,
@@ -34274,6 +37130,10 @@
       {
         "price": 137.5,
         "timestamp": "2026-01-08T16:50:21.486381"
+      },
+      {
+        "price": 137.5,
+        "timestamp": "2026-01-09T07:27:28.965905"
       }
     ],
     "recently_reduced": false,
@@ -34330,6 +37190,10 @@
       {
         "price": 57.5,
         "timestamp": "2026-01-08T16:50:25.644695"
+      },
+      {
+        "price": 57.5,
+        "timestamp": "2026-01-09T07:27:16.926116"
       }
     ],
     "recently_reduced": false,
@@ -34482,6 +37346,10 @@
       {
         "price": 17.5,
         "timestamp": "2026-01-08T16:52:33.576650"
+      },
+      {
+        "price": 17.5,
+        "timestamp": "2026-01-09T07:29:11.861679"
       }
     ],
     "recently_reduced": false,
@@ -34510,6 +37378,10 @@
       {
         "price": 30.0,
         "timestamp": "2026-01-08T16:52:41.195195"
+      },
+      {
+        "price": 30.0,
+        "timestamp": "2026-01-09T07:29:33.275731"
       }
     ],
     "recently_reduced": false,
@@ -34734,6 +37606,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T16:54:10.310534"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:31:37.966759"
       }
     ],
     "recently_reduced": false,
@@ -34810,6 +37686,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T16:54:20.035403"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:31:26.283711"
       }
     ],
     "recently_reduced": false,
@@ -34842,6 +37722,10 @@
       {
         "price": 28.0,
         "timestamp": "2026-01-08T16:55:51.573079"
+      },
+      {
+        "price": 28.0,
+        "timestamp": "2026-01-09T07:32:46.781836"
       }
     ],
     "recently_reduced": false,
@@ -34858,6 +37742,10 @@
       {
         "price": 105.0,
         "timestamp": "2026-01-08T16:55:51.513425"
+      },
+      {
+        "price": 105.0,
+        "timestamp": "2026-01-09T07:32:49.420785"
       }
     ],
     "recently_reduced": false,
@@ -34874,6 +37762,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T16:55:53.235670"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:32:52.064967"
       }
     ],
     "recently_reduced": false,
@@ -34890,6 +37782,10 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T16:56:01.140731"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:32:48.036153"
       }
     ],
     "recently_reduced": false,
@@ -34906,6 +37802,10 @@
       {
         "price": 11.5,
         "timestamp": "2026-01-08T16:56:02.446451"
+      },
+      {
+        "price": 11.5,
+        "timestamp": "2026-01-09T07:32:53.454121"
       }
     ],
     "recently_reduced": false,
@@ -35018,6 +37918,10 @@
       {
         "price": 7.5,
         "timestamp": "2026-01-08T16:58:04.356526"
+      },
+      {
+        "price": 7.5,
+        "timestamp": "2026-01-09T07:35:22.021162"
       }
     ],
     "recently_reduced": false,
@@ -35078,6 +37982,10 @@
       {
         "price": 27.5,
         "timestamp": "2026-01-08T16:58:16.249096"
+      },
+      {
+        "price": 27.5,
+        "timestamp": "2026-01-09T07:34:58.843100"
       }
     ],
     "recently_reduced": false,
@@ -35110,6 +38018,10 @@
       {
         "price": 12.5,
         "timestamp": "2026-01-08T16:58:16.368456"
+      },
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:34:52.372397"
       }
     ],
     "recently_reduced": false,
@@ -35414,6 +38326,10 @@
       {
         "price": 10.99,
         "timestamp": "2026-01-08T14:28:35.673828"
+      },
+      {
+        "price": 10.99,
+        "timestamp": "2026-01-09T07:37:19.006806"
       }
     ],
     "recently_reduced": false,
@@ -35654,6 +38570,10 @@
       {
         "price": 11.0,
         "timestamp": "2026-01-08T17:02:58.219395"
+      },
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:37:13.044227"
       }
     ],
     "recently_reduced": false,
@@ -35918,6 +38838,10 @@
       {
         "price": 2.75,
         "timestamp": "2026-01-08T17:00:25.929908"
+      },
+      {
+        "price": 2.75,
+        "timestamp": "2026-01-09T07:37:09.612512"
       }
     ],
     "recently_reduced": false,
@@ -35974,6 +38898,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:00:26.746919"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:37:11.854499"
       }
     ],
     "recently_reduced": false,
@@ -36062,6 +38990,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:03:23.684556"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:37:12.044482"
       }
     ],
     "recently_reduced": false,
@@ -36150,6 +39082,14 @@
       {
         "price": 12.0,
         "timestamp": "2026-01-08T17:03:37.505397"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:37:15.254237"
+      },
+      {
+        "price": 12.0,
+        "timestamp": "2026-01-09T07:39:08.684477"
       }
     ],
     "recently_reduced": false,
@@ -36186,6 +39126,14 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T17:03:05.606516"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:37:05.891796"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:38:47.267868"
       }
     ],
     "recently_reduced": false,
@@ -36234,6 +39182,10 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:03:05.626425"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:12.977391"
       }
     ],
     "recently_reduced": false,
@@ -36302,6 +39254,10 @@
       {
         "price": 2.5,
         "timestamp": "2026-01-08T17:02:36.139640"
+      },
+      {
+        "price": 2.5,
+        "timestamp": "2026-01-09T07:39:18.379414"
       }
     ],
     "recently_reduced": false,
@@ -36490,6 +39446,10 @@
       {
         "price": 7.0,
         "timestamp": "2026-01-08T17:02:44.375321"
+      },
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:39:01.185064"
       }
     ],
     "recently_reduced": false,
@@ -36590,6 +39550,10 @@
       {
         "price": 6.0,
         "timestamp": "2026-01-08T17:02:52.790112"
+      },
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:38:57.482430"
       }
     ],
     "recently_reduced": false,
@@ -36670,6 +39634,10 @@
       {
         "price": 4.0,
         "timestamp": "2026-01-08T17:02:58.199049"
+      },
+      {
+        "price": 4.0,
+        "timestamp": "2026-01-09T07:39:15.320733"
       }
     ],
     "recently_reduced": false,
@@ -36702,6 +39670,10 @@
       {
         "price": 1.5,
         "timestamp": "2026-01-08T17:03:01.939971"
+      },
+      {
+        "price": 1.5,
+        "timestamp": "2026-01-09T07:38:47.305989"
       }
     ],
     "recently_reduced": false,
@@ -36738,6 +39710,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T17:03:01.676729"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:37:16.623826"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:39:12.862150"
       }
     ],
     "recently_reduced": false,
@@ -36766,6 +39746,10 @@
       {
         "price": 5.0,
         "timestamp": "2026-01-08T17:03:03.958512"
+      },
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:39:14.263032"
       }
     ],
     "recently_reduced": false,
@@ -36838,6 +39822,10 @@
       {
         "price": 15.25,
         "timestamp": "2026-01-08T17:03:13.212330"
+      },
+      {
+        "price": 15.25,
+        "timestamp": "2026-01-09T07:39:15.351728"
       }
     ],
     "recently_reduced": false,
@@ -37022,6 +40010,10 @@
       {
         "price": 9.0,
         "timestamp": "2026-01-08T17:03:25.929509"
+      },
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:39:10.156368"
       }
     ],
     "recently_reduced": false,
@@ -37162,6 +40154,10 @@
       {
         "price": 50.0,
         "timestamp": "2026-01-08T17:07:26.700112"
+      },
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:42:38.644836"
       }
     ],
     "recently_reduced": false,
@@ -37178,6 +40174,10 @@
       {
         "price": 25.0,
         "timestamp": "2026-01-08T17:07:27.704137"
+      },
+      {
+        "price": 25.0,
+        "timestamp": "2026-01-09T07:42:48.354509"
       }
     ],
     "recently_reduced": false,
@@ -37206,6 +40206,10 @@
       {
         "price": 140.0,
         "timestamp": "2026-01-08T16:50:23.725669"
+      },
+      {
+        "price": 140.0,
+        "timestamp": "2026-01-09T07:27:34.496866"
       }
     ],
     "recently_reduced": false,
@@ -37218,6 +40222,10 @@
       {
         "price": 65.0,
         "timestamp": "2026-01-08T16:50:35.347967"
+      },
+      {
+        "price": 65.0,
+        "timestamp": "2026-01-09T07:27:20.737632"
       }
     ],
     "recently_reduced": false,
@@ -37230,6 +40238,10 @@
       {
         "price": 40.0,
         "timestamp": "2026-01-08T16:50:42.764286"
+      },
+      {
+        "price": 40.0,
+        "timestamp": "2026-01-09T07:27:35.881715"
       }
     ],
     "recently_reduced": false,
@@ -37246,6 +40258,14 @@
       {
         "price": 8.0,
         "timestamp": "2026-01-08T16:58:30.783195"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:29:27.424219"
+      },
+      {
+        "price": 8.0,
+        "timestamp": "2026-01-09T07:34:57.545744"
       }
     ],
     "recently_reduced": false,
@@ -37258,6 +40278,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:08.973154"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:14.098187"
       }
     ],
     "recently_reduced": false,
@@ -37294,6 +40318,10 @@
       {
         "price": 2.25,
         "timestamp": "2026-01-08T17:00:21.081005"
+      },
+      {
+        "price": 2.25,
+        "timestamp": "2026-01-09T07:37:17.934114"
       }
     ],
     "recently_reduced": false,
@@ -37306,6 +40334,10 @@
       {
         "price": 2.75,
         "timestamp": "2026-01-08T17:00:28.862036"
+      },
+      {
+        "price": 2.75,
+        "timestamp": "2026-01-09T07:37:14.231440"
       }
     ],
     "recently_reduced": false,
@@ -37318,6 +40350,190 @@
       {
         "price": 2.0,
         "timestamp": "2026-01-08T17:00:30.967508"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "112002775": {
+    "name": "MM Linen Anders Duvet Cover Set",
+    "initial_price": 65.0,
+    "prices": [
+      {
+        "price": 65.0,
+        "timestamp": "2026-01-09T07:29:10.728923"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "113527781": {
+    "name": "Laura Ashley Sherston Duvet Cover Set",
+    "initial_price": 35.0,
+    "prices": [
+      {
+        "price": 35.0,
+        "timestamp": "2026-01-09T07:29:29.127022"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "111732032": {
+    "name": "John Lewis Gingham Duvet Cover Set, Red Berry",
+    "initial_price": 37.5,
+    "prices": [
+      {
+        "price": 37.5,
+        "timestamp": "2026-01-09T07:29:34.286721"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "111913953": {
+    "name": "John Lewis X Collagerie Ikat Stripe Duvet Cover Set",
+    "initial_price": 45.0,
+    "prices": [
+      {
+        "price": 45.0,
+        "timestamp": "2026-01-09T07:29:38.971226"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "110339395": {
+    "name": "John Lewis Woven Draught Excluder, Graphite",
+    "initial_price": 15.0,
+    "prices": [
+      {
+        "price": 15.0,
+        "timestamp": "2026-01-09T07:34:48.699078"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "113842746": {
+    "name": "John Lewis The After Party Cracker",
+    "initial_price": 14.0,
+    "prices": [
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:37:05.847265"
+      },
+      {
+        "price": 14.0,
+        "timestamp": "2026-01-09T07:43:23.668058"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "112027695": {
+    "name": "John Lewis Archive Floral Print Bamboo Tray",
+    "initial_price": 12.5,
+    "prices": [
+      {
+        "price": 12.5,
+        "timestamp": "2026-01-09T07:39:05.680968"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "114313392": {
+    "name": "Bloom & Bay Leopard Make Up Bag, Pink",
+    "initial_price": 9.0,
+    "prices": [
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:42:22.465104"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "113888096": {
+    "name": "Est\u00e9e Lauder Skincare Superstars Beauty Of The Night Gift Set",
+    "initial_price": 50.0,
+    "prices": [
+      {
+        "price": 50.0,
+        "timestamp": "2026-01-09T07:42:23.894207"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "112512902": {
+    "name": "Bloom & Bay Maya Claw Hair Clips, Set of 3, Black/Multi",
+    "initial_price": 6.0,
+    "prices": [
+      {
+        "price": 6.0,
+        "timestamp": "2026-01-09T07:42:32.931044"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "114313375": {
+    "name": "Bloom & Bay Cosmos Embellished Headband, Black",
+    "initial_price": 7.0,
+    "prices": [
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:42:34.070474"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "112512947": {
+    "name": "Bloom & Bay Saphron Hair Bow, Black",
+    "initial_price": 7.0,
+    "prices": [
+      {
+        "price": 7.0,
+        "timestamp": "2026-01-09T07:42:34.144309"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "114313389": {
+    "name": "Bloom & Bay Starfall Satin Headband, Black",
+    "initial_price": 11.0,
+    "prices": [
+      {
+        "price": 11.0,
+        "timestamp": "2026-01-09T07:43:10.150397"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "114313379": {
+    "name": "Bloom & Bay Ixora Headband, Brown",
+    "initial_price": 9.0,
+    "prices": [
+      {
+        "price": 9.0,
+        "timestamp": "2026-01-09T07:43:12.815715"
+      }
+    ],
+    "recently_reduced": false,
+    "reduction_from_initial": 0.0
+  },
+  "113180112": {
+    "name": "Bloom & Bay Arrabelle Satin Headband, Cream",
+    "initial_price": 5.0,
+    "prices": [
+      {
+        "price": 5.0,
+        "timestamp": "2026-01-09T07:43:43.821608"
       }
     ],
     "recently_reduced": false,
