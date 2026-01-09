@@ -3068,5 +3068,15 @@
         "first_seen": "2026-01-09T16:27:30.387624",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "5426126": {
+        "name": "John Lewis Harbour Blue Rim Stoneware Dinnerware Set, 12 Piece, White/Blue",
+        "url": "https://www.johnlewis.com/john-lewis-harbour-blue-rim-stoneware-dinnerware-set-12-piece-white-blue/p5426126",
+        "original_price": 80.0,
+        "latest_price": 40.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T18:53:11.748446",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }
