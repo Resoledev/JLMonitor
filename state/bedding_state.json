@@ -448,5 +448,15 @@
         "first_seen": "2026-01-09T16:14:15.671711",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "112002778": {
+        "name": "MM Linen Giverny Duvet Cover Set",
+        "url": "https://www.johnlewis.com/mm-linen-giverny-duvet-cover-set/p112002778",
+        "original_price": 115.0,
+        "latest_price": 57.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T21:06:28.356693",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

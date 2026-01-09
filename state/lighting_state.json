@@ -1488,5 +1488,15 @@
         "first_seen": "2026-01-08T16:51:00.298306",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "111211813": {
+        "name": "John Lewis Petal Easy Fit Ceiling Shade",
+        "url": "https://www.johnlewis.com/john-lewis-petal-easy-fit-ceiling-shade/peppermint/p111211813",
+        "original_price": 40.0,
+        "latest_price": 17.6,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T21:04:12.726123",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }
