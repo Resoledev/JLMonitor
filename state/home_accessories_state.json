@@ -1348,5 +1348,55 @@
         "first_seen": "2026-01-08T14:21:59.276526",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "5549718": {
+        "name": "Baobab Collection My First Baobab Brussels Scented Candle, 190g",
+        "url": "https://www.johnlewis.com/baobab-collection-my-first-baobab-brussels-scented-candle-190g/p5549718",
+        "original_price": 52.0,
+        "latest_price": 26.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:16:44.460786",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112631756": {
+        "name": "Floralsilk Eco Artificial Gazania Daisy Spray, 66cm, Orange",
+        "url": "https://www.johnlewis.com/floralsilk-eco-artificial-gazania-daisy-spray-66cm-orange/p112631756",
+        "original_price": 5.0,
+        "latest_price": 2.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:16:44.460786",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112631755": {
+        "name": "Floralsilk Artificial Cherry Blossom Spray, 81cm, Pink",
+        "url": "https://www.johnlewis.com/floralsilk-artificial-cherry-blossom-spray-81cm-pink/p112631755",
+        "original_price": 10.0,
+        "latest_price": 5.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:16:44.460786",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3515208": {
+        "name": "Stackers Catchall",
+        "url": "https://www.johnlewis.com/stackers-catchall/p3515208",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:16:44.460786",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5261700": {
+        "name": "John Lewis Artificial Golden Pothos Plant in Black Pot",
+        "url": "https://www.johnlewis.com/john-lewis-artificial-golden-pothos-plant-in-black-pot/p5261700",
+        "original_price": 20.0,
+        "latest_price": 10.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:16:44.460786",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

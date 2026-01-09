@@ -873,7 +873,7 @@
         "name": "John Lewis Ayla Trellis Wallpaper",
         "url": "https://www.johnlewis.com/john-lewis-ayla-trellis-wallpaper/p112514777",
         "original_price": 40.0,
-        "latest_price": 12.0,
+        "latest_price": 20.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": true,
@@ -1646,6 +1646,56 @@
         "latest_price": 15.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:35:38.061780",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113674031": {
+        "name": "Elizabeth Scarlett Dazzling Bows Velvet Cushion, Pink",
+        "url": "https://www.johnlewis.com/elizabeth-scarlett-dazzling-bows-velvet-cushion-pink/p113674031",
+        "original_price": 52.0,
+        "latest_price": 26.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:21:36.435931",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110918664": {
+        "name": "John Lewis Ripple Vinyl Wallpaper, Putty",
+        "url": "https://www.johnlewis.com/john-lewis-ripple-vinyl-wallpaper-putty/p110918664",
+        "original_price": 35.0,
+        "latest_price": 10.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:21:36.435931",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113547920": {
+        "name": "John Lewis Christmas Bow Door Mat, Red/Multi",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-bow-door-mat-red-multi/p113547920",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:21:36.435931",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5496065": {
+        "name": "John Lewis Agra Rug",
+        "url": "https://www.johnlewis.com/john-lewis-agra-rug/p5496065",
+        "original_price": 150.0,
+        "latest_price": 75.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:21:36.435931",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3094287": {
+        "name": "John Lewis Herringbone Vinyl Wallpaper",
+        "url": "https://www.johnlewis.com/john-lewis-herringbone-vinyl-wallpaper/p3094287",
+        "original_price": 35.0,
+        "latest_price": 10.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:21:36.435931",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

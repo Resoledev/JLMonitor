@@ -1118,5 +1118,25 @@
         "first_seen": "2026-01-09T07:44:25.730933",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "113702686": {
+        "name": "Bobbi Brown Limited Edition Holiday Long-Wear Cream Shadow Stick",
+        "url": "https://www.johnlewis.com/bobbi-brown-limited-edition-holiday-long-wear-cream-shadow-stick/p113702686",
+        "original_price": 29.5,
+        "latest_price": 14.75,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:31:49.027781",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113702688": {
+        "name": "Bobbi Brown Limited Edition Eyeshadow Duo, Sparkling Pink",
+        "url": "https://www.johnlewis.com/bobbi-brown-limited-edition-eyeshadow-duo-sparkling-pink/p113702688",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:31:49.027781",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

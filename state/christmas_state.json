@@ -141,7 +141,7 @@
     },
     "113510015": {
         "name": "John Lewis Alphabet Stocking Tree Decoration",
-        "url": "https://www.johnlewis.com/john-lewis-alphabet-stocking-tree-decoration/p113510015",
+        "url": "https://www.johnlewis.com/john-lewis-alphabet-stocking-tree-decoration/u/p113510015",
         "original_price": 8.0,
         "latest_price": 2.25,
         "stock_status": "In Stock",
@@ -2116,6 +2116,96 @@
         "latest_price": 14.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:37:21.715606",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111663652": {
+        "name": "John Lewis Gingerbread Cotton Apron, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-gingerbread-cotton-apron-multi/p111663652",
+        "original_price": 12.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113673870": {
+        "name": "Elizabeth Scarlett Dazzling Bow Stocking, Red",
+        "url": "https://www.johnlewis.com/elizabeth-scarlett-dazzling-bow-stocking-red/p113673870",
+        "original_price": 50.0,
+        "latest_price": 25.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113481903": {
+        "name": "John Lewis Gold Berry Wreath, Dia.45cm",
+        "url": "https://www.johnlewis.com/john-lewis-gold-berry-wreath-dia-45cm/p113481903",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113429325": {
+        "name": "John Lewis Christmas Tree Glass Tumbler, 480ml, Clear",
+        "url": "https://www.johnlewis.com/john-lewis-christmas-tree-glass-tumbler-480ml-clear/p113429325",
+        "original_price": 8.5,
+        "latest_price": 4.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113231146": {
+        "name": "John Lewis Beaded Stem Ribbed Wine Glass, Set of 2, 245ml, Blue/Pink",
+        "url": "https://www.johnlewis.com/john-lewis-beaded-stem-ribbed-wine-glass-set-of-2-245ml-blue-pink/p113231146",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113451938": {
+        "name": "John Lewis Footed Glass Bowl, 32.5cm, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-footed-glass-bowl-32-5cm-gold/p113451938",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113581416": {
+        "name": "John Lewis Snowflake Jacquard Tablecloth, White",
+        "url": "https://www.johnlewis.com/john-lewis-snowflake-jacquard-tablecloth-white/p113581416",
+        "original_price": 36.0,
+        "latest_price": 18.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113483801": {
+        "name": "John Lewis Velvet Bow Wreath, Dia.38cm",
+        "url": "https://www.johnlewis.com/john-lewis-velvet-bow-wreath-dia-38cm/p113483801",
+        "original_price": 40.0,
+        "latest_price": 12.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113673824": {
+        "name": "Emma Bridgewater Polar Globe Half Pint Earthenware Mug, 300ml",
+        "url": "https://www.johnlewis.com/emma-bridgewater-polar-globe-half-pint-earthenware-mug-300ml/p113673824",
+        "original_price": 26.0,
+        "latest_price": 13.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:23:44.300969",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

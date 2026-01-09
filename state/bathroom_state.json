@@ -212,8 +212,8 @@
     "112376923": {
         "name": "Ted Baker Botanical Birds Towels",
         "url": "https://www.johnlewis.com/ted-baker-botanical-birds-towels/p112376923",
-        "original_price": 18.0,
-        "latest_price": 9.0,
+        "original_price": 56.0,
+        "latest_price": 28.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:35:20.828310",
         "recently_reduced": false,
@@ -576,6 +576,46 @@
         "latest_price": 11.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:24:04.495187",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112097565": {
+        "name": "Salter Extra Wide Analyser Bathroom Scale, Black",
+        "url": "https://www.johnlewis.com/salter-extra-wide-analyser-bathroom-scale-black/p112097565",
+        "original_price": 49.99,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:18:37.197423",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111722191": {
+        "name": "John Lewis Matt Lacquer Shelf, 91cm, Greige",
+        "url": "https://www.johnlewis.com/john-lewis-matt-lacquer-shelf-91cm-greige/p111722191",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:18:37.197423",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111726517": {
+        "name": "John Lewis Reactive Glaze Two Tone Toilet Brush and Holder, Natural",
+        "url": "https://www.johnlewis.com/john-lewis-reactive-glaze-two-tone-toilet-brush-and-holder-natural/p111726517",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:18:37.197423",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110320770": {
+        "name": "John Lewis Quick Dry Towels",
+        "url": "https://www.johnlewis.com/john-lewis-quick-dry-towels/p110320770",
+        "original_price": 9.0,
+        "latest_price": 4.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:18:37.197423",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

@@ -112,12 +112,12 @@
     "113391879": {
         "name": "John Lewis Christmas Star Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-christmas-star-duvet-cover-set/p113391879",
-        "original_price": 95.0,
-        "latest_price": 47.5,
+        "original_price": 75.0,
+        "latest_price": 37.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T16:14:15.671711"
     },
     "113780084": {
         "name": "Dusk Cotton Sateen Bedding",
@@ -152,12 +152,12 @@
     "113391871": {
         "name": "John Lewis Christmas Gingham Brushed Cotton Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-christmas-gingham-brushed-cotton-duvet-cover-set/p113391871",
-        "original_price": 85.0,
-        "latest_price": 42.5,
+        "original_price": 75.0,
+        "latest_price": 37.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-09T16:14:15.671711"
     },
     "111476837": {
         "name": "John Lewis Micro-Fresh\u00ae Anti-Allergy Mattress Protector, Moses Basket",
@@ -426,6 +426,26 @@
         "latest_price": 45.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:29:52.912295",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113285720": {
+        "name": "Laura Ashley Linlithgow Duvet Cover Set",
+        "url": "https://www.johnlewis.com/laura-ashley-linlithgow-duvet-cover-set/p113285720",
+        "original_price": 105.0,
+        "latest_price": 52.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:14:15.671711",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112624853": {
+        "name": "John Lewis Summer Bloom Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-summer-bloom-duvet-cover-set/p112624853",
+        "original_price": 85.0,
+        "latest_price": 42.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:14:15.671711",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

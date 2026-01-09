@@ -11,7 +11,7 @@
     },
     "6428373": {
         "name": "John Lewis Scalloped Wall Shelf",
-        "url": "https://www.johnlewis.com/john-lewis-scalloped-wall-shelf/p6428373",
+        "url": "https://www.johnlewis.com/john-lewis-scalloped-wall-shelf/pink-grey/p6428373",
         "original_price": 20.0,
         "latest_price": 6.0,
         "stock_status": "In Stock",
@@ -526,6 +526,16 @@
         "latest_price": 124.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:14:36.065020",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111722191": {
+        "name": "John Lewis Matt Lacquer Shelf, 91cm, Greige",
+        "url": "https://www.johnlewis.com/john-lewis-matt-lacquer-shelf-91cm-greige/p111722191",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-09T16:09:49.984583",
         "recently_reduced": false,
         "reduced_timestamp": null
     }
