@@ -183,11 +183,11 @@
         "name": "Seletti 2W E14 LED Gummy Lamp Dream Bulb",
         "url": "https://www.johnlewis.com/seletti-2w-e14-led-gummy-lamp-dream-bulb/p110005370",
         "original_price": 21.0,
-        "latest_price": 10.5,
+        "latest_price": 6.3,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:24:48.309235",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:07:47.294260"
     },
     "1875346": {
         "name": "John Lewis Logan GU10 LED 3 Spotlight Ceiling Plate",
@@ -1496,6 +1496,26 @@
         "latest_price": 17.6,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T21:04:12.726123",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111654955": {
+        "name": "John Lewis ANYDAY Frenchie Glass Ceiling Shade",
+        "url": "https://www.johnlewis.com/john-lewis-anyday-frenchie-glass-ceiling-shade/p111654955",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:07:47.294260",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5445913": {
+        "name": "John Lewis Harry Plug-In Wall Light",
+        "url": "https://www.johnlewis.com/john-lewis-harry-plug-in-wall-light/p5445913",
+        "original_price": 30.0,
+        "latest_price": 15.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:07:47.294260",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

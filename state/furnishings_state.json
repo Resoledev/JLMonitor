@@ -963,7 +963,7 @@
         "name": "John Lewis Velvet Stripe Cushion",
         "url": "https://www.johnlewis.com/john-lewis-velvet-stripe-cushion/p110260942",
         "original_price": 40.0,
-        "latest_price": 12.0,
+        "latest_price": 20.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": true,
@@ -1706,6 +1706,96 @@
         "latest_price": 9.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-10T10:11:33.001506",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113484480": {
+        "name": "John Lewis Mini Stripe Velvet Fringed Cushion, Black",
+        "url": "https://www.johnlewis.com/john-lewis-mini-stripe-velvet-fringed-cushion-black/p113484480",
+        "original_price": 40.0,
+        "latest_price": 20.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112107330": {
+        "name": "John Lewis Koltrast Bird Cushion, Multi",
+        "url": "https://www.johnlewis.com/john-lewis-koltrast-bird-cushion-multi/p112107330",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112014547": {
+        "name": "John Lewis Juni Print Pair Lined Eyelet Curtains",
+        "url": "https://www.johnlewis.com/john-lewis-juni-print-pair-lined-eyelet-curtains/p112014547",
+        "original_price": 140.0,
+        "latest_price": 42.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113285728": {
+        "name": "Laura Ashley Arya Throw, Blush Pink",
+        "url": "https://www.johnlewis.com/laura-ashley-arya-throw-blush-pink/p113285728",
+        "original_price": 57.0,
+        "latest_price": 28.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113117251": {
+        "name": "John Lewis Boucle Quilted Cushion, Marshmallow",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-quilted-cushion-marshmallow/p113117251",
+        "original_price": 35.0,
+        "latest_price": 17.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3392740": {
+        "name": "John Lewis Padstow Stripe Weave Pair Lined Pencil Pleat Curtains, Storm",
+        "url": "https://www.johnlewis.com/john-lewis-padstow-stripe-weave-pair-lined-pencil-pleat-curtains-storm/p3392740",
+        "original_price": 60.0,
+        "latest_price": 18.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111322531": {
+        "name": "John Atkinson by Hainsworth Whip Stitch Wool Blanket",
+        "url": "https://www.johnlewis.com/john-atkinson-by-hainsworth-whip-stitch-wool-blanket/p111322531",
+        "original_price": 130.0,
+        "latest_price": 39.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6432391": {
+        "name": "John Lewis Cora Print Pair Lined Pencil Pleat Curtains, Putty",
+        "url": "https://www.johnlewis.com/john-lewis-cora-print-pair-lined-pencil-pleat-curtains-putty/p6432391",
+        "original_price": 110.0,
+        "latest_price": 33.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "110960347": {
+        "name": "John Lewis Cloud Merino Wool Rug",
+        "url": "https://www.johnlewis.com/john-lewis-cloud-merino-wool-rug/p110960347",
+        "original_price": 275.0,
+        "latest_price": 135.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:16:29.534814",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

@@ -1408,5 +1408,75 @@
         "first_seen": "2026-01-10T10:08:10.472136",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "113476263": {
+        "name": "John Lewis Glass Bauble Candle, 600g",
+        "url": "https://www.johnlewis.com/john-lewis-glass-bauble-candle-600g/p113476263",
+        "original_price": 15.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113476262": {
+        "name": "John Lewis Glass Bauble Candle, 600g",
+        "url": "https://www.johnlewis.com/john-lewis-glass-bauble-candle-600g/p113476262",
+        "original_price": 15.0,
+        "latest_price": 6.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3617206": {
+        "name": "Poole Pottery Maya Fish, Single",
+        "url": "https://www.johnlewis.com/poole-pottery-maya-fish-single/p3617206",
+        "original_price": 55.0,
+        "latest_price": 27.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "5765742": {
+        "name": "Floralsilk Artificial Bishops Flower",
+        "url": "https://www.johnlewis.com/floralsilk-artificial-bishops-flower/p5765742",
+        "original_price": 5.99,
+        "latest_price": 2.99,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "3255675": {
+        "name": "Dartington Crystal Marguerite Large Vase, H18.5cm",
+        "url": "https://www.johnlewis.com/dartington-crystal-marguerite-large-vase-h18-5cm/p3255675",
+        "original_price": 45.0,
+        "latest_price": 22.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111891631": {
+        "name": "John Lewis Winter Spice Inclusion 3 Wick Candle, 1.5kg",
+        "url": "https://www.johnlewis.com/john-lewis-winter-spice-inclusion-3-wick-candle-1-5kg/p111891631",
+        "original_price": 40.0,
+        "latest_price": 19.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113483862": {
+        "name": "John Lewis Pomegranate Spray, Gold",
+        "url": "https://www.johnlewis.com/john-lewis-pomegranate-spray-gold/p113483862",
+        "original_price": 8.0,
+        "latest_price": 2.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:12:05.968728",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

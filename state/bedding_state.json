@@ -62,12 +62,12 @@
     "113184169": {
         "name": "John Lewis Cotton Winter Berry Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-cotton-winter-berry-duvet-cover-set/p113184169",
-        "original_price": 75.0,
-        "latest_price": 37.5,
+        "original_price": 65.0,
+        "latest_price": 32.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:10:05.715753"
     },
     "110486393": {
         "name": "Disney Princess Travel Eye Mask, Blanket & Neck Cushion Sleep Set",
@@ -83,11 +83,11 @@
         "name": "John Atkinson by Hainsworth Whip Stitch Wool Blanket",
         "url": "https://www.johnlewis.com/john-atkinson-by-hainsworth-whip-stitch-wool-blanket/p111322531",
         "original_price": 130.0,
-        "latest_price": 65.0,
+        "latest_price": 39.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:10:05.715753"
     },
     "6372405": {
         "name": "Harlequin Sumi Bedding",
@@ -102,12 +102,12 @@
     "112537299": {
         "name": "John Lewis Two Tone Waffle Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-two-tone-waffle-duvet-cover-set/p112537299",
-        "original_price": 70.0,
-        "latest_price": 35.0,
+        "original_price": 60.0,
+        "latest_price": 30.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:10:05.715753"
     },
     "113391879": {
         "name": "John Lewis Christmas Star Duvet Cover Set",
@@ -192,12 +192,12 @@
     "5830010": {
         "name": "John Lewis + Matthew Williamson Enchanted Garden Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-matthew-williamson-enchanted-garden-duvet-cover-set/p5830010",
-        "original_price": 110.0,
-        "latest_price": 55.0,
+        "original_price": 100.0,
+        "latest_price": 50.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T07:59:39.059178",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:10:05.715753"
     },
     "113341676": {
         "name": "John Lewis Animal Throw, Natural",
@@ -322,12 +322,12 @@
     "113802500": {
         "name": "William Morris At Home Rose Reversible Duvet Cover Set",
         "url": "https://www.johnlewis.com/william-morris-at-home-rose-reversible-duvet-cover-set/p113802500",
-        "original_price": 125.0,
-        "latest_price": 62.5,
+        "original_price": 100.0,
+        "latest_price": 50.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-08T14:19:12.279275",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T12:10:05.715753"
     },
     "3321099": {
         "name": "John Lewis Textured and Decorative Fusion Nisha Stripe Duvet Cover Set",
@@ -412,8 +412,8 @@
     "111732032": {
         "name": "John Lewis Gingham Duvet Cover Set, Red Berry",
         "url": "https://www.johnlewis.com/john-lewis-gingham-duvet-cover-set-red-berry/p111732032",
-        "original_price": 75.0,
-        "latest_price": 37.5,
+        "original_price": 100.0,
+        "latest_price": 50.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:29:52.912295",
         "recently_reduced": false,
@@ -506,6 +506,46 @@
         "latest_price": 35.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6207738": {
+        "name": "John Lewis + Matthew Williamson Forest Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-matthew-williamson-forest-duvet-cover-set/p6207738",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:10:05.715753",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113285728": {
+        "name": "Laura Ashley Arya Throw, Blush Pink",
+        "url": "https://www.johnlewis.com/laura-ashley-arya-throw-blush-pink/p113285728",
+        "original_price": 57.0,
+        "latest_price": 28.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:10:05.715753",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113307055": {
+        "name": "John Lewis 600 Thread Count Supima Cotton Sateen Fitted Sheet",
+        "url": "https://www.johnlewis.com/john-lewis-600-thread-count-supima-cotton-sateen-fitted-sheet/p113307055",
+        "original_price": 55.0,
+        "latest_price": 16.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:10:05.715753",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113162006": {
+        "name": "John Lewis Candy Cane Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-candy-cane-duvet-cover-set/p113162006",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T12:10:05.715753",
         "recently_reduced": false,
         "reduced_timestamp": null
     }
