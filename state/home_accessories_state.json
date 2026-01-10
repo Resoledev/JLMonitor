@@ -1398,5 +1398,15 @@
         "first_seen": "2026-01-09T16:16:44.460786",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "4287412": {
+        "name": "John Lewis Enamel & Metallic Edge Photo Frame",
+        "url": "https://www.johnlewis.com/john-lewis-enamel-metallic-edge-photo-frame/mustard/p4287412",
+        "original_price": 18.0,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:08:10.472136",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

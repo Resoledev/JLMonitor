@@ -618,5 +618,15 @@
         "first_seen": "2026-01-09T16:18:37.197423",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "112997389": {
+        "name": "Morris & Co. Elmcote Towels",
+        "url": "https://www.johnlewis.com/morris-co-elmcote-towels/p112997389",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:09:25.836234",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

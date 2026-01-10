@@ -458,5 +458,55 @@
         "first_seen": "2026-01-09T21:06:28.356693",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "112904028": {
+        "name": "Morris & Co. Spring Thicket Duvet Cover Set",
+        "url": "https://www.johnlewis.com/morris-co-spring-thicket-duvet-cover-set/p112904028",
+        "original_price": 95.0,
+        "latest_price": 47.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113802504": {
+        "name": "William Morris At Home Strawberry Thief Reversible Duvet Cover Set",
+        "url": "https://www.johnlewis.com/william-morris-at-home-strawberry-thief-reversible-duvet-cover-set/p113802504",
+        "original_price": 70.0,
+        "latest_price": 35.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111370763": {
+        "name": "John Lewis Quilted Microfibre Mattress Protector",
+        "url": "https://www.johnlewis.com/john-lewis-quilted-microfibre-mattress-protector/p111370763",
+        "original_price": 12.5,
+        "latest_price": 6.25,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "4855124": {
+        "name": "John Lewis Crisp and Fresh Ella Origami Cotton Bedding",
+        "url": "https://www.johnlewis.com/john-lewis-crisp-and-fresh-ella-origami-cotton-bedding/p4855124",
+        "original_price": 16.0,
+        "latest_price": 8.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111284420": {
+        "name": "Morris & Co. X Emery Walker's House Bird Duvet Cover Set",
+        "url": "https://www.johnlewis.com/morris-co-x-emery-walkers-house-bird-duvet-cover-set/p111284420",
+        "original_price": 70.0,
+        "latest_price": 35.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:06:31.122436",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

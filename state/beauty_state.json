@@ -43,11 +43,11 @@
         "name": "Bloom & Bay Aster Headband",
         "url": "https://www.johnlewis.com/bloom-bay-aster-headband/p114313372",
         "original_price": 22.95,
-        "latest_price": 11.0,
+        "latest_price": 9.9,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "146904": {
         "name": "Philosophy Microdelivery Peel Kit",
@@ -83,11 +83,11 @@
         "name": "Bloom & Bay Ayanna Embellished Headband, Gold",
         "url": "https://www.johnlewis.com/bloom-bay-ayanna-embellished-headband-gold/p114313373",
         "original_price": 22.95,
-        "latest_price": 11.0,
+        "latest_price": 9.9,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "113779603": {
         "name": "John Lewis Aria Leopard Headband, Black",
@@ -151,7 +151,7 @@
     },
     "3595465": {
         "name": "Too Faced Born This Way Foundation",
-        "url": "https://www.johnlewis.com/too-faced-born-this-way-foundation/p3595465",
+        "url": "https://www.johnlewis.com/too-faced-born-this-way-foundation/mocha/p3595465",
         "original_price": 38.0,
         "latest_price": 19.0,
         "stock_status": "In Stock",
@@ -203,11 +203,11 @@
         "name": "Bloom & Bay Jasmine Hair Claws, Pack of 2, Grey/Black",
         "url": "https://www.johnlewis.com/bloom-bay-jasmine-hair-claws-pack-of-2-grey-black/p114313380",
         "original_price": 24.95,
-        "latest_price": 10.0,
+        "latest_price": 9.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
         "recently_reduced": true,
-        "reduced_timestamp": "2026-01-09T07:44:25.730933"
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "114220850": {
         "name": "Chantecaille Lip Cr\u00e8me \u00c9clat Cristalline Collection, Barberry",
@@ -313,21 +313,21 @@
         "name": "Bloom & Bay Ayanna Headband",
         "url": "https://www.johnlewis.com/bloom-bay-ayanna-headband/p114313374",
         "original_price": 22.95,
-        "latest_price": 7.0,
+        "latest_price": 6.3,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
         "recently_reduced": true,
-        "reduced_timestamp": "2026-01-09T07:44:25.730933"
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "111061797": {
         "name": "Bloom & Bay Viola Triangular Hair Claws, Pack of 2",
         "url": "https://www.johnlewis.com/bloom-bay-viola-triangular-hair-claws-pack-of-2/p111061797",
         "original_price": 24.95,
-        "latest_price": 10.0,
+        "latest_price": 9.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T19:04:35.209554",
         "recently_reduced": true,
-        "reduced_timestamp": "2026-01-09T07:44:25.730933"
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "113429331": {
         "name": "Briogeo Don\u2019t Despair, Repair!\u2122 Rosehip + Algae Deep Conditioning Mask Travel Size, 59ml",
@@ -1033,11 +1033,11 @@
         "name": "Bloom & Bay Leopard Make Up Bag, Pink",
         "url": "https://www.johnlewis.com/bloom-bay-leopard-make-up-bag-pink/p114313392",
         "original_price": 29.95,
-        "latest_price": 9.0,
+        "latest_price": 8.1,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "113888096": {
         "name": "Est\u00e9e Lauder Skincare Superstars Beauty Of The Night Gift Set",
@@ -1053,51 +1053,51 @@
         "name": "Bloom & Bay Maya Claw Hair Clips, Set of 3, Black/Multi",
         "url": "https://www.johnlewis.com/bloom-bay-maya-claw-hair-clips-set-of-3-black-multi/p112512902",
         "original_price": 15.95,
-        "latest_price": 6.0,
+        "latest_price": 5.4,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "112512947": {
         "name": "Bloom & Bay Saphron Hair Bow, Black",
         "url": "https://www.johnlewis.com/bloom-bay-saphron-hair-bow-black/p112512947",
         "original_price": 17.95,
-        "latest_price": 7.0,
+        "latest_price": 6.3,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "114313375": {
         "name": "Bloom & Bay Cosmos Embellished Headband, Black",
         "url": "https://www.johnlewis.com/bloom-bay-cosmos-embellished-headband-black/p114313375",
         "original_price": 17.95,
-        "latest_price": 7.0,
+        "latest_price": 6.3,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "114313389": {
         "name": "Bloom & Bay Starfall Satin Headband, Black",
         "url": "https://www.johnlewis.com/bloom-bay-starfall-satin-headband-black/p114313389",
         "original_price": 22.95,
-        "latest_price": 11.0,
+        "latest_price": 9.9,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "114313379": {
         "name": "Bloom & Bay Ixora Headband, Brown",
         "url": "https://www.johnlewis.com/bloom-bay-ixora-headband-brown/p114313379",
         "original_price": 18.95,
-        "latest_price": 9.0,
+        "latest_price": 8.1,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "113842746": {
         "name": "John Lewis The After Party Cracker",
@@ -1113,11 +1113,11 @@
         "name": "Bloom & Bay Arrabelle Satin Headband, Cream",
         "url": "https://www.johnlewis.com/bloom-bay-arrabelle-satin-headband-cream/p113180112",
         "original_price": 17.95,
-        "latest_price": 5.0,
+        "latest_price": 4.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:44:25.730933",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-10T10:19:43.998508"
     },
     "113702686": {
         "name": "Bobbi Brown Limited Edition Holiday Long-Wear Cream Shadow Stick",
@@ -1136,6 +1136,106 @@
         "latest_price": 20.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T16:31:49.027781",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113180128": {
+        "name": "Bloom & Bay Elaine Ruched Headband",
+        "url": "https://www.johnlewis.com/bloom-bay-elaine-ruched-headband/p113180128",
+        "original_price": 17.95,
+        "latest_price": 8.1,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112504319": {
+        "name": "Wayne Goss White Gold Collection 4 Angled Bronzer Brush",
+        "url": "https://www.johnlewis.com/wayne-goss-white-gold-collection-4-angled-bronzer-brush/p112504319",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111061799": {
+        "name": "Bloom & Bay Dahlia Hair Claw",
+        "url": "https://www.johnlewis.com/bloom-bay-dahlia-hair-claw/p111061799",
+        "original_price": 19.95,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111599169": {
+        "name": "Bloom & Bay Olive Pearlescent Swirl & Tortoiseshell Claw Set, Cream/Brown",
+        "url": "https://www.johnlewis.com/bloom-bay-olive-pearlescent-swirl-tortoiseshell-claw-set-cream-brown/p111599169",
+        "original_price": 19.95,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313383": {
+        "name": "Bloom & Bay Melody Bow Hair Clip, Black",
+        "url": "https://www.johnlewis.com/bloom-bay-melody-bow-hair-clip-black/p114313383",
+        "original_price": 15.95,
+        "latest_price": 7.2,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313387": {
+        "name": "Bloom & Bay Posie Hair Claw Clip, Cream",
+        "url": "https://www.johnlewis.com/bloom-bay-posie-hair-claw-clip-cream/p114313387",
+        "original_price": 17.95,
+        "latest_price": 8.1,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313385": {
+        "name": "Bloom & Bay Olive Claw Hair Clips, Pack of 2, Burgundy/Brown",
+        "url": "https://www.johnlewis.com/bloom-bay-olive-claw-hair-clips-pack-of-2-burgundy-brown/p114313385",
+        "original_price": 19.95,
+        "latest_price": 9.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313388": {
+        "name": "Bloom & Bay Raven Embellished Hair Bow, Black",
+        "url": "https://www.johnlewis.com/bloom-bay-raven-embellished-hair-bow-black/p114313388",
+        "original_price": 17.95,
+        "latest_price": 8.1,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111061802": {
+        "name": "Bloom & Bay Gaia Mini Hair Claw Clip Set, Pack of 3, Black/Multi",
+        "url": "https://www.johnlewis.com/bloom-bay-gaia-mini-hair-claw-clip-set-pack-of-3-black-multi/p111061802",
+        "original_price": 15.95,
+        "latest_price": 7.2,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "114313378": {
+        "name": "Bloom & Bay Gracie Hair Claw Clip, Cream",
+        "url": "https://www.johnlewis.com/bloom-bay-gracie-hair-claw-clip-cream/p114313378",
+        "original_price": 15.95,
+        "latest_price": 7.2,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:19:43.998508",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

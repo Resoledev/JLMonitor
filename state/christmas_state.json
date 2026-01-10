@@ -141,7 +141,7 @@
     },
     "113510015": {
         "name": "John Lewis Alphabet Stocking Tree Decoration",
-        "url": "https://www.johnlewis.com/john-lewis-alphabet-stocking-tree-decoration/u/p113510015",
+        "url": "https://www.johnlewis.com/john-lewis-alphabet-stocking-tree-decoration/p113510015",
         "original_price": 8.0,
         "latest_price": 2.25,
         "stock_status": "In Stock",
@@ -2206,6 +2206,16 @@
         "latest_price": 13.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T16:23:44.300969",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111176212": {
+        "name": "Wash+Dry Christmas Gonks Door Mat",
+        "url": "https://www.johnlewis.com/wash-dry-christmas-gonks-door-mat/grey/p111176212",
+        "original_price": 31.95,
+        "latest_price": 9.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-10T10:12:47.047344",
         "recently_reduced": false,
         "reduced_timestamp": null
     }
