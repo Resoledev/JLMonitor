@@ -1518,5 +1518,25 @@
         "first_seen": "2026-01-10T12:07:47.294260",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "111651234": {
+        "name": "John Lewis Lumia Tapered Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-lumia-tapered-lampshade/p111651234",
+        "original_price": 25.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T10:08:19.208481",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111971668": {
+        "name": "John Lewis Scallop Tapered Lampshade",
+        "url": "https://www.johnlewis.com/john-lewis-scallop-tapered-lampshade/soft-blue-putty/p111971668",
+        "original_price": 25.0,
+        "latest_price": 12.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T10:08:19.208481",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

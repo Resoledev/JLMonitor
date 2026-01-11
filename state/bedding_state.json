@@ -548,5 +548,15 @@
         "first_seen": "2026-01-10T12:10:05.715753",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "4899330": {
+        "name": "John Lewis Stag Scene Duvet Cover Set",
+        "url": "https://www.johnlewis.com/john-lewis-stag-scene-duvet-cover-set/p4899330",
+        "original_price": 65.0,
+        "latest_price": 32.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T10:09:49.832310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

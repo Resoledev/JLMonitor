@@ -122,12 +122,12 @@
     "3967052": {
         "name": "John Lewis Rona Weave Pair Lined Eyelet Curtains",
         "url": "https://www.johnlewis.com/john-lewis-rona-weave-pair-lined-eyelet-curtains/p3967052",
-        "original_price": 200.0,
-        "latest_price": 100.0,
+        "original_price": 150.0,
+        "latest_price": 75.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-11T10:15:19.562924"
     },
     "112452023": {
         "name": "John Lewis Ikat Stripe Cushion, Multi",
@@ -751,7 +751,7 @@
     },
     "4249046": {
         "name": "John Lewis Stripe Seat Pad",
-        "url": "https://www.johnlewis.com/john-lewis-stripe-seat-pad/p4249046",
+        "url": "https://www.johnlewis.com/john-lewis-stripe-seat-pad/mustard/p4249046",
         "original_price": 15.0,
         "latest_price": 7.5,
         "stock_status": "In Stock",
@@ -963,11 +963,11 @@
         "name": "John Lewis Velvet Stripe Cushion",
         "url": "https://www.johnlewis.com/john-lewis-velvet-stripe-cushion/p110260942",
         "original_price": 40.0,
-        "latest_price": 20.0,
+        "latest_price": 12.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:42:56.256442",
         "recently_reduced": true,
-        "reduced_timestamp": "2026-01-09T07:35:38.061780"
+        "reduced_timestamp": "2026-01-11T10:15:19.562924"
     },
     "111933690": {
         "name": "John Lewis Ferns Frill Cushion, Multi",
