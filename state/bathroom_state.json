@@ -612,12 +612,12 @@
     "110320770": {
         "name": "John Lewis Quick Dry Towels",
         "url": "https://www.johnlewis.com/john-lewis-quick-dry-towels/p110320770",
-        "original_price": 9.0,
-        "latest_price": 4.5,
+        "original_price": 5.0,
+        "latest_price": 2.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T16:18:37.197423",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-11T12:43:10.435601"
     },
     "112997389": {
         "name": "Morris & Co. Elmcote Towels",

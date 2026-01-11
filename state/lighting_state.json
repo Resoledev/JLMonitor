@@ -923,7 +923,7 @@
         "name": "John Lewis Tameo 5 Arm Flush Ceiling Light, Chrome",
         "url": "https://www.johnlewis.com/john-lewis-tameo-5-arm-flush-ceiling-light-chrome/p112192882",
         "original_price": 195.0,
-        "latest_price": 97.0,
+        "latest_price": 97.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:24:48.309235",
         "recently_reduced": true,
@@ -1001,7 +1001,7 @@
     },
     "109752388": {
         "name": "John Lewis Ribbed Ceramic Lamp Base",
-        "url": "https://www.johnlewis.com/john-lewis-ribbed-ceramic-lamp-base/teal/p109752388",
+        "url": "https://www.johnlewis.com/john-lewis-ribbed-ceramic-lamp-base/p109752388",
         "original_price": 90.0,
         "latest_price": 45.0,
         "stock_status": "In Stock",
@@ -1341,7 +1341,7 @@
     },
     "112331149": {
         "name": "John Lewis The Potter's Wheel Tall Ceramic Table Lamp",
-        "url": "https://www.johnlewis.com/john-lewis-the-potters-wheel-tall-ceramic-table-lamp/black/p112331149",
+        "url": "https://www.johnlewis.com/john-lewis-the-potters-wheel-tall-ceramic-table-lamp/p112331149",
         "original_price": 160.0,
         "latest_price": 80.0,
         "stock_status": "In Stock",
@@ -1536,6 +1536,56 @@
         "latest_price": 12.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-11T10:08:19.208481",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "6438428": {
+        "name": "John Lewis Notton Scallop Table Lamp, Distressed White",
+        "url": "https://www.johnlewis.com/john-lewis-notton-scallop-table-lamp-distressed-white/p6438428",
+        "original_price": 125.0,
+        "latest_price": 62.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:37:49.931605",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112274414": {
+        "name": "John Lewis Bourton Crackle Ceramic Table Lamp, White",
+        "url": "https://www.johnlewis.com/john-lewis-bourton-crackle-ceramic-table-lamp-white/p112274414",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:37:49.931605",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "111645087": {
+        "name": "John Lewis Poppy Ceiling Light",
+        "url": "https://www.johnlewis.com/john-lewis-poppy-ceiling-light/p111645087",
+        "original_price": 250.0,
+        "latest_price": 125.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:37:49.931605",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112221820": {
+        "name": "John Lewis Pebble Table Lamp, Black",
+        "url": "https://www.johnlewis.com/john-lewis-pebble-table-lamp-black/p112221820",
+        "original_price": 140.0,
+        "latest_price": 70.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:37:49.931605",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112221799": {
+        "name": "John Lewis Hourglass Reactive Table Lamp, Blue",
+        "url": "https://www.johnlewis.com/john-lewis-hourglass-reactive-table-lamp-blue/p112221799",
+        "original_price": 90.0,
+        "latest_price": 45.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:37:49.931605",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

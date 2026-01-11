@@ -152,8 +152,8 @@
     "113391871": {
         "name": "John Lewis Christmas Gingham Brushed Cotton Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-christmas-gingham-brushed-cotton-duvet-cover-set/p113391871",
-        "original_price": 75.0,
-        "latest_price": 37.5,
+        "original_price": 85.0,
+        "latest_price": 42.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-07T18:27:16.921076",
         "recently_reduced": true,
@@ -412,18 +412,18 @@
     "111732032": {
         "name": "John Lewis Gingham Duvet Cover Set, Red Berry",
         "url": "https://www.johnlewis.com/john-lewis-gingham-duvet-cover-set-red-berry/p111732032",
-        "original_price": 100.0,
-        "latest_price": 50.0,
+        "original_price": 85.0,
+        "latest_price": 42.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:29:52.912295",
-        "recently_reduced": false,
-        "reduced_timestamp": null
+        "recently_reduced": true,
+        "reduced_timestamp": "2026-01-11T12:39:45.619285"
     },
     "111913953": {
         "name": "John Lewis X Collagerie Ikat Stripe Duvet Cover Set",
         "url": "https://www.johnlewis.com/john-lewis-x-collagerie-ikat-stripe-duvet-cover-set/p111913953",
-        "original_price": 90.0,
-        "latest_price": 45.0,
+        "original_price": 100.0,
+        "latest_price": 50.0,
         "stock_status": "In Stock",
         "first_seen": "2026-01-09T07:29:52.912295",
         "recently_reduced": false,
@@ -556,6 +556,16 @@
         "latest_price": 32.5,
         "stock_status": "In Stock",
         "first_seen": "2026-01-11T10:09:49.832310",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "113780060": {
+        "name": "Dusk Marion Washed Cotton Bedding",
+        "url": "https://www.johnlewis.com/dusk-marion-washed-cotton-bedding/p113780060",
+        "original_price": 42.0,
+        "latest_price": 21.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:39:45.619285",
         "recently_reduced": false,
         "reduced_timestamp": null
     }

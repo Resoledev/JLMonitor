@@ -1478,5 +1478,25 @@
         "first_seen": "2026-01-10T12:12:05.968728",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "111147699": {
+        "name": "John Lewis British Landscape Woodland Diffuser Refill, 200ml",
+        "url": "https://www.johnlewis.com/john-lewis-british-landscape-woodland-diffuser-refill-200ml/p111147699",
+        "original_price": 15.0,
+        "latest_price": 7.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:41:33.039109",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112895023": {
+        "name": "Talking Tables Age 40 Birthday Candles, Gold Ombre",
+        "url": "https://www.johnlewis.com/talking-tables-age-40-birthday-candles-gold-ombre/p112895023",
+        "original_price": 5.0,
+        "latest_price": 1.5,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:41:33.039109",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }

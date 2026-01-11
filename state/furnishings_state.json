@@ -1798,5 +1798,35 @@
         "first_seen": "2026-01-10T12:16:29.534814",
         "recently_reduced": false,
         "reduced_timestamp": null
+    },
+    "5313755": {
+        "name": "John Lewis Langley Leaf Weave Pair Lined Pencil Pleat Curtains",
+        "url": "https://www.johnlewis.com/john-lewis-langley-leaf-weave-pair-lined-pencil-pleat-curtains/p5313755",
+        "original_price": 160.0,
+        "latest_price": 48.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:45:30.541812",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112549453": {
+        "name": "John Lewis Boucle Pair Blackout/Thermal Lined Eyelet Curtains",
+        "url": "https://www.johnlewis.com/john-lewis-boucle-pair-blackout-thermal-lined-eyelet-curtains/marshmallow/p112549453",
+        "original_price": 100.0,
+        "latest_price": 50.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:45:30.541812",
+        "recently_reduced": false,
+        "reduced_timestamp": null
+    },
+    "112922617": {
+        "name": "John Lewis Hidcote Cushion",
+        "url": "https://www.johnlewis.com/john-lewis-hidcote-cushion/p112922617",
+        "original_price": 20.0,
+        "latest_price": 7.0,
+        "stock_status": "In Stock",
+        "first_seen": "2026-01-11T12:45:30.541812",
+        "recently_reduced": false,
+        "reduced_timestamp": null
     }
 }
